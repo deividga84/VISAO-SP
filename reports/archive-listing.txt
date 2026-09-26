@@ -1,0 +1,4189 @@
+
+7-Zip 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
+ 64-bit locale=C.UTF-8 Threads:6 OPEN_MAX:65535
+
+Scanning the drive for archives:
+1 file, 858732614 bytes (819 MiB)
+
+Listing archive: /home/ubuntu/upload/DataEspecial10kv1.0✨(ComPostes&TodasGPUS)-SampMobile.7z
+
+--
+Path = /home/ubuntu/upload/DataEspecial10kv1.0✨(ComPostes&TodasGPUS)-SampMobile.7z
+Type = 7z
+Physical Size = 858732614
+Headers Size = 6131
+Method = LZMA2:25
+Solid = -
+Blocks = 378
+
+----------
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:25:42.1329348
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:18.2489349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:41.3609349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/AZVoice
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 18:46:01.0000000
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:19.6369349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/anim
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:19.9049349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:20.7769349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:20.3369349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/SFX
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:20.7169349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:21.8649349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:31.2169349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:23.2889349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:23.2009349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:29.7329349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:27.3569349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:28.6929349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:24.3329349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/generic
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:24.7169349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:26.2089349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:27.7929349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:29.6009349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/veh_mods
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:29.7929349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/paths
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:30.2089349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/script
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:31.1609349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/fonts
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:31.3609349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/models
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:31.6289349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/models/coll
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:31.5409349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:40.8649349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:40.1729349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:33.2089349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:33.8529349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:35.3929349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:36.2649349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/player
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:36.5929349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/playerhi
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:36.9809349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:38.1169349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:39.1409349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:22:40.8049349
+Attributes = D drwxrws---
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/playvicio.txt
+Size = 0
+Packed Size = 0
+Modified = 2023-05-01 21:19:24.0000000
+Attributes = A -rw-rw----
+CRC = 
+Encrypted = -
+Method = 
+Block = 
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/Adjustable.cfg
+Size = 1035
+Packed Size = 382
+Modified = 2023-04-30 20:27:21.0000000
+Attributes = A -rw-rw----
+CRC = EB7A690C
+Encrypted = -
+Method = LZMA2:25
+Block = 0
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/CINFO.BIN
+Size = 634064
+Packed Size = 414230
+Modified = 2023-05-01 21:20:32.0000000
+Attributes = A -rw-rw----
+CRC = E9BA25BB
+Encrypted = -
+Method = LZMA2:25
+Block = 1
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/GTASAMP10.b
+Size = 195000
+Packed Size = 16969
+Modified = 2023-05-01 21:21:06.0000000
+Attributes = A -rw-rw----
+CRC = 17EC26D7
+Encrypted = -
+Method = LZMA2:25
+Block = 2
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/SAMP.ide
+Size = 89349
+Packed Size = 15048
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = 03B97D25
+Encrypted = -
+Method = LZMA2:25
+Block = 3
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/WEAPON.dat
+Size = 11585
+Packed Size = 2722
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = B67157D8
+Encrypted = -
+Method = LZMA2:25
+Block = 4
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/bpv.txt
+Size = 1146
+Packed Size = 628
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = D9CD2041
+Encrypted = -
+Method = LZMA2:25
+Block = 5
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/chat.log
+Size = 1772
+Packed Size = 704
+Modified = 2023-05-01 21:20:56.0000000
+Attributes = A -rw-rw----
+CRC = CDD56731
+Encrypted = -
+Method = LZMA2:25
+Block = 6
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/colorcycle.dat
+Size = 14627
+Packed Size = 128
+Modified = 2023-05-01 18:29:21.0000000
+Attributes = A -rw-rw----
+CRC = CE1E053B
+Encrypted = -
+Method = LZMA2:25
+Block = 7
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/crash.log
+Size = 188
+Packed Size = 159
+Modified = 2023-05-01 21:20:25.0000000
+Attributes = A -rw-rw----
+CRC = 919E77BD
+Encrypted = -
+Method = LZMA2:25
+Block = 8
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/crash_log.log
+Size = 9
+Packed Size = 13
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = D3699212
+Encrypted = -
+Method = LZMA2:25
+Block = 9
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/favorites.json
+Size = 228
+Packed Size = 82
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = 6C0F3C9B
+Encrypted = -
+Method = LZMA2:25
+Block = 10
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/gta.dat
+Size = 3789
+Packed Size = 727
+Modified = 2023-04-30 18:39:11.0000000
+Attributes = A -rw-rw----
+CRC = 0CFAA4CA
+Encrypted = -
+Method = LZMA2:25
+Block = 11
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/handling.cfg
+Size = 64532
+Packed Size = 10586
+Modified = 2023-04-30 20:17:41.0000000
+Attributes = A -rw-rw----
+CRC = 8A7769B0
+Encrypted = -
+Method = LZMA2:25
+Block = 12
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/jekmant_log.txt
+Size = 1139
+Packed Size = 608
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = 5A6CF76A
+Encrypted = -
+Method = LZMA2:25
+Block = 13
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/main.scm
+Size = 96997
+Packed Size = 16774
+Modified = 2023-04-30 18:39:11.0000000
+Attributes = A -rw-rw----
+CRC = 59CD7DDD
+Encrypted = -
+Method = LZMA2:25
+Block = 14
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/peds.ide
+Size = 36369
+Packed Size = 5609
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = 41B63785
+Encrypted = -
+Method = LZMA2:25
+Block = 15
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/samp.log
+Size = 37134
+Packed Size = 4382
+Modified = 2023-05-01 21:21:06.0000000
+Attributes = A -rw-rw----
+CRC = 8A59991A
+Encrypted = -
+Method = LZMA2:25
+Block = 16
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/samp_log.txt
+Size = 381
+Packed Size = 257
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = 2E653B00
+Encrypted = -
+Method = LZMA2:25
+Block = 17
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/script.img
+Size = 184320
+Packed Size = 38048
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = 6BB4ADEE
+Encrypted = -
+Method = LZMA2:25
+Block = 18
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/server.ini
+Size = 157
+Packed Size = 115
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = 4346DBF7
+Encrypted = -
+Method = LZMA2:25
+Block = 19
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/settings.ini
+Size = 193
+Packed Size = 139
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = 0A4FEC9C
+Encrypted = -
+Method = LZMA2:25
+Block = 20
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/settings.json
+Size = 265
+Packed Size = 197
+Modified = 2023-05-01 21:20:28.0000000
+Attributes = A -rw-rw----
+CRC = F3D43ACB
+Encrypted = -
+Method = LZMA2:25
+Block = 21
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/svlog.txt
+Size = 7091
+Packed Size = 1064
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = 2246E7EB
+Encrypted = -
+Method = LZMA2:25
+Block = 22
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/timecyc.dat
+Size = 56445
+Packed Size = 2164
+Modified = 2023-04-30 19:06:59.0000000
+Attributes = A -rw-rw----
+CRC = 4D29D8AD
+Encrypted = -
+Method = LZMA2:25
+Block = 23
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/tracks2.dat
+Size = 1
+Packed Size = 5
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = F4DBDF21
+Encrypted = -
+Method = LZMA2:25
+Block = 24
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/tracks4.dat
+Size = 1
+Packed Size = 5
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = F4DBDF21
+Encrypted = -
+Method = LZMA2:25
+Block = 25
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/vehicleAudioSettings.cfg
+Size = 22642
+Packed Size = 3759
+Modified = 2023-05-01 21:19:17.0000000
+Attributes = A -rw-rw----
+CRC = 850A4A0B
+Encrypted = -
+Method = LZMA2:25
+Block = 26
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/vehicles.ide
+Size = 21093
+Packed Size = 5181
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = 72A5694A
+Encrypted = -
+Method = LZMA2:25
+Block = 27
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/voice.log
+Size = 68
+Packed Size = 52
+Modified = 2023-05-01 21:20:33.0000000
+Attributes = A -rw-rw----
+CRC = E59422CB
+Encrypted = -
+Method = LZMA2:25
+Block = 28
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/SAMP/voiceconfig.ini
+Size = 382
+Packed Size = 175
+Modified = 2023-05-01 21:19:18.0000000
+Attributes = A -rw-rw----
+CRC = E95B2D1B
+Encrypted = -
+Method = LZMA2:25
+Block = 29
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/anim/anim.img
+Size = 10942464
+Packed Size = 3679938
+Modified = 2023-04-30 19:03:04.0000000
+Attributes = A -rw-rw----
+CRC = C3E4BC1D
+Encrypted = -
+Method = LZMA2:25
+Block = 30
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/anim/cuts.img
+Size = 16029696
+Packed Size = 5285247
+Modified = 2023-04-30 19:03:04.0000000
+Attributes = A -rw-rw----
+CRC = 02A0FD1A
+Encrypted = -
+Method = LZMA2:25
+Block = 31
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/anim/ped.ifp
+Size = 3778466
+Packed Size = 1277166
+Modified = 2023-04-30 20:22:48.0000000
+Attributes = A -rw-rw----
+CRC = 0F1D2D4E
+Encrypted = -
+Method = LZMA2:25
+Block = 32
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/AudioEventHistory.txt
+Size = 114056
+Packed Size = 9218
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 4F1007F0
+Encrypted = -
+Method = LZMA2:25
+Block = 33
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/BankLkup.dat
+Size = 8520
+Packed Size = 4772
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 2EED740F
+Encrypted = -
+Method = LZMA2:25
+Block = 34
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/BankSlot.dat
+Size = 216902
+Packed Size = 443
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = A9FA35BE
+Encrypted = -
+Method = LZMA2:25
+Block = 35
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/EventVol.dat
+Size = 45402
+Packed Size = 471
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 03CDBF5D
+Encrypted = -
+Method = LZMA2:25
+Block = 36
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/PakFiles.dat
+Size = 468
+Packed Size = 65
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 9FC59E12
+Encrypted = -
+Method = LZMA2:25
+Block = 37
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/SOUNDINF.DAT
+Size = 746760
+Packed Size = 227558
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 876D99A6
+Encrypted = -
+Method = LZMA2:25
+Block = 38
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/StrmPaks.dat
+Size = 272
+Packed Size = 80
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 08FB1828
+Encrypted = -
+Method = LZMA2:25
+Block = 39
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/TRKHEAD.DAT
+Size = 15506696
+Packed Size = 15306
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 4BCF4014
+Encrypted = -
+Method = LZMA2:25
+Block = 40
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/CONFIG/TrakLkup.dat
+Size = 23064
+Packed Size = 11721
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = E66406F6
+Encrypted = -
+Method = LZMA2:25
+Block = 41
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/SFX/FEET.osw
+Size = 488142
+Packed Size = 351280
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 859C7F64
+Encrypted = -
+Method = LZMA2:25
+Block = 42
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/SFX/FEET.osw.idx
+Size = 1220
+Packed Size = 312
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 0A6DB58C
+Encrypted = -
+Method = LZMA2:25
+Block = 43
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/SFX/GENRL.osw
+Size = 51349909
+Packed Size = 39702605
+Modified = 2023-04-30 20:07:08.0000000
+Attributes = A -rw-rw----
+CRC = 8ADA0BD0
+Encrypted = -
+Method = LZMA2:25
+Block = 44
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/SFX/GENRL.osw.idx
+Size = 21028
+Packed Size = 4461
+Modified = 2023-04-30 20:07:09.0000000
+Attributes = A -rw-rw----
+CRC = 74F0F87D
+Encrypted = -
+Method = LZMA2:25
+Block = 45
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/SFX/PAIN_A.osw
+Size = 3247335
+Packed Size = 3081935
+Modified = 2023-04-30 20:07:09.0000000
+Attributes = A -rw-rw----
+CRC = 6C99F459
+Encrypted = -
+Method = LZMA2:25
+Block = 46
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/SFX/PAIN_A.osw.idx
+Size = 12836
+Packed Size = 2209
+Modified = 2023-04-30 20:07:09.0000000
+Attributes = A -rw-rw----
+CRC = 994F50B3
+Encrypted = -
+Method = LZMA2:25
+Block = 47
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/AA.osw
+Size = 63250
+Packed Size = 1277
+Modified = 2023-04-30 20:07:17.0000000
+Attributes = A -rw-rw----
+CRC = 62DE58BF
+Encrypted = -
+Method = LZMA2:25
+Block = 48
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/AA.osw.idx
+Size = 1522
+Packed Size = 330
+Modified = 2023-04-30 20:07:17.0000000
+Attributes = A -rw-rw----
+CRC = 144BFC2B
+Encrypted = -
+Method = LZMA2:25
+Block = 49
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/ADVERTS.osw
+Size = 113788483
+Packed Size = 101163439
+Modified = 2023-04-30 20:07:18.0000000
+Attributes = A -rw-rw----
+CRC = 2466C63C
+Encrypted = -
+Method = LZMA2:25
+Block = 50
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/ADVERTS.osw.idx
+Size = 671
+Packed Size = 317
+Modified = 2023-04-30 20:07:18.0000000
+Attributes = A -rw-rw----
+CRC = BAACCA30
+Encrypted = -
+Method = LZMA2:25
+Block = 51
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/AMBIENCE.osw
+Size = 23798784
+Packed Size = 23384551
+Modified = 2023-04-30 20:07:18.0000000
+Attributes = A -rw-rw----
+CRC = 12CCBA09
+Encrypted = -
+Method = LZMA2:25
+Block = 52
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/AMBIENCE.osw.idx
+Size = 924
+Packed Size = 396
+Modified = 2023-04-30 20:07:18.0000000
+Attributes = A -rw-rw----
+CRC = E865E05C
+Encrypted = -
+Method = LZMA2:25
+Block = 53
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/BEATS.osw
+Size = 6838908
+Packed Size = 6734122
+Modified = 2023-04-30 20:07:18.0000000
+Attributes = A -rw-rw----
+CRC = 9F3B36A0
+Encrypted = -
+Method = LZMA2:25
+Block = 54
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/BEATS.osw.idx
+Size = 234
+Packed Size = 127
+Modified = 2023-04-30 20:07:18.0000000
+Attributes = A -rw-rw----
+CRC = BD257D46
+Encrypted = -
+Method = LZMA2:25
+Block = 55
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CH.osw
+Size = 124562
+Packed Size = 1602
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 74F7A88E
+Encrypted = -
+Method = LZMA2:25
+Block = 56
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CH.osw.idx
+Size = 2994
+Packed Size = 563
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = A49DFAD8
+Encrypted = -
+Method = LZMA2:25
+Block = 57
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CO.osw
+Size = 148512
+Packed Size = 1715
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 020FE60B
+Encrypted = -
+Method = LZMA2:25
+Block = 58
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CO.osw.idx
+Size = 3569
+Packed Size = 656
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = A690A357
+Encrypted = -
+Method = LZMA2:25
+Block = 59
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CR.osw
+Size = 149470
+Packed Size = 1710
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = FA096C75
+Encrypted = -
+Method = LZMA2:25
+Block = 60
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CR.osw.idx
+Size = 3592
+Packed Size = 659
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 4B557D9F
+Encrypted = -
+Method = LZMA2:25
+Block = 61
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CUTSCENE.osw
+Size = 301175
+Packed Size = 167631
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 28854920
+Encrypted = -
+Method = LZMA2:25
+Block = 62
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/CUTSCENE.osw.idx
+Size = 3247
+Packed Size = 605
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = BAF22560
+Encrypted = -
+Method = LZMA2:25
+Block = 63
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/DS.osw
+Size = 171504
+Packed Size = 1816
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 38AF5ECA
+Encrypted = -
+Method = LZMA2:25
+Block = 64
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/DS.osw.idx
+Size = 4121
+Packed Size = 730
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 9F3C3903
+Encrypted = -
+Method = LZMA2:25
+Block = 65
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/HC.osw
+Size = 110192
+Packed Size = 1534
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 111E641C
+Encrypted = -
+Method = LZMA2:25
+Block = 66
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/HC.osw.idx
+Size = 2649
+Packed Size = 516
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = B308200D
+Encrypted = -
+Method = LZMA2:25
+Block = 67
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/MH.osw
+Size = 145638
+Packed Size = 1710
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 44E4878B
+Encrypted = -
+Method = LZMA2:25
+Block = 68
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/MH.osw.idx
+Size = 3500
+Packed Size = 646
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = D96E23E7
+Encrypted = -
+Method = LZMA2:25
+Block = 69
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/MR.osw
+Size = 140848
+Packed Size = 1687
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = B256ED4D
+Encrypted = -
+Method = LZMA2:25
+Block = 70
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/MR.osw.idx
+Size = 3385
+Packed Size = 627
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 30AC9EBC
+Encrypted = -
+Method = LZMA2:25
+Block = 71
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/NJ.osw
+Size = 124562
+Packed Size = 1604
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = CCD8E246
+Encrypted = -
+Method = LZMA2:25
+Block = 72
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/NJ.osw.idx
+Size = 2994
+Packed Size = 569
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 34E9313A
+Encrypted = -
+Method = LZMA2:25
+Block = 73
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/RE.osw
+Size = 154260
+Packed Size = 1751
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = BDB80E01
+Encrypted = -
+Method = LZMA2:25
+Block = 74
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/RE.osw.idx
+Size = 3707
+Packed Size = 676
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = B68145AA
+Encrypted = -
+Method = LZMA2:25
+Block = 75
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/RG.osw
+Size = 162882
+Packed Size = 1794
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 3455C82C
+Encrypted = -
+Method = LZMA2:25
+Block = 76
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/RG.osw.idx
+Size = 3914
+Packed Size = 706
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = DA65B9BD
+Encrypted = -
+Method = LZMA2:25
+Block = 77
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/TK.osw
+Size = 96780
+Packed Size = 1465
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = 14832FF5
+Encrypted = -
+Method = LZMA2:25
+Block = 78
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/audio/STREAMS/TK.osw.idx
+Size = 2327
+Packed Size = 466
+Modified = 2023-04-30 20:07:19.0000000
+Attributes = A -rw-rw----
+CRC = B4F454C7
+Encrypted = -
+Method = LZMA2:25
+Block = 79
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/360Default1280x720.cfg
+Size = 10898
+Packed Size = 2105
+Modified = 2023-04-30 18:38:49.0000000
+Attributes = A -rw-rw----
+CRC = 3B18A472
+Encrypted = -
+Method = LZMA2:25
+Block = 80
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/360Default960x720.cfg
+Size = 10888
+Packed Size = 2098
+Modified = 2023-04-30 18:38:49.0000000
+Attributes = A -rw-rw----
+CRC = A0FA1B31
+Encrypted = -
+Method = LZMA2:25
+Block = 81
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/Cop.ped
+Size = 4908
+Packed Size = 310
+Modified = 2023-04-30 18:38:50.0000000
+Attributes = A -rw-rw----
+CRC = C013AF58
+Encrypted = -
+Method = LZMA2:25
+Block = 82
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/Fireman.ped
+Size = 4435
+Packed Size = 285
+Modified = 2023-04-30 18:38:51.0000000
+Attributes = A -rw-rw----
+CRC = 96D4B369
+Encrypted = -
+Method = LZMA2:25
+Block = 83
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/GangMbr.ped
+Size = 6194
+Packed Size = 262
+Modified = 2023-04-30 18:38:51.0000000
+Attributes = A -rw-rw----
+CRC = 15B34E76
+Encrypted = -
+Method = LZMA2:25
+Block = 84
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/Indoors.ped
+Size = 2809
+Packed Size = 202
+Modified = 2023-04-30 18:38:51.0000000
+Attributes = A -rw-rw----
+CRC = 3BDFA807
+Encrypted = -
+Method = LZMA2:25
+Block = 85
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/MISSION.grp
+Size = 2758
+Packed Size = 162
+Modified = 2023-04-30 18:38:51.0000000
+Attributes = A -rw-rw----
+CRC = 21B4ED0C
+Encrypted = -
+Method = LZMA2:25
+Block = 86
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/RANDOM.grp
+Size = 4623
+Packed Size = 302
+Modified = 2023-04-30 18:38:52.0000000
+Attributes = A -rw-rw----
+CRC = 4BFD7993
+Encrypted = -
+Method = LZMA2:25
+Block = 87
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/RANDOM.ped
+Size = 4142
+Packed Size = 340
+Modified = 2023-04-30 18:38:53.0000000
+Attributes = A -rw-rw----
+CRC = 4A83AE4F
+Encrypted = -
+Method = LZMA2:25
+Block = 88
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/RANDOM2.grp
+Size = 4623
+Packed Size = 310
+Modified = 2023-04-30 18:38:53.0000000
+Attributes = A -rw-rw----
+CRC = 019D60D4
+Encrypted = -
+Method = LZMA2:25
+Block = 89
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/R_Norm.ped
+Size = 6450
+Packed Size = 528
+Modified = 2023-04-30 18:38:53.0000000
+Attributes = A -rw-rw----
+CRC = 7802FF4E
+Encrypted = -
+Method = LZMA2:25
+Block = 90
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/R_Tough.ped
+Size = 6378
+Packed Size = 533
+Modified = 2023-04-30 18:38:53.0000000
+Attributes = A -rw-rw----
+CRC = 53CD0E9B
+Encrypted = -
+Method = LZMA2:25
+Block = 91
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/R_Weak.ped
+Size = 6289
+Packed Size = 493
+Modified = 2023-04-30 18:38:53.0000000
+Attributes = A -rw-rw----
+CRC = DC81FB7D
+Encrypted = -
+Method = LZMA2:25
+Block = 92
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/m_empty.ped
+Size = 982
+Packed Size = 95
+Modified = 2023-04-30 18:38:51.0000000
+Attributes = A -rw-rw----
+CRC = 052FD413
+Encrypted = -
+Method = LZMA2:25
+Block = 93
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/m_norm.ped
+Size = 4142
+Packed Size = 340
+Modified = 2023-04-30 18:38:51.0000000
+Attributes = A -rw-rw----
+CRC = 4A83AE4F
+Encrypted = -
+Method = LZMA2:25
+Block = 94
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/m_plyr.ped
+Size = 2000
+Packed Size = 134
+Modified = 2023-04-30 18:38:51.0000000
+Attributes = A -rw-rw----
+CRC = DECD5440
+Encrypted = -
+Method = LZMA2:25
+Block = 95
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/m_steal.ped
+Size = 3663
+Packed Size = 293
+Modified = 2023-04-30 18:38:52.0000000
+Attributes = A -rw-rw----
+CRC = AB0EA14E
+Encrypted = -
+Method = LZMA2:25
+Block = 96
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/m_tough.ped
+Size = 3980
+Packed Size = 289
+Modified = 2023-04-30 18:38:52.0000000
+Attributes = A -rw-rw----
+CRC = 54E8AB62
+Encrypted = -
+Method = LZMA2:25
+Block = 97
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/Allowed/m_weak.ped
+Size = 4062
+Packed Size = 354
+Modified = 2023-04-30 18:38:52.0000000
+Attributes = A -rw-rw----
+CRC = 29E03E19
+Encrypted = -
+Method = LZMA2:25
+Block = 98
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/Decision/PedEvent.txt
+Size = 1298
+Packed Size = 482
+Modified = 2023-04-30 18:38:53.0000000
+Attributes = A -rw-rw----
+CRC = 706A1567
+Encrypted = -
+Method = LZMA2:25
+Block = 99
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/ShopUVs.dat
+Size = 30509
+Packed Size = 4028
+Modified = 2023-05-01 21:19:18.0000000
+Attributes = A -rw-rw----
+CRC = 36D53217
+Encrypted = -
+Method = LZMA2:25
+Block = 100
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/TouchDefaultPhone3x2.cfg
+Size = 10912
+Packed Size = 2098
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = 43B5E512
+Encrypted = -
+Method = LZMA2:25
+Block = 101
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/TouchDefaultPhoneWidescreen.cfg
+Size = 10924
+Packed Size = 2106
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = 7FE87BF0
+Encrypted = -
+Method = LZMA2:25
+Block = 102
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/TouchDefaultTablet4x3.cfg
+Size = 10926
+Packed Size = 2097
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = 530795E1
+Encrypted = -
+Method = LZMA2:25
+Block = 103
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/TouchDefaultTabletWidescreen.cfg
+Size = 10923
+Packed Size = 2104
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = 64B7E9FC
+Encrypted = -
+Method = LZMA2:25
+Block = 104
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/animgrp.dat
+Size = 3096
+Packed Size = 704
+Modified = 2023-04-30 18:38:50.0000000
+Attributes = A -rw-rw----
+CRC = D42569EA
+Encrypted = -
+Method = LZMA2:25
+Block = 105
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/ar_stats.dat
+Size = 3593
+Packed Size = 1269
+Modified = 2023-04-30 18:38:50.0000000
+Attributes = A -rw-rw----
+CRC = 296A6DCB
+Encrypted = -
+Method = LZMA2:25
+Block = 106
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/carcols.dat
+Size = 15361
+Packed Size = 5151
+Modified = 2023-04-30 18:38:50.0000000
+Attributes = A -rw-rw----
+CRC = 39C2EE08
+Encrypted = -
+Method = LZMA2:25
+Block = 107
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/cargrp.dat
+Size = 3963
+Packed Size = 1499
+Modified = 2023-04-30 18:38:50.0000000
+Attributes = A -rw-rw----
+CRC = 9D892777
+Encrypted = -
+Method = LZMA2:25
+Block = 108
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/carmods.dat
+Size = 9110
+Packed Size = 1556
+Modified = 2023-04-30 18:38:50.0000000
+Attributes = A -rw-rw----
+CRC = E3B5DC42
+Encrypted = -
+Method = LZMA2:25
+Block = 109
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/clothes.dat
+Size = 5317
+Packed Size = 1411
+Modified = 2023-04-30 18:38:50.0000000
+Attributes = A -rw-rw----
+CRC = BE83F4EC
+Encrypted = -
+Method = LZMA2:25
+Block = 110
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/colorcycle.dat
+Size = 14627
+Packed Size = 128
+Modified = 2023-04-30 19:05:35.0000000
+Attributes = A -rw-rw----
+CRC = CE1E053B
+Encrypted = -
+Method = LZMA2:25
+Block = 111
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/default.dat
+Size = 577
+Packed Size = 327
+Modified = 2023-04-30 18:38:53.0000000
+Attributes = A -rw-rw----
+CRC = 7E1488CE
+Encrypted = -
+Method = LZMA2:25
+Block = 112
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/default.ide
+Size = 4679
+Packed Size = 1257
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = A8F13F50
+Encrypted = -
+Method = LZMA2:25
+Block = 113
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/fixLagRockstarMobile.dat
+Size = 123320
+Packed Size = 1307
+Modified = 2023-04-30 20:23:26.0000000
+Attributes = A -rw-rw----
+CRC = DF566005
+Encrypted = -
+Method = LZMA2:25
+Block = 114
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/fonts.dat
+Size = 3576
+Packed Size = 1109
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = B5A8D8FF
+Encrypted = -
+Method = LZMA2:25
+Block = 115
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/furnitur.dat
+Size = 16480
+Packed Size = 2411
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = E00F4C2A
+Encrypted = -
+Method = LZMA2:25
+Block = 116
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/gridref.dat
+Size = 1498
+Packed Size = 433
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = 797CA773
+Encrypted = -
+Method = LZMA2:25
+Block = 117
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/gta.dat
+Size = 3776
+Packed Size = 717
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = 7836E07F
+Encrypted = -
+Method = LZMA2:25
+Block = 118
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/handling.cfg
+Size = 64532
+Packed Size = 10585
+Modified = 2023-04-30 20:17:36.0000000
+Attributes = A -rw-rw----
+CRC = 94E61F7B
+Encrypted = -
+Method = LZMA2:25
+Block = 119
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/info.zon
+Size = 28139
+Packed Size = 6283
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = 1D099B54
+Encrypted = -
+Method = LZMA2:25
+Block = 120
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/map.zon
+Size = 436
+Packed Size = 191
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = FD666CB6
+Encrypted = -
+Method = LZMA2:25
+Block = 121
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/Audiozon.ipl
+Size = 10802
+Packed Size = 3740
+Modified = 2023-04-30 18:38:54.0000000
+Attributes = A -rw-rw----
+CRC = 10E627A1
+Encrypted = -
+Method = LZMA2:25
+Block = 122
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAe.ide
+Size = 12249
+Packed Size = 2245
+Modified = 2023-04-30 18:38:59.0000000
+Attributes = A -rw-rw----
+CRC = DB4DCEE2
+Encrypted = -
+Method = LZMA2:25
+Block = 123
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAe.ipl
+Size = 27328
+Packed Size = 6243
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = A4D4FF23
+Encrypted = -
+Method = LZMA2:25
+Block = 124
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAe2.ide
+Size = 21907
+Packed Size = 3588
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = 2DBD1631
+Encrypted = -
+Method = LZMA2:25
+Block = 125
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAe2.ipl
+Size = 33651
+Packed Size = 7329
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = 1D3FA4D5
+Encrypted = -
+Method = LZMA2:25
+Block = 126
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAhills.ide
+Size = 10601
+Packed Size = 2027
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = E2A5780F
+Encrypted = -
+Method = LZMA2:25
+Block = 127
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAhills.ipl
+Size = 34506
+Packed Size = 8264
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = 6D7F547B
+Encrypted = -
+Method = LZMA2:25
+Block = 128
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAn.ide
+Size = 11107
+Packed Size = 1995
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = 2081CEAA
+Encrypted = -
+Method = LZMA2:25
+Block = 129
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAn.ipl
+Size = 14264
+Packed Size = 3470
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = 6BFBFC34
+Encrypted = -
+Method = LZMA2:25
+Block = 130
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAn2.ide
+Size = 9565
+Packed Size = 1657
+Modified = 2023-04-30 18:39:00.0000000
+Attributes = A -rw-rw----
+CRC = 90F73779
+Encrypted = -
+Method = LZMA2:25
+Block = 131
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAn2.ipl
+Size = 13185
+Packed Size = 3157
+Modified = 2023-04-30 18:39:01.0000000
+Attributes = A -rw-rw----
+CRC = 94840C35
+Encrypted = -
+Method = LZMA2:25
+Block = 132
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAs.ide
+Size = 12575
+Packed Size = 2395
+Modified = 2023-04-30 18:39:01.0000000
+Attributes = A -rw-rw----
+CRC = FD185B52
+Encrypted = -
+Method = LZMA2:25
+Block = 133
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAs.ipl
+Size = 22414
+Packed Size = 4835
+Modified = 2023-04-30 18:39:01.0000000
+Attributes = A -rw-rw----
+CRC = E02A08BC
+Encrypted = -
+Method = LZMA2:25
+Block = 134
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAs2.ide
+Size = 12364
+Packed Size = 2383
+Modified = 2023-04-30 18:39:01.0000000
+Attributes = A -rw-rw----
+CRC = 515B3F1F
+Encrypted = -
+Method = LZMA2:25
+Block = 135
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAs2.ipl
+Size = 38441
+Packed Size = 7227
+Modified = 2023-04-30 18:39:01.0000000
+Attributes = A -rw-rw----
+CRC = 3384A420
+Encrypted = -
+Method = LZMA2:25
+Block = 136
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAw.ide
+Size = 9412
+Packed Size = 1643
+Modified = 2023-04-30 18:39:01.0000000
+Attributes = A -rw-rw----
+CRC = 96B65D9E
+Encrypted = -
+Method = LZMA2:25
+Block = 137
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAw.ipl
+Size = 15105
+Packed Size = 3639
+Modified = 2023-04-30 18:39:02.0000000
+Attributes = A -rw-rw----
+CRC = DEEDA037
+Encrypted = -
+Method = LZMA2:25
+Block = 138
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAw2.ide
+Size = 11060
+Packed Size = 1807
+Modified = 2023-04-30 18:39:02.0000000
+Attributes = A -rw-rw----
+CRC = AE85DB40
+Encrypted = -
+Method = LZMA2:25
+Block = 139
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAw2.ipl
+Size = 18232
+Packed Size = 4392
+Modified = 2023-04-30 18:39:02.0000000
+Attributes = A -rw-rw----
+CRC = 6A5B635D
+Encrypted = -
+Method = LZMA2:25
+Block = 140
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LAxref.ide
+Size = 10477
+Packed Size = 2260
+Modified = 2023-04-30 18:39:03.0000000
+Attributes = A -rw-rw----
+CRC = 4BF81D6F
+Encrypted = -
+Method = LZMA2:25
+Block = 141
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LaWn.ide
+Size = 13092
+Packed Size = 2482
+Modified = 2023-04-30 18:39:02.0000000
+Attributes = A -rw-rw----
+CRC = 81C7AB4B
+Encrypted = -
+Method = LZMA2:25
+Block = 142
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/LA/LaWn.ipl
+Size = 24330
+Packed Size = 5322
+Modified = 2023-04-30 18:39:02.0000000
+Attributes = A -rw-rw----
+CRC = AB5AD2D2
+Encrypted = -
+Method = LZMA2:25
+Block = 143
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFSe.ide
+Size = 30227
+Packed Size = 4964
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = C2794116
+Encrypted = -
+Method = LZMA2:25
+Block = 144
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFSe.ipl
+Size = 53359
+Packed Size = 9993
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = E0BCE21B
+Encrypted = -
+Method = LZMA2:25
+Block = 145
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFe.ide
+Size = 16224
+Packed Size = 2921
+Modified = 2023-04-30 18:39:06.0000000
+Attributes = A -rw-rw----
+CRC = 50B63250
+Encrypted = -
+Method = LZMA2:25
+Block = 146
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFe.ipl
+Size = 26707
+Packed Size = 6064
+Modified = 2023-04-30 18:39:06.0000000
+Attributes = A -rw-rw----
+CRC = A4250BFD
+Encrypted = -
+Method = LZMA2:25
+Block = 147
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFn.ide
+Size = 11219
+Packed Size = 1856
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 8242DCA2
+Encrypted = -
+Method = LZMA2:25
+Block = 148
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFn.ipl
+Size = 26201
+Packed Size = 5141
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = D8AA66E4
+Encrypted = -
+Method = LZMA2:25
+Block = 149
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFs.ide
+Size = 18948
+Packed Size = 2868
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 862A162B
+Encrypted = -
+Method = LZMA2:25
+Block = 150
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFs.ipl
+Size = 37969
+Packed Size = 7558
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 1329A1C6
+Encrypted = -
+Method = LZMA2:25
+Block = 151
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFw.ide
+Size = 16473
+Packed Size = 2718
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = A545D55A
+Encrypted = -
+Method = LZMA2:25
+Block = 152
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFw.ipl
+Size = 29247
+Packed Size = 6476
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = B8E81F1A
+Encrypted = -
+Method = LZMA2:25
+Block = 153
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/SF/SFxref.ide
+Size = 4631
+Packed Size = 1002
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 075FDCDD
+Encrypted = -
+Method = LZMA2:25
+Block = 154
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countn2.ide
+Size = 35439
+Packed Size = 5043
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = ECF2E93B
+Encrypted = -
+Method = LZMA2:25
+Block = 155
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countn2.ipl
+Size = 41665
+Packed Size = 9466
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = C8DD0F9C
+Encrypted = -
+Method = LZMA2:25
+Block = 156
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countryN.ide
+Size = 11308
+Packed Size = 1977
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = 3C473AB0
+Encrypted = -
+Method = LZMA2:25
+Block = 157
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countryN.ipl
+Size = 14407
+Packed Size = 3745
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = A8A6EDBC
+Encrypted = -
+Method = LZMA2:25
+Block = 158
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countryS.ide
+Size = 18450
+Packed Size = 2302
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = 236E9DD9
+Encrypted = -
+Method = LZMA2:25
+Block = 159
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countryS.ipl
+Size = 33835
+Packed Size = 7749
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = 5B8E1863
+Encrypted = -
+Method = LZMA2:25
+Block = 160
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countryW.ide
+Size = 19704
+Packed Size = 2218
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = 3E29874E
+Encrypted = -
+Method = LZMA2:25
+Block = 161
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countrye.ide
+Size = 34529
+Packed Size = 4984
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = CE6108D2
+Encrypted = -
+Method = LZMA2:25
+Block = 162
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countrye.ipl
+Size = 49301
+Packed Size = 11155
+Modified = 2023-04-30 18:38:55.0000000
+Attributes = A -rw-rw----
+CRC = 8F75527B
+Encrypted = -
+Method = LZMA2:25
+Block = 163
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/countryw.ipl
+Size = 35057
+Packed Size = 8009
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = DA96B890
+Encrypted = -
+Method = LZMA2:25
+Block = 164
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/country/counxref.ide
+Size = 8494
+Packed Size = 1875
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = 8833254D
+Encrypted = -
+Method = LZMA2:25
+Block = 165
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/cull.ipl
+Size = 104318
+Packed Size = 29513
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = D472A015
+Encrypted = -
+Method = LZMA2:25
+Block = 166
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/generic/barriers.ide
+Size = 1437
+Packed Size = 483
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = F85417D2
+Encrypted = -
+Method = LZMA2:25
+Block = 167
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/generic/dynamic.ide
+Size = 4611
+Packed Size = 1358
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = 99F7EDCD
+Encrypted = -
+Method = LZMA2:25
+Block = 168
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/generic/dynamic2.ide
+Size = 10510
+Packed Size = 2337
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = BDF00940
+Encrypted = -
+Method = LZMA2:25
+Block = 169
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/generic/multiobj.ide
+Size = 5021
+Packed Size = 1302
+Modified = 2023-05-01 18:09:02.0000000
+Attributes = A -rw-rw----
+CRC = 40544036
+Encrypted = -
+Method = LZMA2:25
+Block = 170
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/generic/procobj.ide
+Size = 4755
+Packed Size = 878
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = EB32E78A
+Encrypted = -
+Method = LZMA2:25
+Block = 171
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/generic/vegepart.ide
+Size = 8062
+Packed Size = 1566
+Modified = 2023-04-30 18:38:56.0000000
+Attributes = A -rw-rw----
+CRC = 01DD8570
+Encrypted = -
+Method = LZMA2:25
+Block = 172
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int1.ide
+Size = 2747
+Packed Size = 595
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = 3DE880D0
+Encrypted = -
+Method = LZMA2:25
+Block = 173
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int1.ipl
+Size = 21074
+Packed Size = 3427
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = 42D17B5C
+Encrypted = -
+Method = LZMA2:25
+Block = 174
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int2.ide
+Size = 10941
+Packed Size = 1783
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = F21FDE09
+Encrypted = -
+Method = LZMA2:25
+Block = 175
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int2.ipl
+Size = 1683
+Packed Size = 540
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = 8514FAA0
+Encrypted = -
+Method = LZMA2:25
+Block = 176
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int3.ide
+Size = 3252
+Packed Size = 916
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = 7F3A174A
+Encrypted = -
+Method = LZMA2:25
+Block = 177
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int3.ipl
+Size = 2091
+Packed Size = 699
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = 641CE357
+Encrypted = -
+Method = LZMA2:25
+Block = 178
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int4.ide
+Size = 2323
+Packed Size = 616
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = A860ECCB
+Encrypted = -
+Method = LZMA2:25
+Block = 179
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int4.ipl
+Size = 1185
+Packed Size = 410
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = 9D097122
+Encrypted = -
+Method = LZMA2:25
+Block = 180
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int5.ide
+Size = 4682
+Packed Size = 1335
+Modified = 2023-04-30 18:38:57.0000000
+Attributes = A -rw-rw----
+CRC = 856762C8
+Encrypted = -
+Method = LZMA2:25
+Block = 181
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_int5.ipl
+Size = 2988
+Packed Size = 937
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 93378B8A
+Encrypted = -
+Method = LZMA2:25
+Block = 182
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_intb.ide
+Size = 5459
+Packed Size = 1191
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 83692C39
+Encrypted = -
+Method = LZMA2:25
+Block = 183
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/gen_intb.ipl
+Size = 1626
+Packed Size = 587
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 71C796D6
+Encrypted = -
+Method = LZMA2:25
+Block = 184
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_LA.ide
+Size = 6004
+Packed Size = 1480
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 3C3D8F1E
+Encrypted = -
+Method = LZMA2:25
+Block = 185
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_LA.ipl
+Size = 1312
+Packed Size = 553
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = E974AA46
+Encrypted = -
+Method = LZMA2:25
+Block = 186
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_SF.ide
+Size = 1260
+Packed Size = 461
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 7579B46F
+Encrypted = -
+Method = LZMA2:25
+Block = 187
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_SF.ipl
+Size = 1334
+Packed Size = 476
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = F509B58C
+Encrypted = -
+Method = LZMA2:25
+Block = 188
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_cont.ide
+Size = 385
+Packed Size = 144
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 1E4C3600
+Encrypted = -
+Method = LZMA2:25
+Block = 189
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_cont.ipl
+Size = 910
+Packed Size = 373
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 754D556B
+Encrypted = -
+Method = LZMA2:25
+Block = 190
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_veg.ide
+Size = 4684
+Packed Size = 1121
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 80D3A557
+Encrypted = -
+Method = LZMA2:25
+Block = 191
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/int_veg.ipl
+Size = 5299
+Packed Size = 983
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 060D25A6
+Encrypted = -
+Method = LZMA2:25
+Block = 192
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/propext.ide
+Size = 2340
+Packed Size = 705
+Modified = 2023-04-30 18:38:58.0000000
+Attributes = A -rw-rw----
+CRC = 9781BF56
+Encrypted = -
+Method = LZMA2:25
+Block = 193
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/props.ide
+Size = 26326
+Packed Size = 4511
+Modified = 2023-04-30 18:38:59.0000000
+Attributes = A -rw-rw----
+CRC = B6473E81
+Encrypted = -
+Method = LZMA2:25
+Block = 194
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/props2.ide
+Size = 21174
+Packed Size = 3878
+Modified = 2023-04-30 18:38:59.0000000
+Attributes = A -rw-rw----
+CRC = D69FEAD9
+Encrypted = -
+Method = LZMA2:25
+Block = 195
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/savehous.ide
+Size = 1724
+Packed Size = 598
+Modified = 2023-04-30 18:38:59.0000000
+Attributes = A -rw-rw----
+CRC = 8B0C5C34
+Encrypted = -
+Method = LZMA2:25
+Block = 196
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/savehous.ipl
+Size = 2959
+Packed Size = 742
+Modified = 2023-04-30 18:38:59.0000000
+Attributes = A -rw-rw----
+CRC = 2F0605E0
+Encrypted = -
+Method = LZMA2:25
+Block = 197
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/stadint.ide
+Size = 2851
+Packed Size = 752
+Modified = 2023-04-30 18:38:59.0000000
+Attributes = A -rw-rw----
+CRC = 2403C47E
+Encrypted = -
+Method = LZMA2:25
+Block = 198
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/interior/stadint.ipl
+Size = 6299
+Packed Size = 1676
+Modified = 2023-04-30 18:38:59.0000000
+Attributes = A -rw-rw----
+CRC = C18F5D6D
+Encrypted = -
+Method = LZMA2:25
+Block = 199
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes/leveldes.ide
+Size = 360
+Packed Size = 197
+Modified = 2023-04-30 18:39:03.0000000
+Attributes = A -rw-rw----
+CRC = DF205205
+Encrypted = -
+Method = LZMA2:25
+Block = 200
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes/leveldes.ipl
+Size = 165
+Packed Size = 111
+Modified = 2023-04-30 18:39:03.0000000
+Attributes = A -rw-rw----
+CRC = D2AF3D31
+Encrypted = -
+Method = LZMA2:25
+Block = 201
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes/levelmap.ide
+Size = 3194
+Packed Size = 874
+Modified = 2023-04-30 18:39:03.0000000
+Attributes = A -rw-rw----
+CRC = 954C618D
+Encrypted = -
+Method = LZMA2:25
+Block = 202
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes/levelmap.ipl
+Size = 4675
+Packed Size = 1381
+Modified = 2023-04-30 18:39:03.0000000
+Attributes = A -rw-rw----
+CRC = BC3EB233
+Encrypted = -
+Method = LZMA2:25
+Block = 203
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes/levelxre.ide
+Size = 9897
+Packed Size = 2918
+Modified = 2023-04-30 18:39:04.0000000
+Attributes = A -rw-rw----
+CRC = F47FB560
+Encrypted = -
+Method = LZMA2:25
+Block = 204
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes/seabed.ide
+Size = 12039
+Packed Size = 1115
+Modified = 2023-04-30 18:39:04.0000000
+Attributes = A -rw-rw----
+CRC = BF23402C
+Encrypted = -
+Method = LZMA2:25
+Block = 205
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/leveldes/seabed.ipl
+Size = 23342
+Packed Size = 3636
+Modified = 2023-04-30 18:39:04.0000000
+Attributes = A -rw-rw----
+CRC = 20BBD616
+Encrypted = -
+Method = LZMA2:25
+Block = 206
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/occlu.ipl
+Size = 1012
+Packed Size = 406
+Modified = 2023-04-30 18:39:04.0000000
+Attributes = A -rw-rw----
+CRC = 10E20FE1
+Encrypted = -
+Method = LZMA2:25
+Block = 207
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/occluLA.ipl
+Size = 35956
+Packed Size = 9359
+Modified = 2023-04-30 18:39:05.0000000
+Attributes = A -rw-rw----
+CRC = D91D2348
+Encrypted = -
+Method = LZMA2:25
+Block = 208
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/occluint.ipl
+Size = 2338
+Packed Size = 595
+Modified = 2023-04-30 18:39:05.0000000
+Attributes = A -rw-rw----
+CRC = 7D976927
+Encrypted = -
+Method = LZMA2:25
+Block = 209
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/occlusf.ipl
+Size = 16114
+Packed Size = 3862
+Modified = 2023-04-30 18:39:05.0000000
+Attributes = A -rw-rw----
+CRC = ADB8768D
+Encrypted = -
+Method = LZMA2:25
+Block = 210
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/occluveg.ipl
+Size = 17944
+Packed Size = 3887
+Modified = 2023-04-30 18:39:05.0000000
+Attributes = A -rw-rw----
+CRC = 2154C7E5
+Encrypted = -
+Method = LZMA2:25
+Block = 211
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/paths.ipl
+Size = 2658607
+Packed Size = 331932
+Modified = 2023-04-30 18:39:05.0000000
+Attributes = A -rw-rw----
+CRC = 0FC81350
+Encrypted = -
+Method = LZMA2:25
+Block = 212
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/paths2.ipl
+Size = 2292241
+Packed Size = 248151
+Modified = 2023-04-30 18:39:06.0000000
+Attributes = A -rw-rw----
+CRC = BE7CF058
+Encrypted = -
+Method = LZMA2:25
+Block = 213
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/paths3.ipl
+Size = 2428066
+Packed Size = 281720
+Modified = 2023-04-30 18:39:06.0000000
+Attributes = A -rw-rw----
+CRC = A017F7F2
+Encrypted = -
+Method = LZMA2:25
+Block = 214
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/paths4.ipl
+Size = 253014
+Packed Size = 24096
+Modified = 2023-04-30 18:39:06.0000000
+Attributes = A -rw-rw----
+CRC = B3F045CD
+Encrypted = -
+Method = LZMA2:25
+Block = 215
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/paths5.ipl
+Size = 457678
+Packed Size = 49483
+Modified = 2023-04-30 18:39:06.0000000
+Attributes = A -rw-rw----
+CRC = 491F3996
+Encrypted = -
+Method = LZMA2:25
+Block = 216
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/tunnels.ipl
+Size = 3230
+Packed Size = 1291
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = D1A7F6C4
+Encrypted = -
+Method = LZMA2:25
+Block = 217
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/VegasN.ide
+Size = 23715
+Packed Size = 3877
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = F31CC5AF
+Encrypted = -
+Method = LZMA2:25
+Block = 218
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/VegasS.ide
+Size = 18656
+Packed Size = 2723
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 777BB1C3
+Encrypted = -
+Method = LZMA2:25
+Block = 219
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/VegasW.ide
+Size = 25456
+Packed Size = 3615
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = 67FEB0DE
+Encrypted = -
+Method = LZMA2:25
+Block = 220
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/vegasE.ide
+Size = 35542
+Packed Size = 5030
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 184472C2
+Encrypted = -
+Method = LZMA2:25
+Block = 221
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/vegasE.ipl
+Size = 61084
+Packed Size = 9308
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = D53296B6
+Encrypted = -
+Method = LZMA2:25
+Block = 222
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/vegasN.ipl
+Size = 36651
+Packed Size = 6905
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 433A3B74
+Encrypted = -
+Method = LZMA2:25
+Block = 223
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/vegasS.ipl
+Size = 30343
+Packed Size = 5589
+Modified = 2023-04-30 18:39:07.0000000
+Attributes = A -rw-rw----
+CRC = 141AACD2
+Encrypted = -
+Method = LZMA2:25
+Block = 224
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/vegasW.ipl
+Size = 49867
+Packed Size = 7806
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = 730EE73D
+Encrypted = -
+Method = LZMA2:25
+Block = 225
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/vegaxref.ide
+Size = 5751
+Packed Size = 1421
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = D61E2BD7
+Encrypted = -
+Method = LZMA2:25
+Block = 226
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/vegas/vegaxref.ipl
+Size = 3661
+Packed Size = 1052
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = A81BA1E6
+Encrypted = -
+Method = LZMA2:25
+Block = 227
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/maps/veh_mods/veh_mods.ide
+Size = 7323
+Packed Size = 1114
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = 4BF2426C
+Encrypted = -
+Method = LZMA2:25
+Block = 228
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/melee.dat
+Size = 6306
+Packed Size = 1140
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = 8040EB84
+Encrypted = -
+Method = LZMA2:25
+Block = 229
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/object.dat
+Size = 126118
+Packed Size = 10299
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = 8427CE31
+Encrypted = -
+Method = LZMA2:25
+Block = 230
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/paths/ROADBLOX.DAT
+Size = 1304
+Packed Size = 428
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = EC5F0CD2
+Encrypted = -
+Method = LZMA2:25
+Block = 231
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/paths/carrec.img
+Size = 7264256
+Packed Size = 3215201
+Modified = 2023-04-30 20:23:26.0000000
+Attributes = A -rw-rw----
+CRC = EA0DE7DE
+Encrypted = -
+Method = LZMA2:25
+Block = 232
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/paths/tracks.dat
+Size = 25474
+Packed Size = 7044
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = 6778A9ED
+Encrypted = -
+Method = LZMA2:25
+Block = 233
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/paths/tracks2.dat
+Size = 1892
+Packed Size = 576
+Modified = 2023-04-30 18:39:08.0000000
+Attributes = A -rw-rw----
+CRC = 32FB5DB7
+Encrypted = -
+Method = LZMA2:25
+Block = 234
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/paths/tracks3.dat
+Size = 8328
+Packed Size = 1907
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = F74DB3C7
+Encrypted = -
+Method = LZMA2:25
+Block = 235
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/paths/tracks4.dat
+Size = 18347
+Packed Size = 4917
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = E6828D38
+Encrypted = -
+Method = LZMA2:25
+Block = 236
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/ped.dat
+Size = 1276
+Packed Size = 270
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = 6E8F0E0F
+Encrypted = -
+Method = LZMA2:25
+Block = 237
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/pedgrp.dat
+Size = 5792
+Packed Size = 1523
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = 2828641F
+Encrypted = -
+Method = LZMA2:25
+Block = 238
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/peds.ide
+Size = 33401
+Packed Size = 5155
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = C4B2B46F
+Encrypted = -
+Method = LZMA2:25
+Block = 239
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/pedstats.dat
+Size = 3604
+Packed Size = 961
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = 28918691
+Encrypted = -
+Method = LZMA2:25
+Block = 240
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/plants.dat
+Size = 9887
+Packed Size = 2029
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = 14EDC71E
+Encrypted = -
+Method = LZMA2:25
+Block = 241
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/popcycle.dat
+Size = 127108
+Packed Size = 3941
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = 0CF08266
+Encrypted = -
+Method = LZMA2:25
+Block = 242
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/procobj.dat
+Size = 415
+Packed Size = 264
+Modified = 2023-04-30 20:24:33.0000000
+Attributes = A -rw-rw----
+CRC = 3362CB2E
+Encrypted = -
+Method = LZMA2:25
+Block = 243
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/script/mainV1.scm
+Size = 3169778
+Packed Size = 839074
+Modified = 2023-05-01 21:19:18.0000000
+Attributes = A -rw-rw----
+CRC = F11059B0
+Encrypted = -
+Method = LZMA2:25
+Block = 244
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/script/scriptv1.img
+Size = 561152
+Packed Size = 120688
+Modified = 2023-05-01 21:19:18.0000000
+Attributes = A -rw-rw----
+CRC = FCE75713
+Encrypted = -
+Method = LZMA2:25
+Block = 245
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/shopping.dat
+Size = 46875
+Packed Size = 9334
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = 549DB8D6
+Encrypted = -
+Method = LZMA2:25
+Block = 246
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/statdisp.dat
+Size = 7292
+Packed Size = 1300
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = CEC1BB59
+Encrypted = -
+Method = LZMA2:25
+Block = 247
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/surface.dat
+Size = 576
+Packed Size = 235
+Modified = 2023-04-30 18:39:09.0000000
+Attributes = A -rw-rw----
+CRC = E283EBF1
+Encrypted = -
+Method = LZMA2:25
+Block = 248
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/surfaud.dat
+Size = 6530
+Packed Size = 1431
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = C3C13277
+Encrypted = -
+Method = LZMA2:25
+Block = 249
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/surfinfo.dat
+Size = 28106
+Packed Size = 3443
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = E582DFD8
+Encrypted = -
+Method = LZMA2:25
+Block = 250
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/timecyc.dat
+Size = 56445
+Packed Size = 2164
+Modified = 2023-04-30 19:05:35.0000000
+Attributes = A -rw-rw----
+CRC = 4D29D8AD
+Encrypted = -
+Method = LZMA2:25
+Block = 251
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/txdcut.ide
+Size = 478
+Packed Size = 235
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = 9A3B867A
+Encrypted = -
+Method = LZMA2:25
+Block = 252
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/vehicles.ide
+Size = 21093
+Packed Size = 5181
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = 72A5694A
+Encrypted = -
+Method = LZMA2:25
+Block = 253
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/water.dat
+Size = 70099
+Packed Size = 5472
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = F07CCEDA
+Encrypted = -
+Method = LZMA2:25
+Block = 254
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/water1.dat
+Size = 60063
+Packed Size = 4363
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = D45250E9
+Encrypted = -
+Method = LZMA2:25
+Block = 255
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/data/weapon.dat
+Size = 11602
+Packed Size = 2726
+Modified = 2023-04-30 18:39:10.0000000
+Attributes = A -rw-rw----
+CRC = 08B638C5
+Encrypted = -
+Method = LZMA2:25
+Block = 256
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/fonts/arial_bold.ttf
+Size = 45080
+Packed Size = 21644
+Modified = 2023-04-30 19:05:13.0000000
+Attributes = A -rw-rw----
+CRC = F30C5291
+Encrypted = -
+Method = LZMA2:25
+Block = 257
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/fonts/arial_bold_thai.ttf
+Size = 91696
+Packed Size = 31299
+Modified = 2023-04-30 19:05:13.0000000
+Attributes = A -rw-rw----
+CRC = BFDF377F
+Encrypted = -
+Method = LZMA2:25
+Block = 258
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/fonts/gtaweap3.ttf
+Size = 104004
+Packed Size = 36858
+Modified = 2023-04-30 19:05:13.0000000
+Attributes = A -rw-rw----
+CRC = 453B8DE2
+Encrypted = -
+Method = LZMA2:25
+Block = 259
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/gta_sa.set
+Size = 167
+Packed Size = 65
+Modified = 2023-05-01 18:40:51.0000000
+Attributes = A -rw-rw----
+CRC = 5E972304
+Encrypted = -
+Method = LZMA2:25
+Block = 260
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/gtasatelem.set
+Size = 392
+Packed Size = 56
+Modified = 2023-05-01 21:20:33.0000000
+Attributes = A -rw-rw----
+CRC = 1EBEDD71
+Encrypted = -
+Method = LZMA2:25
+Block = 261
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/models/MINFO.BIN
+Size = 41100
+Packed Size = 24574
+Modified = 2023-05-01 21:19:18.0000000
+Attributes = A -rw-rw----
+CRC = BD0782BD
+Encrypted = -
+Method = LZMA2:25
+Block = 262
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/models/coll/peds.col
+Size = 21477
+Packed Size = 9435
+Modified = 2023-04-30 18:39:11.0000000
+Attributes = A -rw-rw----
+CRC = C95E684B
+Encrypted = -
+Method = LZMA2:25
+Block = 263
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/models/coll/vehicles.col
+Size = 1096
+Packed Size = 555
+Modified = 2023-04-30 18:39:11.0000000
+Attributes = A -rw-rw----
+CRC = FC094968
+Encrypted = -
+Method = LZMA2:25
+Block = 264
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/models/coll/weapons.col
+Size = 560
+Packed Size = 319
+Modified = 2023-04-30 18:39:11.0000000
+Attributes = A -rw-rw----
+CRC = 8BBD282D
+Encrypted = -
+Method = LZMA2:25
+Block = 265
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/models/effects.fxp
+Size = 2483679
+Packed Size = 46708
+Modified = 2023-04-30 19:02:22.0000000
+Attributes = A -rw-rw----
+CRC = BB8A77DD
+Encrypted = -
+Method = LZMA2:25
+Block = 266
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/stream.ini
+Size = 197
+Packed Size = 133
+Modified = 2023-04-30 18:39:12.0000000
+Attributes = A -rw-rw----
+CRC = 416F3BF2
+Encrypted = -
+Method = LZMA2:25
+Block = 267
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/Optimize_Fps.img
+Size = 3011
+Packed Size = 1881
+Modified = 2023-04-30 20:23:26.0000000
+Attributes = A -rw-rw----
+CRC = FE17BF0C
+Encrypted = -
+Method = LZMA2:25
+Block = 268
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/Optimize_Lag.img
+Size = 773
+Packed Size = 195
+Modified = 2023-04-30 20:23:26.0000000
+Attributes = A -rw-rw----
+CRC = E3ADC6F4
+Encrypted = -
+Method = LZMA2:25
+Block = 269
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/SAMPCOL.img
+Size = 4253696
+Packed Size = 1056559
+Modified = 2023-04-30 18:39:54.0000000
+Attributes = A -rw-rw----
+CRC = 7586E0FD
+Encrypted = -
+Method = LZMA2:25
+Block = 270
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.dxt.dat
+Size = 5731070
+Packed Size = 3553469
+Modified = 2023-05-01 21:19:21.0000000
+Attributes = A -rw-rw----
+CRC = 4B57D251
+Encrypted = -
+Method = LZMA2:25
+Block = 271
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.dxt.tmb
+Size = 19440
+Packed Size = 12694
+Modified = 2023-05-01 21:19:21.0000000
+Attributes = A -rw-rw----
+CRC = C103AD22
+Encrypted = -
+Method = LZMA2:25
+Block = 272
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.dxt.toc
+Size = 1628
+Packed Size = 1051
+Modified = 2023-05-01 21:19:21.0000000
+Attributes = A -rw-rw----
+CRC = EF5D4F96
+Encrypted = -
+Method = LZMA2:25
+Block = 273
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.etc.dat
+Size = 5482370
+Packed Size = 1351431
+Modified = 2023-05-01 21:19:21.0000000
+Attributes = A -rw-rw----
+CRC = EBDF98FE
+Encrypted = -
+Method = LZMA2:25
+Block = 274
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.etc.tmb
+Size = 20784
+Packed Size = 7290
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 49227BBE
+Encrypted = -
+Method = LZMA2:25
+Block = 275
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.etc.toc
+Size = 1628
+Packed Size = 1044
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 5A864C5F
+Encrypted = -
+Method = LZMA2:25
+Block = 276
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.pvr.dat
+Size = 3614492
+Packed Size = 2406822
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 94E50BD8
+Encrypted = -
+Method = LZMA2:25
+Block = 277
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.pvr.tmb
+Size = 30608
+Packed Size = 21533
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 0B392FD2
+Encrypted = -
+Method = LZMA2:25
+Block = 278
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.pvr.toc
+Size = 1628
+Packed Size = 1000
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 5A38981A
+Encrypted = -
+Method = LZMA2:25
+Block = 279
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.txt
+Size = 24626
+Packed Size = 7520
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 6B7660B8
+Encrypted = -
+Method = LZMA2:25
+Block = 280
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene/cutscene.unc.tmb
+Size = 56304
+Packed Size = 29722
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 9243F02D
+Encrypted = -
+Method = LZMA2:25
+Block = 281
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/cutscene.img
+Size = 16029696
+Packed Size = 5285247
+Modified = 2023-05-01 21:19:22.0000000
+Attributes = A -rw-rw----
+CRC = 02A0FD1A
+Encrypted = -
+Method = LZMA2:25
+Block = 282
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.dxt.dat
+Size = 208706912
+Packed Size = 113420627
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = B4AA594E
+Encrypted = -
+Method = LZMA2:25
+Block = 283
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.dxt.tmb
+Size = 522256
+Packed Size = 309899
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = 94BBBFAB
+Encrypted = -
+Method = LZMA2:25
+Block = 284
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.dxt.toc
+Size = 51084
+Packed Size = 26764
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = E6156FF2
+Encrypted = -
+Method = LZMA2:25
+Block = 285
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.etc.dat
+Size = 208706912
+Packed Size = 113420627
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = B4AA594E
+Encrypted = -
+Method = LZMA2:25
+Block = 286
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.etc.tmb
+Size = 522256
+Packed Size = 309899
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = 94BBBFAB
+Encrypted = -
+Method = LZMA2:25
+Block = 287
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.etc.toc
+Size = 51084
+Packed Size = 26764
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = E6156FF2
+Encrypted = -
+Method = LZMA2:25
+Block = 288
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.pvr.dat
+Size = 208706912
+Packed Size = 113420627
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = B4AA594E
+Encrypted = -
+Method = LZMA2:25
+Block = 289
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.pvr.tmb
+Size = 522256
+Packed Size = 309899
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = 94BBBFAB
+Encrypted = -
+Method = LZMA2:25
+Block = 290
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.pvr.toc
+Size = 51084
+Packed Size = 26764
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = E6156FF2
+Encrypted = -
+Method = LZMA2:25
+Block = 291
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.txt
+Size = 786069
+Packed Size = 183658
+Modified = 2023-05-01 18:10:38.0000000
+Attributes = A -rw-rw----
+CRC = 012A7153
+Encrypted = -
+Method = LZMA2:25
+Block = 292
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3/gta3.unc.tmb
+Size = 1573648
+Packed Size = 713286
+Modified = 2023-05-01 18:10:36.0000000
+Attributes = A -rw-rw----
+CRC = 9409299D
+Encrypted = -
+Method = LZMA2:25
+Block = 293
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta3.img
+Size = 432506880
+Packed Size = 127552663
+Modified = 2023-05-01 18:33:23.0000000
+Attributes = A -rw-rw----
+CRC = 1FA4FBEC
+Encrypted = -
+Method = LZMA2:25
+Block = 294
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.dxt.dat
+Size = 45302522
+Packed Size = 27150207
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 0E423234
+Encrypted = -
+Method = LZMA2:25
+Block = 295
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.dxt.tmb
+Size = 115834
+Packed Size = 72682
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = E5FCDABC
+Encrypted = -
+Method = LZMA2:25
+Block = 296
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.dxt.toc
+Size = 10168
+Packed Size = 5925
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 98D4B5A0
+Encrypted = -
+Method = LZMA2:25
+Block = 297
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.etc.dat
+Size = 45302522
+Packed Size = 27150207
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 0E423234
+Encrypted = -
+Method = LZMA2:25
+Block = 298
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.etc.tmb
+Size = 115834
+Packed Size = 72682
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = E5FCDABC
+Encrypted = -
+Method = LZMA2:25
+Block = 299
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.etc.toc
+Size = 10168
+Packed Size = 5925
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 98D4B5A0
+Encrypted = -
+Method = LZMA2:25
+Block = 300
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.pvr.dat
+Size = 45302522
+Packed Size = 27150207
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 0E423234
+Encrypted = -
+Method = LZMA2:25
+Block = 301
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.pvr.tmb
+Size = 115834
+Packed Size = 72682
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = E5FCDABC
+Encrypted = -
+Method = LZMA2:25
+Block = 302
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.pvr.toc
+Size = 10168
+Packed Size = 5925
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 98D4B5A0
+Encrypted = -
+Method = LZMA2:25
+Block = 303
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.txt
+Size = 155570
+Packed Size = 40864
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = AFB15C98
+Encrypted = -
+Method = LZMA2:25
+Block = 304
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int/gta_int.unc.tmb
+Size = 332314
+Packed Size = 163866
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = B79BAE83
+Encrypted = -
+Method = LZMA2:25
+Block = 305
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/gta_int.img
+Size = 44836864
+Packed Size = 11926208
+Modified = 2023-04-30 18:39:31.0000000
+Attributes = A -rw-rw----
+CRC = 12DA150A
+Encrypted = -
+Method = LZMA2:25
+Block = 306
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.dxt.dat
+Size = 7799478
+Packed Size = 2520422
+Modified = 2023-04-30 18:39:32.0000000
+Attributes = A -rw-rw----
+CRC = FC160ABA
+Encrypted = -
+Method = LZMA2:25
+Block = 307
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.dxt.tmb
+Size = 860
+Packed Size = 277
+Modified = 2023-04-30 18:39:33.0000000
+Attributes = A -rw-rw----
+CRC = A7F537B9
+Encrypted = -
+Method = LZMA2:25
+Block = 308
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.dxt.toc
+Size = 176
+Packed Size = 170
+Modified = 2023-04-30 18:39:33.0000000
+Attributes = A -rw-rw----
+CRC = 23412ED9
+Encrypted = -
+Method = LZMA2:25
+Block = 309
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.etc.dat
+Size = 10822324
+Packed Size = 3002187
+Modified = 2023-04-30 18:39:34.0000000
+Attributes = A -rw-rw----
+CRC = D27E6D7E
+Encrypted = -
+Method = LZMA2:25
+Block = 310
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.etc.tmb
+Size = 860
+Packed Size = 277
+Modified = 2023-04-30 18:39:34.0000000
+Attributes = A -rw-rw----
+CRC = A7F537B9
+Encrypted = -
+Method = LZMA2:25
+Block = 311
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.etc.toc
+Size = 176
+Packed Size = 172
+Modified = 2023-04-30 18:39:35.0000000
+Attributes = A -rw-rw----
+CRC = DC8822B0
+Encrypted = -
+Method = LZMA2:25
+Block = 312
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.pvr.dat
+Size = 10822324
+Packed Size = 3002187
+Modified = 2023-04-30 18:39:36.0000000
+Attributes = A -rw-rw----
+CRC = D27E6D7E
+Encrypted = -
+Method = LZMA2:25
+Block = 313
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.pvr.tmb
+Size = 860
+Packed Size = 277
+Modified = 2023-04-30 18:39:36.0000000
+Attributes = A -rw-rw----
+CRC = A7F537B9
+Encrypted = -
+Method = LZMA2:25
+Block = 314
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.pvr.toc
+Size = 176
+Packed Size = 172
+Modified = 2023-04-30 18:39:36.0000000
+Attributes = A -rw-rw----
+CRC = DC8822B0
+Encrypted = -
+Method = LZMA2:25
+Block = 315
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.txt
+Size = 3342
+Packed Size = 952
+Modified = 2023-04-30 18:39:37.0000000
+Attributes = A -rw-rw----
+CRC = 2FB26E10
+Encrypted = -
+Method = LZMA2:25
+Block = 316
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/menu/menu.unc.tmb
+Size = 860
+Packed Size = 277
+Modified = 2023-04-30 18:39:37.0000000
+Attributes = A -rw-rw----
+CRC = A7F537B9
+Encrypted = -
+Method = LZMA2:25
+Block = 317
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.dxt.dat
+Size = 6644840
+Packed Size = 1620646
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = B5345102
+Encrypted = -
+Method = LZMA2:25
+Block = 318
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.dxt.tmb
+Size = 9380
+Packed Size = 2986
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = C0291811
+Encrypted = -
+Method = LZMA2:25
+Block = 319
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.dxt.toc
+Size = 792
+Packed Size = 585
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = 04E68654
+Encrypted = -
+Method = LZMA2:25
+Block = 320
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.etc.dat
+Size = 7781230
+Packed Size = 1585883
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = 30B0BB63
+Encrypted = -
+Method = LZMA2:25
+Block = 321
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.etc.tmb
+Size = 9380
+Packed Size = 2986
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = C0291811
+Encrypted = -
+Method = LZMA2:25
+Block = 322
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.etc.toc
+Size = 792
+Packed Size = 590
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = 2BCD80CA
+Encrypted = -
+Method = LZMA2:25
+Block = 323
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.pvr.dat
+Size = 7781230
+Packed Size = 1585802
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = E4B920E8
+Encrypted = -
+Method = LZMA2:25
+Block = 324
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.pvr.tmb
+Size = 9380
+Packed Size = 2986
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = C0291811
+Encrypted = -
+Method = LZMA2:25
+Block = 325
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.pvr.toc
+Size = 792
+Packed Size = 590
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = 2BCD80CA
+Encrypted = -
+Method = LZMA2:25
+Block = 326
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.txt
+Size = 12793
+Packed Size = 3144
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = B7C00F93
+Encrypted = -
+Method = LZMA2:25
+Block = 327
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/mobile/mobile.unc.tmb
+Size = 27620
+Packed Size = 5352
+Modified = 2023-05-01 15:04:19.0000000
+Attributes = A -rw-rw----
+CRC = 1BD93911
+Encrypted = -
+Method = LZMA2:25
+Block = 328
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/patch_medium.img
+Size = 773
+Packed Size = 195
+Modified = 2023-04-30 20:23:26.0000000
+Attributes = A -rw-rw----
+CRC = E3ADC6F4
+Encrypted = -
+Method = LZMA2:25
+Block = 329
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/player/player.pvr.dat
+Size = 6569414
+Packed Size = 2622116
+Modified = 2023-04-30 18:39:41.0000000
+Attributes = A -rw-rw----
+CRC = ADAFD5E3
+Encrypted = -
+Method = LZMA2:25
+Block = 330
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/player/player.pvr.tmb
+Size = 6940
+Packed Size = 1760
+Modified = 2023-04-30 18:39:42.0000000
+Attributes = A -rw-rw----
+CRC = 7058A1D4
+Encrypted = -
+Method = LZMA2:25
+Block = 331
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/player/player.pvr.toc
+Size = 1580
+Packed Size = 1004
+Modified = 2023-04-30 18:39:42.0000000
+Attributes = A -rw-rw----
+CRC = D7B22E4A
+Encrypted = -
+Method = LZMA2:25
+Block = 332
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/player/player.txt
+Size = 27810
+Packed Size = 6851
+Modified = 2023-04-30 18:39:43.0000000
+Attributes = A -rw-rw----
+CRC = 682573D4
+Encrypted = -
+Method = LZMA2:25
+Block = 333
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/player.img
+Size = 16412672
+Packed Size = 2363077
+Modified = 2023-04-30 18:39:44.0000000
+Attributes = A -rw-rw----
+CRC = DFEAE560
+Encrypted = -
+Method = LZMA2:25
+Block = 334
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/playerhi/playerhi.pvr.dat
+Size = 27658902
+Packed Size = 10772954
+Modified = 2023-04-30 18:39:45.0000000
+Attributes = A -rw-rw----
+CRC = A5A9ACAA
+Encrypted = -
+Method = LZMA2:25
+Block = 335
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/playerhi/playerhi.pvr.tmb
+Size = 6940
+Packed Size = 1883
+Modified = 2023-04-30 18:39:45.0000000
+Attributes = A -rw-rw----
+CRC = C6737036
+Encrypted = -
+Method = LZMA2:25
+Block = 336
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/playerhi/playerhi.pvr.toc
+Size = 1580
+Packed Size = 1120
+Modified = 2023-04-30 18:39:45.0000000
+Attributes = A -rw-rw----
+CRC = F1DBE775
+Encrypted = -
+Method = LZMA2:25
+Block = 337
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/playerhi/playerhi.txt
+Size = 28087
+Packed Size = 6843
+Modified = 2023-04-30 18:39:45.0000000
+Attributes = A -rw-rw----
+CRC = 47C45845
+Encrypted = -
+Method = LZMA2:25
+Block = 338
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.dxt.dat
+Size = 22800108
+Packed Size = 6975382
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 9473B4EE
+Encrypted = -
+Method = LZMA2:25
+Block = 339
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.dxt.tmb
+Size = 20320
+Packed Size = 2582
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 380128EA
+Encrypted = -
+Method = LZMA2:25
+Block = 340
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.dxt.toc
+Size = 6156
+Packed Size = 2415
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 49DD82DB
+Encrypted = -
+Method = LZMA2:25
+Block = 341
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.etc.dat
+Size = 33858578
+Packed Size = 7453507
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 03977719
+Encrypted = -
+Method = LZMA2:25
+Block = 342
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.etc.tmb
+Size = 20320
+Packed Size = 2582
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 380128EA
+Encrypted = -
+Method = LZMA2:25
+Block = 343
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.etc.toc
+Size = 6156
+Packed Size = 2507
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 3719A6CE
+Encrypted = -
+Method = LZMA2:25
+Block = 344
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.pvr.dat
+Size = 14304198
+Packed Size = 6146447
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 554A5846
+Encrypted = -
+Method = LZMA2:25
+Block = 345
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.pvr.tmb
+Size = 20320
+Packed Size = 2582
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 380128EA
+Encrypted = -
+Method = LZMA2:25
+Block = 346
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.pvr.toc
+Size = 6156
+Packed Size = 2319
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = EF830033
+Encrypted = -
+Method = LZMA2:25
+Block = 347
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.txt
+Size = 89028
+Packed Size = 14531
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 3E06A6A1
+Encrypted = -
+Method = LZMA2:25
+Block = 348
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.unc.dat
+Size = 33150952
+Packed Size = 7280867
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 3FC7A7F5
+Encrypted = -
+Method = LZMA2:25
+Block = 349
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.unc.tmb
+Size = 21088
+Packed Size = 2700
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = 3CDDE2BF
+Encrypted = -
+Method = LZMA2:25
+Block = 350
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp/samp.unc.toc
+Size = 6156
+Packed Size = 2513
+Modified = 2023-04-30 20:03:08.0000000
+Attributes = A -rw-rw----
+CRC = CDBAFC03
+Encrypted = -
+Method = LZMA2:25
+Block = 351
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/samp.img
+Size = 36902912
+Packed Size = 4907083
+Modified = 2023-04-30 18:39:53.0000000
+Attributes = A -rw-rw----
+CRC = D4A59C5E
+Encrypted = -
+Method = LZMA2:25
+Block = 352
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.360.dat
+Size = 7625578
+Packed Size = 2477646
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = 0A33E114
+Encrypted = -
+Method = LZMA2:25
+Block = 353
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.360.tmb
+Size = 31028
+Packed Size = 15290
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = C3C08A70
+Encrypted = -
+Method = LZMA2:25
+Block = 354
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.360.toc
+Size = 2376
+Packed Size = 1240
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = 1C14153B
+Encrypted = -
+Method = LZMA2:25
+Block = 355
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.dxt.dat
+Size = 11027052
+Packed Size = 4125255
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = 01361027
+Encrypted = -
+Method = LZMA2:25
+Block = 356
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.dxt.tmb
+Size = 47740
+Packed Size = 24168
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = DB913FE6
+Encrypted = -
+Method = LZMA2:25
+Block = 357
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.dxt.toc
+Size = 3184
+Packed Size = 1780
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = E6ADAA65
+Encrypted = -
+Method = LZMA2:25
+Block = 358
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.etc.dat
+Size = 11027052
+Packed Size = 4125255
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = 01361027
+Encrypted = -
+Method = LZMA2:25
+Block = 359
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.etc.tmb
+Size = 47740
+Packed Size = 24168
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = DB913FE6
+Encrypted = -
+Method = LZMA2:25
+Block = 360
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.etc.toc
+Size = 3184
+Packed Size = 1780
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = E6ADAA65
+Encrypted = -
+Method = LZMA2:25
+Block = 361
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.pvr.dat
+Size = 11027052
+Packed Size = 4125255
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = 01361027
+Encrypted = -
+Method = LZMA2:25
+Block = 362
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.pvr.tmb
+Size = 47740
+Packed Size = 24168
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = DB913FE6
+Encrypted = -
+Method = LZMA2:25
+Block = 363
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.pvr.toc
+Size = 3184
+Packed Size = 1780
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = E6ADAA65
+Encrypted = -
+Method = LZMA2:25
+Block = 364
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.txt
+Size = 50585
+Packed Size = 10066
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = 2F46AC65
+Encrypted = -
+Method = LZMA2:25
+Block = 365
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/txd/txd.unc.tmb
+Size = 130780
+Packed Size = 51783
+Modified = 2023-04-30 20:33:40.0000000
+Attributes = A -rw-rw----
+CRC = B85348D3
+Encrypted = -
+Method = LZMA2:25
+Block = 366
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.dxt.dat
+Size = 23244450
+Packed Size = 4352084
+Modified = 2023-05-01 21:19:23.0000000
+Attributes = A -rw-rw----
+CRC = 7E88E3D5
+Encrypted = -
+Method = LZMA2:25
+Block = 367
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.dxt.tmb
+Size = 54492
+Packed Size = 9681
+Modified = 2023-05-01 21:19:23.0000000
+Attributes = A -rw-rw----
+CRC = F0C7223C
+Encrypted = -
+Method = LZMA2:25
+Block = 368
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.dxt.toc
+Size = 864
+Packed Size = 657
+Modified = 2023-05-01 21:19:23.0000000
+Attributes = A -rw-rw----
+CRC = 23E52940
+Encrypted = -
+Method = LZMA2:25
+Block = 369
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.etc.dat
+Size = 23244450
+Packed Size = 4352084
+Modified = 2023-05-01 21:19:23.0000000
+Attributes = A -rw-rw----
+CRC = 7E88E3D5
+Encrypted = -
+Method = LZMA2:25
+Block = 370
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.etc.tmb
+Size = 54492
+Packed Size = 9681
+Modified = 2023-05-01 21:19:24.0000000
+Attributes = A -rw-rw----
+CRC = F0C7223C
+Encrypted = -
+Method = LZMA2:25
+Block = 371
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.etc.toc
+Size = 864
+Packed Size = 657
+Modified = 2023-05-01 21:19:24.0000000
+Attributes = A -rw-rw----
+CRC = 23E52940
+Encrypted = -
+Method = LZMA2:25
+Block = 372
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.pvr.dat
+Size = 23244450
+Packed Size = 4352084
+Modified = 2023-05-01 21:19:24.0000000
+Attributes = A -rw-rw----
+CRC = 7E88E3D5
+Encrypted = -
+Method = LZMA2:25
+Block = 373
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.pvr.tmb
+Size = 54492
+Packed Size = 9681
+Modified = 2023-05-01 21:19:24.0000000
+Attributes = A -rw-rw----
+CRC = F0C7223C
+Encrypted = -
+Method = LZMA2:25
+Block = 374
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.pvr.toc
+Size = 864
+Packed Size = 657
+Modified = 2023-05-01 21:19:24.0000000
+Attributes = A -rw-rw----
+CRC = 23E52940
+Encrypted = -
+Method = LZMA2:25
+Block = 375
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/texdb/vicio/vicio.txt
+Size = 12738
+Packed Size = 2447
+Modified = 2023-05-01 21:19:24.0000000
+Attributes = A -rw-rw----
+CRC = 6F66E69E
+Encrypted = -
+Method = LZMA2:25
+Block = 376
+
+Path = Data Especial 10k v1.0  ✨ (Com Postes & Todas GPUS) - Samp Mobile/com.sampmobile.game/files/vehicleAudioSettings.cfg
+Size = 56871
+Packed Size = 6186
+Modified = 2023-04-30 18:39:58.0000000
+Attributes = A -rw-rw----
+CRC = DB1913B9
+Encrypted = -
+Method = LZMA2:25
+Block = 377
+
