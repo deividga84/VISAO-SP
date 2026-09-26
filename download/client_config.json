@@ -1,7 +1,7 @@
 {
   "client_config": {
-    "version_code": 1,
-    "url_launcher": "",
+    "version_code": 2,
+    "url_launcher": "https://github.com/deividga84/VISAO-SP/releases/download/v0.0.2/visao-sp-update-v0.0.2.apk",
     "url_cache_files": "files.json"
   }
 }
