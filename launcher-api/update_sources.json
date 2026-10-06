@@ -1,0 +1,26 @@
+{
+  "client_config_urls": [],
+  "fallback_file_base_urls": [],
+  "data_variants": [
+    {
+      "id": "lite",
+      "label": "Data Lite",
+      "client_config_urls": [
+        "https://raw.githubusercontent.com/deividga84/VISAO-SP/main/launcher-api/client_config-lite.json"
+      ],
+      "fallback_file_base_urls": [
+        "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-lite/files"
+      ]
+    },
+    {
+      "id": "full",
+      "label": "Data Full",
+      "client_config_urls": [
+        "https://raw.githubusercontent.com/deividga84/VISAO-SP/main/launcher-api/client_config-full.json"
+      ],
+      "fallback_file_base_urls": [
+        "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files"
+      ]
+    }
+  ]
+}
