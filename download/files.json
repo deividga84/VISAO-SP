@@ -67,6 +67,12 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/tracks4.dat"
     },
     {
+      "name": "vehicleAudioSettings.cfg",
+      "size": 22642,
+      "path": "SAMP/vehicleAudioSettings.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/vehicleAudioSettings.cfg"
+    },
+    {
       "name": "vehicles.ide",
       "size": 21093,
       "path": "SAMP/vehicles.ide",
@@ -146,7 +152,7 @@
     },
     {
       "name": "FEET.osw",
-      "size": 138118,
+      "size": 488142,
       "path": "audio/SFX/FEET.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/SFX/FEET.osw"
     },
@@ -158,13 +164,13 @@
     },
     {
       "name": "GENRL.osw",
-      "size": 9362373,
+      "size": 51349909,
       "path": "audio/SFX/GENRL.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/SFX/GENRL.osw"
     },
     {
       "name": "GENRL.osw.idx",
-      "size": 20868,
+      "size": 21028,
       "path": "audio/SFX/GENRL.osw.idx",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/SFX/GENRL.osw.idx"
     },
@@ -182,7 +188,7 @@
     },
     {
       "name": "AA.osw",
-      "size": 15462,
+      "size": 63250,
       "path": "audio/STREAMS/AA.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/AA.osw"
     },
@@ -194,19 +200,19 @@
     },
     {
       "name": "ADVERTS.osw",
-      "size": 3516982,
+      "size": 113788483,
       "path": "audio/STREAMS/ADVERTS.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/ADVERTS.osw"
     },
     {
       "name": "ADVERTS.osw.idx",
-      "size": 1591,
+      "size": 671,
       "path": "audio/STREAMS/ADVERTS.osw.idx",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/ADVERTS.osw.idx"
     },
     {
       "name": "AMBIENCE.osw",
-      "size": 22719112,
+      "size": 23798784,
       "path": "audio/STREAMS/AMBIENCE.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/AMBIENCE.osw"
     },
@@ -218,7 +224,7 @@
     },
     {
       "name": "BEATS.osw",
-      "size": 9415375,
+      "size": 6838908,
       "path": "audio/STREAMS/BEATS.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/BEATS.osw"
     },
@@ -230,7 +236,7 @@
     },
     {
       "name": "CH.osw",
-      "size": 15462,
+      "size": 124562,
       "path": "audio/STREAMS/CH.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/CH.osw"
     },
@@ -242,7 +248,7 @@
     },
     {
       "name": "CO.osw",
-      "size": 15462,
+      "size": 148512,
       "path": "audio/STREAMS/CO.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/CO.osw"
     },
@@ -254,7 +260,7 @@
     },
     {
       "name": "CR.osw",
-      "size": 15462,
+      "size": 149470,
       "path": "audio/STREAMS/CR.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/CR.osw"
     },
@@ -278,7 +284,7 @@
     },
     {
       "name": "DS.osw",
-      "size": 15462,
+      "size": 171504,
       "path": "audio/STREAMS/DS.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/DS.osw"
     },
@@ -290,7 +296,7 @@
     },
     {
       "name": "HC.osw",
-      "size": 15462,
+      "size": 110192,
       "path": "audio/STREAMS/HC.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/HC.osw"
     },
@@ -302,7 +308,7 @@
     },
     {
       "name": "MH.osw",
-      "size": 15462,
+      "size": 145638,
       "path": "audio/STREAMS/MH.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/MH.osw"
     },
@@ -314,7 +320,7 @@
     },
     {
       "name": "MR.osw",
-      "size": 15462,
+      "size": 140848,
       "path": "audio/STREAMS/MR.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/MR.osw"
     },
@@ -326,7 +332,7 @@
     },
     {
       "name": "NJ.osw",
-      "size": 15462,
+      "size": 124562,
       "path": "audio/STREAMS/NJ.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/NJ.osw"
     },
@@ -338,7 +344,7 @@
     },
     {
       "name": "RE.osw",
-      "size": 15462,
+      "size": 154260,
       "path": "audio/STREAMS/RE.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/RE.osw"
     },
@@ -350,7 +356,7 @@
     },
     {
       "name": "RG.osw",
-      "size": 15462,
+      "size": 162882,
       "path": "audio/STREAMS/RG.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/RG.osw"
     },
@@ -362,7 +368,7 @@
     },
     {
       "name": "TK.osw",
-      "size": 15462,
+      "size": 96780,
       "path": "audio/STREAMS/TK.osw",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/TK.osw"
     },
@@ -1979,6 +1985,12 @@
       "size": 59636,
       "path": "texdb/txd/txd.unc.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.unc.tmb"
+    },
+    {
+      "name": "vehicleAudioSettings.cfg",
+      "size": 56871,
+      "path": "vehicleAudioSettings.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/vehicleAudioSettings.cfg"
     }
   ]
 }
