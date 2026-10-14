@@ -1895,6 +1895,31 @@
       "name": "vehicleAudioSettings.cfg",
       "size": 56871,
       "path": "vehicleAudioSettings.cfg"
+    },
+    {
+      "name": "analog_invisible.png",
+      "size": 14382,
+      "path": "data/hud_controls/analog_invisible.png"
+    },
+    {
+      "name": "voip_microphone.png",
+      "size": 1401704,
+      "path": "data/hud_controls/voip_microphone.png"
+    },
+    {
+      "name": "run_arrow_character.png",
+      "size": 2566284,
+      "path": "data/hud_controls/run_arrow_character.png"
+    },
+    {
+      "name": "punch_fist.png",
+      "size": 3176384,
+      "path": "data/hud_controls/punch_fist.png"
+    },
+    {
+      "name": "enter_vehicle.png",
+      "size": 2320551,
+      "path": "data/hud_controls/enter_vehicle.png"
     }
   ]
 }
