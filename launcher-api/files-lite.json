@@ -1,154 +1,244 @@
 {
   "files": [
     {
+      "name": "4_teleport_4.csi",
+      "size": 554,
+      "path": "4_teleport_4.csi"
+    },
+    {
+      "name": "4klrzn.csa",
+      "size": 82,
+      "path": "4klrzn.csa"
+    },
+    {
       "name": "Adjustable.cfg",
-      "size": 1035,
+      "size": 1806,
       "path": "Adjustable.cfg"
     },
     {
-      "name": "CINFO.BIN",
-      "size": 634064,
-      "path": "CINFO.BIN"
+      "name": "Ambient Occlusion.csa",
+      "size": 929,
+      "path": "Ambient Occlusion.csa"
     },
     {
-      "name": "GTASAMP10.b",
-      "size": 195000,
-      "path": "GTASAMP10.b"
+      "name": "Busted.csa",
+      "size": 1527,
+      "path": "Busted.csa"
     },
     {
-      "name": "SAMP.ide",
-      "size": 89349,
-      "path": "SAMP/SAMP.ide"
+      "name": "Camera DriftPC.csa",
+      "size": 18073,
+      "path": "Camera DriftPC.csa"
     },
     {
-      "name": "WEAPON.dat",
-      "size": 11585,
-      "path": "SAMP/WEAPON.dat"
+      "name": "Car Reff ENB.csa",
+      "size": 227,
+      "path": "Car Reff ENB.csa"
     },
     {
-      "name": "bpv.txt",
-      "size": 1146,
-      "path": "SAMP/bpv.txt"
+      "name": "Codigos.csi",
+      "size": 2747,
+      "path": "Codigos.csi"
     },
     {
-      "name": "chat.log",
-      "size": 1772,
-      "path": "SAMP/chat.log"
+      "name": "Codigos.fxt",
+      "size": 2301,
+      "path": "Codigos.fxt"
     },
     {
-      "name": "colorcycle.dat",
-      "size": 14627,
-      "path": "SAMP/colorcycle.dat"
+      "name": "Cor do Carro.csi",
+      "size": 18118,
+      "path": "Cor do Carro.csi"
     },
     {
-      "name": "crash.log",
-      "size": 188,
-      "path": "SAMP/crash.log"
+      "name": "Dynamic.csa",
+      "size": 6514,
+      "path": "Dynamic.csa"
     },
     {
-      "name": "crash_log.log",
-      "size": 9,
-      "path": "SAMP/crash_log.log"
+      "name": "FAST RENDER.csa",
+      "size": 471,
+      "path": "FAST RENDER.csa"
     },
     {
-      "name": "favorites.json",
-      "size": 228,
-      "path": "SAMP/favorites.json"
+      "name": "GTA Online.csa",
+      "size": 6432,
+      "path": "GTA Online.csa"
     },
     {
-      "name": "gta.dat",
-      "size": 3789,
-      "path": "SAMP/gta.dat"
+      "name": "GTASAsf1.b",
+      "size": 130000,
+      "path": "GTASAsf1.b"
     },
     {
-      "name": "handling.cfg",
-      "size": 64532,
-      "path": "SAMP/handling.cfg"
+      "name": "GTASAsf10.b",
+      "size": 130000,
+      "path": "GTASAsf10.b"
     },
     {
-      "name": "jekmant_log.txt",
-      "size": 1139,
-      "path": "SAMP/jekmant_log.txt"
+      "name": "Garaje.csi",
+      "size": 29044,
+      "path": "Garaje.csi"
     },
     {
-      "name": "main.scm",
-      "size": 96997,
-      "path": "SAMP/main.scm"
+      "name": "Garaje.fxt",
+      "size": 700,
+      "path": "Garaje.fxt"
     },
     {
-      "name": "peds.ide",
-      "size": 36369,
-      "path": "SAMP/peds.ide"
+      "name": "Gta Online.fxt",
+      "size": 278,
+      "path": "Gta Online.fxt"
     },
     {
-      "name": "samp.log",
-      "size": 37134,
-      "path": "SAMP/samp.log"
+      "name": "Gta V Money.csa",
+      "size": 2860,
+      "path": "Gta V Money.csa"
     },
     {
-      "name": "samp_log.txt",
-      "size": 381,
-      "path": "SAMP/samp_log.txt"
+      "name": "HeadLight Swtich_121450.csa",
+      "size": 1513,
+      "path": "HeadLight Swtich_121450.csa"
     },
     {
-      "name": "script.img",
-      "size": 184320,
-      "path": "SAMP/script.img"
+      "name": "HealthBar Fix.csi",
+      "size": 1086,
+      "path": "HealthBar Fix.csi"
     },
     {
-      "name": "server.ini",
-      "size": 164,
-      "path": "SAMP/server.ini"
+      "name": "MA-Trainer.csa",
+      "size": 307340,
+      "path": "MA-Trainer.csa"
     },
     {
-      "name": "settings.ini",
-      "size": 193,
-      "path": "SAMP/settings.ini"
+      "name": "MA-Trainer.fxt",
+      "size": 8801,
+      "path": "MA-Trainer.fxt"
     },
     {
-      "name": "settings.json",
-      "size": 265,
-      "path": "SAMP/settings.json"
+      "name": "New Backfire.csa",
+      "size": 2509,
+      "path": "New Backfire.csa"
     },
     {
-      "name": "svlog.txt",
-      "size": 7091,
-      "path": "SAMP/svlog.txt"
+      "name": "OFF HUD.csi",
+      "size": 44,
+      "path": "OFF HUD.csi"
     },
     {
-      "name": "timecyc.dat",
-      "size": 56445,
-      "path": "SAMP/timecyc.dat"
+      "name": "ON HUD.csi",
+      "size": 44,
+      "path": "ON HUD.csi"
     },
     {
-      "name": "tracks2.dat",
-      "size": 1,
-      "path": "SAMP/tracks2.dat"
+      "name": "PRIMEIRA  PESSOA.csa",
+      "size": 1409,
+      "path": "PRIMEIRA  PESSOA.csa"
     },
     {
-      "name": "tracks4.dat",
-      "size": 1,
-      "path": "SAMP/tracks4.dat"
+      "name": "Config.ini",
+      "size": 13838,
+      "path": "SAAExten/Config.ini"
     },
     {
-      "name": "vehicleAudioSettings.cfg",
-      "size": 22642,
-      "path": "SAMP/vehicleAudioSettings.cfg"
+      "name": "VehSpwnA.dat",
+      "size": 555,
+      "path": "SAAExten/VehSpwnA.dat"
     },
     {
-      "name": "vehicles.ide",
-      "size": 21093,
-      "path": "SAMP/vehicles.ide"
+      "name": "Save rápido.csi",
+      "size": 1428,
+      "path": "Save rápido.csi"
     },
     {
-      "name": "voice.log",
-      "size": 68,
-      "path": "SAMP/voice.log"
+      "name": "Save rápido.fxt",
+      "size": 40,
+      "path": "Save rápido.fxt"
     },
     {
-      "name": "voiceconfig.ini",
-      "size": 382,
-      "path": "SAMP/voiceconfig.ini"
+      "name": "Skin Selector v3.csi",
+      "size": 238985,
+      "path": "Skin Selector v3.csi"
+    },
+    {
+      "name": "Skin Selector v3.fxt",
+      "size": 13589,
+      "path": "Skin Selector v3.fxt"
+    },
+    {
+      "name": "StreamMemory512mB.csa",
+      "size": 142,
+      "path": "StreamMemory512mB.csa"
+    },
+    {
+      "name": "american.gxt",
+      "size": 1339424,
+      "path": "Text/american.gxt"
+    },
+    {
+      "name": "french.gxt",
+      "size": 1459044,
+      "path": "Text/french.gxt"
+    },
+    {
+      "name": "german.gxt",
+      "size": 1497182,
+      "path": "Text/german.gxt"
+    },
+    {
+      "name": "italian.gxt",
+      "size": 1371048,
+      "path": "Text/italian.gxt"
+    },
+    {
+      "name": "japanese.gxt",
+      "size": 643202,
+      "path": "Text/japanese.gxt"
+    },
+    {
+      "name": "russian.gxt",
+      "size": 1421038,
+      "path": "Text/russian.gxt"
+    },
+    {
+      "name": "spanish.gxt",
+      "size": 1386744,
+      "path": "Text/spanish.gxt"
+    },
+    {
+      "name": "JapaneseFont.met",
+      "size": 45171,
+      "path": "Textures/fonts/JapaneseFont.met"
+    },
+    {
+      "name": "JapaneseFont.png",
+      "size": 187721,
+      "path": "Textures/fonts/JapaneseFont.png"
+    },
+    {
+      "name": "RussianFont.met",
+      "size": 4279,
+      "path": "Textures/fonts/RussianFont.met"
+    },
+    {
+      "name": "RussianFont.png",
+      "size": 38743,
+      "path": "Textures/fonts/RussianFont.png"
+    },
+    {
+      "name": "WASTED & BUSTED TEXT.fxt",
+      "size": 713,
+      "path": "WASTED & BUSTED TEXT.fxt"
+    },
+    {
+      "name": "Wasted.csa",
+      "size": 1558,
+      "path": "Wasted.csa"
+    },
+    {
+      "name": "[R.A] Radar Editor.csi",
+      "size": 852,
+      "path": "[R.A] Radar Editor.csi"
     },
     {
       "name": "anim.img",
@@ -222,12 +312,12 @@
     },
     {
       "name": "GENRL.osw",
-      "size": 51349909,
+      "size": 52116938,
       "path": "audio/SFX/GENRL.osw"
     },
     {
       "name": "GENRL.osw.idx",
-      "size": 21028,
+      "size": 21188,
       "path": "audio/SFX/GENRL.osw.idx"
     },
     {
@@ -239,6 +329,16 @@
       "name": "PAIN_A.osw.idx",
       "size": 12836,
       "path": "audio/SFX/PAIN_A.osw.idx"
+    },
+    {
+      "name": "SCRIPT.osw",
+      "size": 141883,
+      "path": "audio/SFX/SCRIPT.osw"
+    },
+    {
+      "name": "SCRIPT.osw.idx",
+      "size": 132,
+      "path": "audio/SFX/SCRIPT.osw.idx"
     },
     {
       "name": "AA.osw",
@@ -537,7 +637,7 @@
     },
     {
       "name": "carcols.dat",
-      "size": 15361,
+      "size": 14986,
       "path": "data/carcols.dat"
     },
     {
@@ -552,12 +652,12 @@
     },
     {
       "name": "clothes.dat",
-      "size": 5317,
+      "size": 5264,
       "path": "data/clothes.dat"
     },
     {
       "name": "colorcycle.dat",
-      "size": 14627,
+      "size": 15360,
       "path": "data/colorcycle.dat"
     },
     {
@@ -569,11 +669,6 @@
       "name": "default.ide",
       "size": 4679,
       "path": "data/default.ide"
-    },
-    {
-      "name": "fixLagRockstarMobile.dat",
-      "size": 123320,
-      "path": "data/fixLagRockstarMobile.dat"
     },
     {
       "name": "fonts.dat",
@@ -592,7 +687,7 @@
     },
     {
       "name": "gta.dat",
-      "size": 3776,
+      "size": 930,
       "path": "data/gta.dat"
     },
     {
@@ -616,219 +711,54 @@
       "path": "data/maps/Audiozon.ipl"
     },
     {
-      "name": "LAe.ide",
-      "size": 12249,
-      "path": "data/maps/LA/LAe.ide"
+      "name": "A.IDE",
+      "size": 32986,
+      "path": "data/maps/LS/A.IDE"
     },
     {
-      "name": "LAe.ipl",
-      "size": 27328,
-      "path": "data/maps/LA/LAe.ipl"
+      "name": "A.IPL",
+      "size": 118128,
+      "path": "data/maps/LS/A.IPL"
     },
     {
-      "name": "LAe2.ide",
-      "size": 21907,
-      "path": "data/maps/LA/LAe2.ide"
+      "name": "B.IDE",
+      "size": 11718,
+      "path": "data/maps/LS/B.IDE"
     },
     {
-      "name": "LAe2.ipl",
-      "size": 33651,
-      "path": "data/maps/LA/LAe2.ipl"
+      "name": "B.IPL",
+      "size": 30519,
+      "path": "data/maps/LS/B.IPL"
     },
     {
-      "name": "LAhills.ide",
-      "size": 10601,
-      "path": "data/maps/LA/LAhills.ide"
+      "name": "C.IDE",
+      "size": 49060,
+      "path": "data/maps/LS/C.IDE"
     },
     {
-      "name": "LAhills.ipl",
-      "size": 34506,
-      "path": "data/maps/LA/LAhills.ipl"
+      "name": "C.IPL",
+      "size": 169311,
+      "path": "data/maps/LS/C.IPL"
     },
     {
-      "name": "LAn.ide",
-      "size": 11107,
-      "path": "data/maps/LA/LAn.ide"
+      "name": "D.IDE",
+      "size": 40094,
+      "path": "data/maps/LS/D.IDE"
     },
     {
-      "name": "LAn.ipl",
-      "size": 14264,
-      "path": "data/maps/LA/LAn.ipl"
+      "name": "D.IPL",
+      "size": 108052,
+      "path": "data/maps/LS/D.IPL"
     },
     {
-      "name": "LAn2.ide",
-      "size": 9565,
-      "path": "data/maps/LA/LAn2.ide"
+      "name": "E.IPL",
+      "size": 28160,
+      "path": "data/maps/LS/E.IPL"
     },
     {
-      "name": "LAn2.ipl",
-      "size": 13185,
-      "path": "data/maps/LA/LAn2.ipl"
-    },
-    {
-      "name": "LAs.ide",
-      "size": 12575,
-      "path": "data/maps/LA/LAs.ide"
-    },
-    {
-      "name": "LAs.ipl",
-      "size": 22414,
-      "path": "data/maps/LA/LAs.ipl"
-    },
-    {
-      "name": "LAs2.ide",
-      "size": 12364,
-      "path": "data/maps/LA/LAs2.ide"
-    },
-    {
-      "name": "LAs2.ipl",
-      "size": 38441,
-      "path": "data/maps/LA/LAs2.ipl"
-    },
-    {
-      "name": "LAw.ide",
-      "size": 9412,
-      "path": "data/maps/LA/LAw.ide"
-    },
-    {
-      "name": "LAw.ipl",
-      "size": 15105,
-      "path": "data/maps/LA/LAw.ipl"
-    },
-    {
-      "name": "LAw2.ide",
-      "size": 11060,
-      "path": "data/maps/LA/LAw2.ide"
-    },
-    {
-      "name": "LAw2.ipl",
-      "size": 18232,
-      "path": "data/maps/LA/LAw2.ipl"
-    },
-    {
-      "name": "LAxref.ide",
-      "size": 10477,
-      "path": "data/maps/LA/LAxref.ide"
-    },
-    {
-      "name": "LaWn.ide",
-      "size": 13092,
-      "path": "data/maps/LA/LaWn.ide"
-    },
-    {
-      "name": "LaWn.ipl",
-      "size": 24330,
-      "path": "data/maps/LA/LaWn.ipl"
-    },
-    {
-      "name": "SFSe.ide",
-      "size": 30227,
-      "path": "data/maps/SF/SFSe.ide"
-    },
-    {
-      "name": "SFSe.ipl",
-      "size": 53359,
-      "path": "data/maps/SF/SFSe.ipl"
-    },
-    {
-      "name": "SFe.ide",
-      "size": 16224,
-      "path": "data/maps/SF/SFe.ide"
-    },
-    {
-      "name": "SFe.ipl",
-      "size": 26707,
-      "path": "data/maps/SF/SFe.ipl"
-    },
-    {
-      "name": "SFn.ide",
-      "size": 11219,
-      "path": "data/maps/SF/SFn.ide"
-    },
-    {
-      "name": "SFn.ipl",
-      "size": 26201,
-      "path": "data/maps/SF/SFn.ipl"
-    },
-    {
-      "name": "SFs.ide",
-      "size": 18948,
-      "path": "data/maps/SF/SFs.ide"
-    },
-    {
-      "name": "SFs.ipl",
-      "size": 37969,
-      "path": "data/maps/SF/SFs.ipl"
-    },
-    {
-      "name": "SFw.ide",
-      "size": 16473,
-      "path": "data/maps/SF/SFw.ide"
-    },
-    {
-      "name": "SFw.ipl",
-      "size": 29247,
-      "path": "data/maps/SF/SFw.ipl"
-    },
-    {
-      "name": "SFxref.ide",
-      "size": 4631,
-      "path": "data/maps/SF/SFxref.ide"
-    },
-    {
-      "name": "countn2.ide",
-      "size": 35439,
-      "path": "data/maps/country/countn2.ide"
-    },
-    {
-      "name": "countn2.ipl",
-      "size": 41665,
-      "path": "data/maps/country/countn2.ipl"
-    },
-    {
-      "name": "countryN.ide",
-      "size": 11308,
-      "path": "data/maps/country/countryN.ide"
-    },
-    {
-      "name": "countryN.ipl",
-      "size": 14407,
-      "path": "data/maps/country/countryN.ipl"
-    },
-    {
-      "name": "countryS.ide",
-      "size": 18450,
-      "path": "data/maps/country/countryS.ide"
-    },
-    {
-      "name": "countryS.ipl",
-      "size": 33835,
-      "path": "data/maps/country/countryS.ipl"
-    },
-    {
-      "name": "countryW.ide",
-      "size": 19704,
-      "path": "data/maps/country/countryW.ide"
-    },
-    {
-      "name": "countrye.ide",
-      "size": 34529,
-      "path": "data/maps/country/countrye.ide"
-    },
-    {
-      "name": "countrye.ipl",
-      "size": 49301,
-      "path": "data/maps/country/countrye.ipl"
-    },
-    {
-      "name": "countryw.ipl",
-      "size": 35057,
-      "path": "data/maps/country/countryw.ipl"
-    },
-    {
-      "name": "counxref.ide",
-      "size": 8494,
-      "path": "data/maps/country/counxref.ide"
+      "name": "E.ide",
+      "size": 10742,
+      "path": "data/maps/LS/E.ide"
     },
     {
       "name": "cull.ipl",
@@ -852,7 +782,7 @@
     },
     {
       "name": "multiobj.ide",
-      "size": 5021,
+      "size": 5020,
       "path": "data/maps/generic/multiobj.ide"
     },
     {
@@ -1061,6 +991,11 @@
       "path": "data/maps/occluveg.ipl"
     },
     {
+      "name": "paths.img",
+      "size": 135168,
+      "path": "data/maps/paths.img"
+    },
+    {
       "name": "paths.ipl",
       "size": 2658607,
       "path": "data/maps/paths.ipl"
@@ -1086,59 +1021,19 @@
       "path": "data/maps/paths5.ipl"
     },
     {
+      "name": "testbed.ide",
+      "size": 54,
+      "path": "data/maps/testbed.ide"
+    },
+    {
+      "name": "testbed.ipl",
+      "size": 73,
+      "path": "data/maps/testbed.ipl"
+    },
+    {
       "name": "tunnels.ipl",
       "size": 3230,
       "path": "data/maps/tunnels.ipl"
-    },
-    {
-      "name": "VegasN.ide",
-      "size": 23715,
-      "path": "data/maps/vegas/VegasN.ide"
-    },
-    {
-      "name": "VegasS.ide",
-      "size": 18656,
-      "path": "data/maps/vegas/VegasS.ide"
-    },
-    {
-      "name": "VegasW.ide",
-      "size": 25456,
-      "path": "data/maps/vegas/VegasW.ide"
-    },
-    {
-      "name": "vegasE.ide",
-      "size": 35542,
-      "path": "data/maps/vegas/vegasE.ide"
-    },
-    {
-      "name": "vegasE.ipl",
-      "size": 61084,
-      "path": "data/maps/vegas/vegasE.ipl"
-    },
-    {
-      "name": "vegasN.ipl",
-      "size": 36651,
-      "path": "data/maps/vegas/vegasN.ipl"
-    },
-    {
-      "name": "vegasS.ipl",
-      "size": 30343,
-      "path": "data/maps/vegas/vegasS.ipl"
-    },
-    {
-      "name": "vegasW.ipl",
-      "size": 49867,
-      "path": "data/maps/vegas/vegasW.ipl"
-    },
-    {
-      "name": "vegaxref.ide",
-      "size": 5751,
-      "path": "data/maps/vegas/vegaxref.ide"
-    },
-    {
-      "name": "vegaxref.ipl",
-      "size": 3661,
-      "path": "data/maps/vegas/vegaxref.ipl"
     },
     {
       "name": "veh_mods.ide",
@@ -1162,7 +1057,7 @@
     },
     {
       "name": "carrec.img",
-      "size": 7264256,
+      "size": 2357248,
       "path": "data/paths/carrec.img"
     },
     {
@@ -1212,27 +1107,32 @@
     },
     {
       "name": "popcycle.dat",
-      "size": 127108,
+      "size": 121487,
       "path": "data/popcycle.dat"
     },
     {
       "name": "procobj.dat",
-      "size": 415,
+      "size": 10019,
       "path": "data/procobj.dat"
     },
     {
-      "name": "mainV1.scm",
-      "size": 3169778,
-      "path": "data/script/mainV1.scm"
+      "name": "mainv1.scm",
+      "size": 25451,
+      "path": "data/script/mainv1.scm"
+    },
+    {
+      "name": "mainv1.txt",
+      "size": 4010,
+      "path": "data/script/mainv1.txt"
     },
     {
       "name": "scriptv1.img",
-      "size": 561152,
+      "size": 4096,
       "path": "data/script/scriptv1.img"
     },
     {
       "name": "shopping.dat",
-      "size": 46875,
+      "size": 46874,
       "path": "data/shopping.dat"
     },
     {
@@ -1256,9 +1156,19 @@
       "path": "data/surfinfo.dat"
     },
     {
+      "name": "timecyc.aaa",
+      "size": 38338,
+      "path": "data/timecyc.aaa"
+    },
+    {
       "name": "timecyc.dat",
-      "size": 56445,
+      "size": 46994,
       "path": "data/timecyc.dat"
+    },
+    {
+      "name": "timecycp.dat",
+      "size": 41058,
+      "path": "data/timecycp.dat"
     },
     {
       "name": "txdcut.ide",
@@ -1272,7 +1182,7 @@
     },
     {
       "name": "water.dat",
-      "size": 70099,
+      "size": 162,
       "path": "data/water.dat"
     },
     {
@@ -1286,34 +1196,14 @@
       "path": "data/weapon.dat"
     },
     {
-      "name": "arial_bold.ttf",
-      "size": 45080,
-      "path": "fonts/arial_bold.ttf"
-    },
-    {
-      "name": "arial_bold_thai.ttf",
-      "size": 91696,
-      "path": "fonts/arial_bold_thai.ttf"
-    },
-    {
-      "name": "gtaweap3.ttf",
-      "size": 104004,
-      "path": "fonts/gtaweap3.ttf"
-    },
-    {
       "name": "gta_sa.set",
-      "size": 167,
+      "size": 159,
       "path": "gta_sa.set"
     },
     {
       "name": "gtasatelem.set",
       "size": 392,
       "path": "gtasatelem.set"
-    },
-    {
-      "name": "MINFO.BIN",
-      "size": 41100,
-      "path": "models/MINFO.BIN"
     },
     {
       "name": "peds.col",
@@ -1332,14 +1222,18 @@
     },
     {
       "name": "effects.fxp",
-      "size": 2483679,
+      "size": 1337587,
       "path": "models/effects.fxp"
     },
     {
-      "name": "playvicio.txt",
-      "size": 0,
-      "path": "playvicio.txt",
-      "url": "https://raw.githubusercontent.com/deividga84/VISAO-SP/main/data-lite/files/playvicio.txt"
+      "name": "scache_small.txt",
+      "size": 1010,
+      "path": "scache_small.txt"
+    },
+    {
+      "name": "scache_small_low.txt",
+      "size": 943,
+      "path": "scache_small_low.txt"
     },
     {
       "name": "stream.ini",
@@ -1347,183 +1241,58 @@
       "path": "stream.ini"
     },
     {
-      "name": "Optimize_Fps.img",
-      "size": 3011,
-      "path": "texdb/Optimize_Fps.img"
-    },
-    {
-      "name": "Optimize_Lag.img",
-      "size": 773,
-      "path": "texdb/Optimize_Lag.img"
-    },
-    {
-      "name": "SAMPCOL.img",
-      "size": 4253696,
-      "path": "texdb/SAMPCOL.img"
-    },
-    {
-      "name": "cutscene.img",
-      "size": 16029696,
-      "path": "texdb/cutscene.img"
-    },
-    {
-      "name": "cutscene.dxt.dat",
-      "size": 5731070,
-      "path": "texdb/cutscene/cutscene.dxt.dat"
-    },
-    {
-      "name": "cutscene.dxt.tmb",
-      "size": 19440,
-      "path": "texdb/cutscene/cutscene.dxt.tmb"
-    },
-    {
-      "name": "cutscene.dxt.toc",
-      "size": 1628,
-      "path": "texdb/cutscene/cutscene.dxt.toc"
-    },
-    {
-      "name": "cutscene.etc.dat",
-      "size": 5482370,
-      "path": "texdb/cutscene/cutscene.etc.dat"
-    },
-    {
-      "name": "cutscene.etc.tmb",
-      "size": 20784,
-      "path": "texdb/cutscene/cutscene.etc.tmb"
-    },
-    {
-      "name": "cutscene.etc.toc",
-      "size": 1628,
-      "path": "texdb/cutscene/cutscene.etc.toc"
-    },
-    {
-      "name": "cutscene.pvr.dat",
-      "size": 3614492,
-      "path": "texdb/cutscene/cutscene.pvr.dat"
-    },
-    {
-      "name": "cutscene.pvr.tmb",
-      "size": 30608,
-      "path": "texdb/cutscene/cutscene.pvr.tmb"
-    },
-    {
-      "name": "cutscene.pvr.toc",
-      "size": 1628,
-      "path": "texdb/cutscene/cutscene.pvr.toc"
-    },
-    {
-      "name": "cutscene.txt",
-      "size": 24626,
-      "path": "texdb/cutscene/cutscene.txt"
-    },
-    {
-      "name": "cutscene.unc.tmb",
-      "size": 56304,
-      "path": "texdb/cutscene/cutscene.unc.tmb"
-    },
-    {
       "name": "gta3.img",
-      "size": 432506880,
+      "size": 264486912,
       "path": "texdb/gta3.img"
     },
     {
-      "name": "gta3.dxt.dat",
-      "size": 208706912,
-      "path": "texdb/gta3/gta3.dxt.dat"
-    },
-    {
-      "name": "gta3.dxt.tmb",
-      "size": 522256,
-      "path": "texdb/gta3/gta3.dxt.tmb"
-    },
-    {
-      "name": "gta3.dxt.toc",
-      "size": 51084,
-      "path": "texdb/gta3/gta3.dxt.toc"
-    },
-    {
-      "name": "gta3.etc.dat",
-      "size": 208706912,
-      "path": "texdb/gta3/gta3.etc.dat"
-    },
-    {
-      "name": "gta3.etc.tmb",
-      "size": 522256,
-      "path": "texdb/gta3/gta3.etc.tmb"
-    },
-    {
-      "name": "gta3.etc.toc",
-      "size": 51084,
-      "path": "texdb/gta3/gta3.etc.toc"
-    },
-    {
       "name": "gta3.pvr.dat",
-      "size": 208706912,
+      "size": 136104398,
       "path": "texdb/gta3/gta3.pvr.dat"
     },
     {
       "name": "gta3.pvr.tmb",
-      "size": 522256,
+      "size": 261888,
       "path": "texdb/gta3/gta3.pvr.tmb"
     },
     {
       "name": "gta3.pvr.toc",
-      "size": 51084,
+      "size": 5344,
       "path": "texdb/gta3/gta3.pvr.toc"
     },
     {
       "name": "gta3.txt",
-      "size": 786069,
+      "size": 95549,
       "path": "texdb/gta3/gta3.txt"
     },
     {
+      "name": "gta3.unc.dat",
+      "size": 43343318,
+      "path": "texdb/gta3/gta3.unc.dat"
+    },
+    {
       "name": "gta3.unc.tmb",
-      "size": 1573648,
+      "size": 313616,
       "path": "texdb/gta3/gta3.unc.tmb"
     },
     {
+      "name": "gta3.unc.toc",
+      "size": 4552,
+      "path": "texdb/gta3/gta3.unc.toc"
+    },
+    {
       "name": "gta_int.img",
-      "size": 44836864,
+      "size": 960374784,
       "path": "texdb/gta_int.img"
     },
     {
-      "name": "gta_int.dxt.dat",
-      "size": 45302522,
-      "path": "texdb/gta_int/gta_int.dxt.dat"
-    },
-    {
-      "name": "gta_int.dxt.tmb",
-      "size": 115834,
-      "path": "texdb/gta_int/gta_int.dxt.tmb"
-    },
-    {
-      "name": "gta_int.dxt.toc",
-      "size": 10168,
-      "path": "texdb/gta_int/gta_int.dxt.toc"
-    },
-    {
-      "name": "gta_int.etc.dat",
-      "size": 45302522,
-      "path": "texdb/gta_int/gta_int.etc.dat"
-    },
-    {
-      "name": "gta_int.etc.tmb",
-      "size": 115834,
-      "path": "texdb/gta_int/gta_int.etc.tmb"
-    },
-    {
-      "name": "gta_int.etc.toc",
-      "size": 10168,
-      "path": "texdb/gta_int/gta_int.etc.toc"
-    },
-    {
       "name": "gta_int.pvr.dat",
-      "size": 45302522,
+      "size": 48496978,
       "path": "texdb/gta_int/gta_int.pvr.dat"
     },
     {
       "name": "gta_int.pvr.tmb",
-      "size": 115834,
+      "size": 125994,
       "path": "texdb/gta_int/gta_int.pvr.tmb"
     },
     {
@@ -1533,22 +1302,22 @@
     },
     {
       "name": "gta_int.txt",
-      "size": 155570,
+      "size": 159541,
       "path": "texdb/gta_int/gta_int.txt"
     },
     {
       "name": "gta_int.unc.tmb",
-      "size": 332314,
+      "size": 352202,
       "path": "texdb/gta_int/gta_int.unc.tmb"
     },
     {
       "name": "menu.dxt.dat",
-      "size": 7799478,
+      "size": 22796514,
       "path": "texdb/menu/menu.dxt.dat"
     },
     {
       "name": "menu.dxt.tmb",
-      "size": 860,
+      "size": 7160,
       "path": "texdb/menu/menu.dxt.tmb"
     },
     {
@@ -1558,12 +1327,12 @@
     },
     {
       "name": "menu.etc.dat",
-      "size": 10822324,
+      "size": 23095162,
       "path": "texdb/menu/menu.etc.dat"
     },
     {
       "name": "menu.etc.tmb",
-      "size": 860,
+      "size": 7160,
       "path": "texdb/menu/menu.etc.tmb"
     },
     {
@@ -1573,12 +1342,12 @@
     },
     {
       "name": "menu.pvr.dat",
-      "size": 10822324,
+      "size": 68887980,
       "path": "texdb/menu/menu.pvr.dat"
     },
     {
       "name": "menu.pvr.tmb",
-      "size": 860,
+      "size": 10524,
       "path": "texdb/menu/menu.pvr.tmb"
     },
     {
@@ -1588,97 +1357,97 @@
     },
     {
       "name": "menu.txt",
-      "size": 3342,
+      "size": 2930,
       "path": "texdb/menu/menu.txt"
     },
     {
       "name": "menu.unc.tmb",
-      "size": 860,
+      "size": 10940,
       "path": "texdb/menu/menu.unc.tmb"
     },
     {
       "name": "mobile.dxt.dat",
-      "size": 6644840,
+      "size": 19693180,
       "path": "texdb/mobile/mobile.dxt.dat"
     },
     {
       "name": "mobile.dxt.tmb",
-      "size": 9380,
+      "size": 16700,
       "path": "texdb/mobile/mobile.dxt.tmb"
     },
     {
       "name": "mobile.dxt.toc",
-      "size": 792,
+      "size": 816,
       "path": "texdb/mobile/mobile.dxt.toc"
     },
     {
       "name": "mobile.etc.dat",
-      "size": 7781230,
+      "size": 20818902,
       "path": "texdb/mobile/mobile.etc.dat"
     },
     {
       "name": "mobile.etc.tmb",
-      "size": 9380,
+      "size": 16700,
       "path": "texdb/mobile/mobile.etc.tmb"
     },
     {
       "name": "mobile.etc.toc",
-      "size": 792,
+      "size": 816,
       "path": "texdb/mobile/mobile.etc.toc"
     },
     {
       "name": "mobile.pvr.dat",
-      "size": 7781230,
+      "size": 20818902,
       "path": "texdb/mobile/mobile.pvr.dat"
     },
     {
       "name": "mobile.pvr.tmb",
-      "size": 9380,
+      "size": 16700,
       "path": "texdb/mobile/mobile.pvr.tmb"
     },
     {
       "name": "mobile.pvr.toc",
-      "size": 792,
+      "size": 816,
       "path": "texdb/mobile/mobile.pvr.toc"
     },
     {
       "name": "mobile.txt",
-      "size": 12793,
+      "size": 13190,
       "path": "texdb/mobile/mobile.txt"
     },
     {
+      "name": "mobile.unc.dat",
+      "size": 5877914,
+      "path": "texdb/mobile/mobile.unc.dat"
+    },
+    {
       "name": "mobile.unc.tmb",
-      "size": 27620,
+      "size": 32124,
       "path": "texdb/mobile/mobile.unc.tmb"
     },
     {
-      "name": "patch_medium.img",
-      "size": 773,
-      "path": "texdb/patch_medium.img"
-    },
-    {
       "name": "player.img",
-      "size": 16412672,
+      "size": 133050368,
       "path": "texdb/player.img"
     },
     {
       "name": "player.pvr.dat",
-      "size": 6569414,
+      "size": 56051974,
       "path": "texdb/player/player.pvr.dat"
     },
     {
       "name": "player.pvr.tmb",
-      "size": 6940,
+      "size": 57996,
       "path": "texdb/player/player.pvr.tmb"
     },
     {
       "name": "player.pvr.toc",
-      "size": 1580,
+      "size": 1640,
       "path": "texdb/player/player.pvr.toc"
     },
     {
       "name": "player.txt",
-      "size": 27810,
+      "size": 29858,
       "path": "texdb/player/player.txt"
     },
     {
@@ -1702,76 +1471,6 @@
       "path": "texdb/playerhi/playerhi.txt"
     },
     {
-      "name": "samp.img",
-      "size": 36902912,
-      "path": "texdb/samp.img"
-    },
-    {
-      "name": "samp.dxt.dat",
-      "size": 22800108,
-      "path": "texdb/samp/samp.dxt.dat"
-    },
-    {
-      "name": "samp.dxt.tmb",
-      "size": 20320,
-      "path": "texdb/samp/samp.dxt.tmb"
-    },
-    {
-      "name": "samp.dxt.toc",
-      "size": 6156,
-      "path": "texdb/samp/samp.dxt.toc"
-    },
-    {
-      "name": "samp.etc.dat",
-      "size": 33858578,
-      "path": "texdb/samp/samp.etc.dat"
-    },
-    {
-      "name": "samp.etc.tmb",
-      "size": 20320,
-      "path": "texdb/samp/samp.etc.tmb"
-    },
-    {
-      "name": "samp.etc.toc",
-      "size": 6156,
-      "path": "texdb/samp/samp.etc.toc"
-    },
-    {
-      "name": "samp.pvr.dat",
-      "size": 14304198,
-      "path": "texdb/samp/samp.pvr.dat"
-    },
-    {
-      "name": "samp.pvr.tmb",
-      "size": 20320,
-      "path": "texdb/samp/samp.pvr.tmb"
-    },
-    {
-      "name": "samp.pvr.toc",
-      "size": 6156,
-      "path": "texdb/samp/samp.pvr.toc"
-    },
-    {
-      "name": "samp.txt",
-      "size": 89028,
-      "path": "texdb/samp/samp.txt"
-    },
-    {
-      "name": "samp.unc.dat",
-      "size": 33150952,
-      "path": "texdb/samp/samp.unc.dat"
-    },
-    {
-      "name": "samp.unc.tmb",
-      "size": 21088,
-      "path": "texdb/samp/samp.unc.tmb"
-    },
-    {
-      "name": "samp.unc.toc",
-      "size": 6156,
-      "path": "texdb/samp/samp.unc.toc"
-    },
-    {
       "name": "txd.360.dat",
       "size": 7625578,
       "path": "texdb/txd/txd.360.dat"
@@ -1787,139 +1486,34 @@
       "path": "texdb/txd/txd.360.toc"
     },
     {
-      "name": "txd.dxt.dat",
-      "size": 11027052,
-      "path": "texdb/txd/txd.dxt.dat"
-    },
-    {
-      "name": "txd.dxt.tmb",
-      "size": 47740,
-      "path": "texdb/txd/txd.dxt.tmb"
-    },
-    {
-      "name": "txd.dxt.toc",
-      "size": 3184,
-      "path": "texdb/txd/txd.dxt.toc"
-    },
-    {
-      "name": "txd.etc.dat",
-      "size": 11027052,
-      "path": "texdb/txd/txd.etc.dat"
-    },
-    {
-      "name": "txd.etc.tmb",
-      "size": 47740,
-      "path": "texdb/txd/txd.etc.tmb"
-    },
-    {
-      "name": "txd.etc.toc",
-      "size": 3184,
-      "path": "texdb/txd/txd.etc.toc"
-    },
-    {
       "name": "txd.pvr.dat",
-      "size": 11027052,
+      "size": 124411646,
       "path": "texdb/txd/txd.pvr.dat"
     },
     {
       "name": "txd.pvr.tmb",
-      "size": 47740,
+      "size": 295900,
       "path": "texdb/txd/txd.pvr.tmb"
     },
     {
       "name": "txd.pvr.toc",
-      "size": 3184,
+      "size": 21716,
       "path": "texdb/txd/txd.pvr.toc"
     },
     {
       "name": "txd.txt",
-      "size": 50585,
+      "size": 393712,
       "path": "texdb/txd/txd.txt"
     },
     {
       "name": "txd.unc.tmb",
-      "size": 130780,
+      "size": 1385532,
       "path": "texdb/txd/txd.unc.tmb"
     },
     {
-      "name": "vicio.dxt.dat",
-      "size": 23244450,
-      "path": "texdb/vicio/vicio.dxt.dat"
-    },
-    {
-      "name": "vicio.dxt.tmb",
-      "size": 54492,
-      "path": "texdb/vicio/vicio.dxt.tmb"
-    },
-    {
-      "name": "vicio.dxt.toc",
-      "size": 864,
-      "path": "texdb/vicio/vicio.dxt.toc"
-    },
-    {
-      "name": "vicio.etc.dat",
-      "size": 23244450,
-      "path": "texdb/vicio/vicio.etc.dat"
-    },
-    {
-      "name": "vicio.etc.tmb",
-      "size": 54492,
-      "path": "texdb/vicio/vicio.etc.tmb"
-    },
-    {
-      "name": "vicio.etc.toc",
-      "size": 864,
-      "path": "texdb/vicio/vicio.etc.toc"
-    },
-    {
-      "name": "vicio.pvr.dat",
-      "size": 23244450,
-      "path": "texdb/vicio/vicio.pvr.dat"
-    },
-    {
-      "name": "vicio.pvr.tmb",
-      "size": 54492,
-      "path": "texdb/vicio/vicio.pvr.tmb"
-    },
-    {
-      "name": "vicio.pvr.toc",
-      "size": 864,
-      "path": "texdb/vicio/vicio.pvr.toc"
-    },
-    {
-      "name": "vicio.txt",
-      "size": 12738,
-      "path": "texdb/vicio/vicio.txt"
-    },
-    {
-      "name": "vehicleAudioSettings.cfg",
-      "size": 56871,
-      "path": "vehicleAudioSettings.cfg"
-    },
-    {
-      "name": "analog_invisible.png",
-      "size": 14382,
-      "path": "data/hud_controls/analog_invisible.png"
-    },
-    {
-      "name": "voip_microphone.png",
-      "size": 1401704,
-      "path": "data/hud_controls/voip_microphone.png"
-    },
-    {
-      "name": "run_arrow_character.png",
-      "size": 2566284,
-      "path": "data/hud_controls/run_arrow_character.png"
-    },
-    {
-      "name": "punch_fist.png",
-      "size": 3176384,
-      "path": "data/hud_controls/punch_fist.png"
-    },
-    {
-      "name": "enter_vehicle.png",
-      "size": 2320551,
-      "path": "data/hud_controls/enter_vehicle.png"
+      "name": "version.txt",
+      "size": 234,
+      "path": "version.txt"
     }
   ]
 }
