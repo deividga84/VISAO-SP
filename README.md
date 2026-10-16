@@ -10,11 +10,11 @@ O pacote original está disponível em [`download/MAPA_DO_GTA_5_MODIFICADO_PARA_
 
 ## Estrutura
 
-- `data-full/files/` — 303 arquivos, 2.261.500.523 bytes.
-- `data-lite/files/` — cópia idêntica dos mesmos 303 arquivos.
+- `data-full/files/` — 351 ficheiros, 1.512.761.190 bytes, extraídos de `skin modificada.zip`.
+- `data-lite/files/` — cópia idêntica dos mesmos 351 ficheiros.
 - `download/files.json` — manifesto legado da variante Full.
 - `launcher-api/` — manifestos e configuração de fontes das variantes Full e Lite.
 - `atualização/` — arquivos de atualização preservados do repositório.
 - `reports/` — relatórios de análises anteriores do dataset.
 
-Os arquivos grandes dos datasets são armazenados com Git LFS.
+Os ficheiros grandes dos datasets são armazenados com Git LFS. O launcher usa os manifestos GitHub/LFS e baixa cada ficheiro diretamente do repositório.
