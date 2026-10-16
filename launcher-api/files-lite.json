@@ -101,6 +101,11 @@
       "path": "SAMP/vehicles.ide"
     },
     {
+      "name": "weapon.dat",
+      "size": 11585,
+      "path": "SAMP/weapon.dat"
+    },
+    {
       "name": "anim.img",
       "size": 10942464,
       "path": "anim/anim.img"

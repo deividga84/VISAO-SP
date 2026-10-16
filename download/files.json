@@ -121,6 +121,12 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/vehicles.ide"
     },
     {
+      "name": "weapon.dat",
+      "size": 11585,
+      "path": "SAMP/weapon.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/weapon.dat"
+    },
+    {
       "name": "anim.img",
       "size": 10942464,
       "path": "anim/anim.img",
