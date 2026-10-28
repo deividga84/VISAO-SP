@@ -1,172 +1,22 @@
 {
   "files": [
     {
-      "name": "CINFO.BIN",
-      "size": 565180,
-      "path": "CINFO.BIN",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/CINFO.BIN"
-    },
-    {
-      "name": "GTASAsf10.b",
-      "size": 202752,
-      "path": "GTASAsf10.b",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/GTASAsf10.b"
-    },
-    {
       "name": "SAMP.ide",
       "size": 89349,
       "path": "SAMP/SAMP.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/SAMP.ide"
     },
     {
+      "name": "TIMECYC.DAT",
+      "size": 40037,
+      "path": "SAMP/TIMECYC.DAT",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/TIMECYC.DAT"
+    },
+    {
       "name": "WEAPON.dat",
       "size": 11585,
       "path": "SAMP/WEAPON.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/WEAPON.dat"
-    },
-    {
-      "name": "Arial Bold.ttf",
-      "size": 352224,
-      "path": "SAMP/fonts/Arial Bold.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/Arial Bold.ttf"
-    },
-    {
-      "name": "GTAWEAPON3.ttf",
-      "size": 295448,
-      "path": "SAMP/fonts/GTAWEAPON3.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/GTAWEAPON3.ttf"
-    },
-    {
-      "name": "Geometria-Bold.ttf",
-      "size": 129796,
-      "path": "SAMP/fonts/Geometria-Bold.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/Geometria-Bold.ttf"
-    },
-    {
-      "name": "Geometria-Medium.ttf",
-      "size": 131496,
-      "path": "SAMP/fonts/Geometria-Medium.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/Geometria-Medium.ttf"
-    },
-    {
-      "name": "Montserrat Bold.ttf",
-      "size": 262608,
-      "path": "SAMP/fonts/Montserrat Bold.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/Montserrat Bold.ttf"
-    },
-    {
-      "name": "Montserrat ExtraBold.ttf",
-      "size": 263176,
-      "path": "SAMP/fonts/Montserrat ExtraBold.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/Montserrat ExtraBold.ttf"
-    },
-    {
-      "name": "arial-b.ttf",
-      "size": 199764,
-      "path": "SAMP/fonts/arial-b.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/arial-b.ttf"
-    },
-    {
-      "name": "arial.ttf",
-      "size": 352224,
-      "path": "SAMP/fonts/arial.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/arial.ttf"
-    },
-    {
-      "name": "arial1.ttf",
-      "size": 367112,
-      "path": "SAMP/fonts/arial1.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/arial1.ttf"
-    },
-    {
-      "name": "arial_bold.ttf",
-      "size": 352224,
-      "path": "SAMP/fonts/arial_bold.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/arial_bold.ttf"
-    },
-    {
-      "name": "flame_speed.ttf",
-      "size": 261732,
-      "path": "SAMP/fonts/flame_speed.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/flame_speed.ttf"
-    },
-    {
-      "name": "georgia.ttf",
-      "size": 219712,
-      "path": "SAMP/fonts/georgia.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/georgia.ttf"
-    },
-    {
-      "name": "gtaweap3.ttf",
-      "size": 104004,
-      "path": "SAMP/fonts/gtaweap3.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/gtaweap3.ttf"
-    },
-    {
-      "name": "impact.ttf",
-      "size": 206784,
-      "path": "SAMP/fonts/impact.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/impact.ttf"
-    },
-    {
-      "name": "palatino_linotype.ttf",
-      "size": 489884,
-      "path": "SAMP/fonts/palatino_linotype.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/palatino_linotype.ttf"
-    },
-    {
-      "name": "panton-bold.otf",
-      "size": 148840,
-      "path": "SAMP/fonts/panton-bold.otf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/panton-bold.otf"
-    },
-    {
-      "name": "quartz_ms.ttf",
-      "size": 51032,
-      "path": "SAMP/fonts/quartz_ms.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/quartz_ms.ttf"
-    },
-    {
-      "name": "sampaux3.ttf",
-      "size": 11544,
-      "path": "SAMP/fonts/sampaux3.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/sampaux3.ttf"
-    },
-    {
-      "name": "sampaux3.ttfg",
-      "size": 11544,
-      "path": "SAMP/fonts/sampaux3.ttfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/sampaux3.ttfg"
-    },
-    {
-      "name": "segoe_print.ttf",
-      "size": 172448,
-      "path": "SAMP/fonts/segoe_print.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/segoe_print.ttf"
-    },
-    {
-      "name": "segoe_script.ttf",
-      "size": 620204,
-      "path": "SAMP/fonts/segoe_script.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/segoe_script.ttf"
-    },
-    {
-      "name": "tahoma.ttf",
-      "size": 939280,
-      "path": "SAMP/fonts/tahoma.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/tahoma.ttf"
-    },
-    {
-      "name": "webdings.ttf",
-      "size": 120560,
-      "path": "SAMP/fonts/webdings.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/webdings.ttf"
-    },
-    {
-      "name": "wingding.ttf",
-      "size": 82180,
-      "path": "SAMP/fonts/wingding.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/fonts/wingding.ttf"
     },
     {
       "name": "gta.dat",
@@ -176,21 +26,9 @@
     },
     {
       "name": "handling.cfg",
-      "size": 44096,
+      "size": 64532,
       "path": "SAMP/handling.cfg",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/handling.cfg"
-    },
-    {
-      "name": "local_objects.cfg",
-      "size": 17336,
-      "path": "SAMP/local_objects.cfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/local_objects.cfg"
-    },
-    {
-      "name": "local_removals.cfg",
-      "size": 929,
-      "path": "SAMP/local_removals.cfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/local_removals.cfg"
     },
     {
       "name": "main.scm",
@@ -205,38 +43,32 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/peds.ide"
     },
     {
-      "name": "ru_font.ttf",
-      "size": 233076,
-      "path": "SAMP/plates/ru_font.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/plates/ru_font.ttf"
-    },
-    {
-      "name": "ua_font.ttf",
-      "size": 233176,
-      "path": "SAMP/plates/ua_font.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/plates/ua_font.ttf"
-    },
-    {
       "name": "script.img",
       "size": 184320,
       "path": "SAMP/script.img",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/script.img"
     },
     {
-      "name": "settings.ini",
-      "size": 344,
-      "path": "SAMP/settings.ini",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/settings.ini"
+      "name": "settings.json",
+      "size": 228,
+      "path": "SAMP/settings.json",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/settings.json"
     },
     {
-      "name": "svlog.txt",
-      "size": 872,
-      "path": "SAMP/svlog.txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/svlog.txt"
+      "name": "tracks2.dat",
+      "size": 1,
+      "path": "SAMP/tracks2.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/tracks2.dat"
+    },
+    {
+      "name": "tracks4.dat",
+      "size": 1,
+      "path": "SAMP/tracks4.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/tracks4.dat"
     },
     {
       "name": "vehicles.ide",
-      "size": 21205,
+      "size": 21093,
       "path": "SAMP/vehicles.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/SAMP/vehicles.ide"
     },
@@ -257,6 +89,60 @@
       "size": 1433248,
       "path": "anim/ped.ifp",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/anim/ped.ifp"
+    },
+    {
+      "name": "AudioEventHistory.txt",
+      "size": 114056,
+      "path": "audio/CONFIG/AudioEventHistory.txt",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/AudioEventHistory.txt"
+    },
+    {
+      "name": "BankLkup.dat",
+      "size": 8520,
+      "path": "audio/CONFIG/BankLkup.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/BankLkup.dat"
+    },
+    {
+      "name": "BankSlot.dat",
+      "size": 216902,
+      "path": "audio/CONFIG/BankSlot.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/BankSlot.dat"
+    },
+    {
+      "name": "EventVol.dat",
+      "size": 45402,
+      "path": "audio/CONFIG/EventVol.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/EventVol.dat"
+    },
+    {
+      "name": "PakFiles.dat",
+      "size": 468,
+      "path": "audio/CONFIG/PakFiles.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/PakFiles.dat"
+    },
+    {
+      "name": "SOUNDINF.DAT",
+      "size": 746760,
+      "path": "audio/CONFIG/SOUNDINF.DAT",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/SOUNDINF.DAT"
+    },
+    {
+      "name": "StrmPaks.dat",
+      "size": 272,
+      "path": "audio/CONFIG/StrmPaks.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/StrmPaks.dat"
+    },
+    {
+      "name": "TRKHEAD.DAT",
+      "size": 15506696,
+      "path": "audio/CONFIG/TRKHEAD.DAT",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/TRKHEAD.DAT"
+    },
+    {
+      "name": "TrakLkup.dat",
+      "size": 23064,
+      "path": "audio/CONFIG/TrakLkup.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/CONFIG/TrakLkup.dat"
     },
     {
       "name": "FEET.osw",
@@ -487,92 +373,188 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/STREAMS/TK.osw.idx"
     },
     {
-      "name": "AudioEventHistory.txt",
-      "size": 114056,
-      "path": "audio/config/AudioEventHistory.txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/AudioEventHistory.txt"
+      "name": "360Default1280x720.cfg",
+      "size": 10898,
+      "path": "data/360Default1280x720.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/360Default1280x720.cfg"
     },
     {
-      "name": "BankLkup.dat",
-      "size": 8520,
-      "path": "audio/config/BankLkup.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/BankLkup.dat"
+      "name": "360Default960x720.cfg",
+      "size": 10888,
+      "path": "data/360Default960x720.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/360Default960x720.cfg"
     },
     {
-      "name": "BankSlot.dat",
-      "size": 216902,
-      "path": "audio/config/BankSlot.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/BankSlot.dat"
+      "name": "Cop.ped",
+      "size": 4908,
+      "path": "data/Decision/Allowed/Cop.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/Cop.ped"
     },
     {
-      "name": "EventVol.dat",
-      "size": 45402,
-      "path": "audio/config/EventVol.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/EventVol.dat"
+      "name": "Fireman.ped",
+      "size": 4435,
+      "path": "data/Decision/Allowed/Fireman.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/Fireman.ped"
     },
     {
-      "name": "PakFiles.dat",
-      "size": 468,
-      "path": "audio/config/PakFiles.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/PakFiles.dat"
+      "name": "GangMbr.ped",
+      "size": 6194,
+      "path": "data/Decision/Allowed/GangMbr.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/GangMbr.ped"
     },
     {
-      "name": "SOUNDINF.DAT",
-      "size": 746760,
-      "path": "audio/config/SOUNDINF.DAT",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/SOUNDINF.DAT"
+      "name": "Indoors.ped",
+      "size": 2809,
+      "path": "data/Decision/Allowed/Indoors.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/Indoors.ped"
     },
     {
-      "name": "StrmPaks.dat",
-      "size": 272,
-      "path": "audio/config/StrmPaks.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/StrmPaks.dat"
+      "name": "MISSION.grp",
+      "size": 2758,
+      "path": "data/Decision/Allowed/MISSION.grp",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/MISSION.grp"
     },
     {
-      "name": "TRKHEAD.DAT",
-      "size": 15506696,
-      "path": "audio/config/TRKHEAD.DAT",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/TRKHEAD.DAT"
+      "name": "RANDOM.grp",
+      "size": 4623,
+      "path": "data/Decision/Allowed/RANDOM.grp",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/RANDOM.grp"
     },
     {
-      "name": "TrakLkup.dat",
-      "size": 23064,
-      "path": "audio/config/TrakLkup.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/audio/config/TrakLkup.dat"
+      "name": "RANDOM.ped",
+      "size": 4142,
+      "path": "data/Decision/Allowed/RANDOM.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/RANDOM.ped"
+    },
+    {
+      "name": "RANDOM2.grp",
+      "size": 4623,
+      "path": "data/Decision/Allowed/RANDOM2.grp",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/RANDOM2.grp"
+    },
+    {
+      "name": "R_Norm.ped",
+      "size": 6450,
+      "path": "data/Decision/Allowed/R_Norm.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/R_Norm.ped"
+    },
+    {
+      "name": "R_Tough.ped",
+      "size": 6378,
+      "path": "data/Decision/Allowed/R_Tough.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/R_Tough.ped"
+    },
+    {
+      "name": "R_Weak.ped",
+      "size": 6289,
+      "path": "data/Decision/Allowed/R_Weak.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/R_Weak.ped"
+    },
+    {
+      "name": "m_empty.ped",
+      "size": 982,
+      "path": "data/Decision/Allowed/m_empty.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/m_empty.ped"
+    },
+    {
+      "name": "m_norm.ped",
+      "size": 4142,
+      "path": "data/Decision/Allowed/m_norm.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/m_norm.ped"
+    },
+    {
+      "name": "m_plyr.ped",
+      "size": 2000,
+      "path": "data/Decision/Allowed/m_plyr.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/m_plyr.ped"
+    },
+    {
+      "name": "m_steal.ped",
+      "size": 3663,
+      "path": "data/Decision/Allowed/m_steal.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/m_steal.ped"
+    },
+    {
+      "name": "m_tough.ped",
+      "size": 3980,
+      "path": "data/Decision/Allowed/m_tough.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/m_tough.ped"
+    },
+    {
+      "name": "m_weak.ped",
+      "size": 4062,
+      "path": "data/Decision/Allowed/m_weak.ped",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/Allowed/m_weak.ped"
+    },
+    {
+      "name": "PedEvent.txt",
+      "size": 1298,
+      "path": "data/Decision/PedEvent.txt",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/Decision/PedEvent.txt"
+    },
+    {
+      "name": "ShopUVs.dat",
+      "size": 30509,
+      "path": "data/ShopUVs.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/ShopUVs.dat"
+    },
+    {
+      "name": "TouchDefaultPhone3x2.cfg",
+      "size": 10912,
+      "path": "data/TouchDefaultPhone3x2.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/TouchDefaultPhone3x2.cfg"
+    },
+    {
+      "name": "TouchDefaultPhoneWidescreen.cfg",
+      "size": 10924,
+      "path": "data/TouchDefaultPhoneWidescreen.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/TouchDefaultPhoneWidescreen.cfg"
+    },
+    {
+      "name": "TouchDefaultTablet4x3.cfg",
+      "size": 10926,
+      "path": "data/TouchDefaultTablet4x3.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/TouchDefaultTablet4x3.cfg"
+    },
+    {
+      "name": "TouchDefaultTabletWidescreen.cfg",
+      "size": 10923,
+      "path": "data/TouchDefaultTabletWidescreen.cfg",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/TouchDefaultTabletWidescreen.cfg"
     },
     {
       "name": "animgrp.dat",
-      "size": 2887,
+      "size": 3096,
       "path": "data/animgrp.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/animgrp.dat"
     },
     {
       "name": "ar_stats.dat",
-      "size": 3481,
+      "size": 3593,
       "path": "data/ar_stats.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/ar_stats.dat"
     },
     {
       "name": "carcols.dat",
-      "size": 14996,
+      "size": 15361,
       "path": "data/carcols.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/carcols.dat"
     },
     {
       "name": "cargrp.dat",
-      "size": 3922,
+      "size": 3909,
       "path": "data/cargrp.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/cargrp.dat"
     },
     {
       "name": "carmods.dat",
-      "size": 8979,
+      "size": 8763,
       "path": "data/carmods.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/carmods.dat"
     },
     {
       "name": "clothes.dat",
-      "size": 5119,
+      "size": 5317,
       "path": "data/clothes.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/clothes.dat"
     },
@@ -583,826 +565,718 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/colorcycle.dat"
     },
     {
-      "name": "cop.ped",
-      "size": 4888,
-      "path": "data/decision/allowed/cop.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/cop.ped"
-    },
-    {
-      "name": "fireman.ped",
-      "size": 4416,
-      "path": "data/decision/allowed/fireman.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/fireman.ped"
-    },
-    {
-      "name": "gangmbr.ped",
-      "size": 6168,
-      "path": "data/decision/allowed/gangmbr.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/gangmbr.ped"
-    },
-    {
-      "name": "indoors.ped",
-      "size": 2797,
-      "path": "data/decision/allowed/indoors.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/indoors.ped"
-    },
-    {
-      "name": "m_empty.ped",
-      "size": 977,
-      "path": "data/decision/allowed/m_empty.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/m_empty.ped"
-    },
-    {
-      "name": "m_norm.ped",
-      "size": 4126,
-      "path": "data/decision/allowed/m_norm.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/m_norm.ped"
-    },
-    {
-      "name": "m_plyr.ped",
-      "size": 1991,
-      "path": "data/decision/allowed/m_plyr.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/m_plyr.ped"
-    },
-    {
-      "name": "m_steal.ped",
-      "size": 3648,
-      "path": "data/decision/allowed/m_steal.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/m_steal.ped"
-    },
-    {
-      "name": "m_tough.ped",
-      "size": 3964,
-      "path": "data/decision/allowed/m_tough.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/m_tough.ped"
-    },
-    {
-      "name": "m_weak.ped",
-      "size": 4046,
-      "path": "data/decision/allowed/m_weak.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/m_weak.ped"
-    },
-    {
-      "name": "mission.grp",
-      "size": 2746,
-      "path": "data/decision/allowed/mission.grp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/mission.grp"
-    },
-    {
-      "name": "r_norm.ped",
-      "size": 6426,
-      "path": "data/decision/allowed/r_norm.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/r_norm.ped"
-    },
-    {
-      "name": "r_tough.ped",
-      "size": 6354,
-      "path": "data/decision/allowed/r_tough.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/r_tough.ped"
-    },
-    {
-      "name": "r_weak.ped",
-      "size": 6265,
-      "path": "data/decision/allowed/r_weak.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/r_weak.ped"
-    },
-    {
-      "name": "random.grp",
-      "size": 4605,
-      "path": "data/decision/allowed/random.grp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/random.grp"
-    },
-    {
-      "name": "random.ped",
-      "size": 4126,
-      "path": "data/decision/allowed/random.ped",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/random.ped"
-    },
-    {
-      "name": "random2.grp",
-      "size": 4605,
-      "path": "data/decision/allowed/random2.grp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/allowed/random2.grp"
-    },
-    {
-      "name": "pedevent.txt",
-      "size": 1216,
-      "path": "data/decision/pedevent.txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/decision/pedevent.txt"
-    },
-    {
       "name": "default.dat",
-      "size": 548,
+      "size": 577,
       "path": "data/default.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/default.dat"
     },
     {
       "name": "default.ide",
-      "size": 4520,
+      "size": 4679,
       "path": "data/default.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/default.ide"
     },
     {
       "name": "fonts.dat",
-      "size": 3474,
+      "size": 3576,
       "path": "data/fonts.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/fonts.dat"
     },
     {
       "name": "furnitur.dat",
-      "size": 16010,
+      "size": 16480,
       "path": "data/furnitur.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/furnitur.dat"
     },
     {
       "name": "gridref.dat",
-      "size": 1380,
+      "size": 1498,
       "path": "data/gridref.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/gridref.dat"
     },
     {
       "name": "gta.dat",
-      "size": 3630,
+      "size": 3776,
       "path": "data/gta.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/gta.dat"
     },
     {
       "name": "handling.cfg",
-      "size": 64016,
+      "size": 64532,
       "path": "data/handling.cfg",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/handling.cfg"
     },
     {
       "name": "info.zon",
-      "size": 27759,
+      "size": 28139,
       "path": "data/info.zon",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/info.zon"
     },
     {
       "name": "map.zon",
-      "size": 428,
+      "size": 436,
       "path": "data/map.zon",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/map.zon"
     },
     {
-      "name": "audiozon.ipl",
-      "size": 10624,
-      "path": "data/maps/audiozon.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/audiozon.ipl"
+      "name": "Audiozon.ipl",
+      "size": 10802,
+      "path": "data/maps/Audiozon.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/Audiozon.ipl"
+    },
+    {
+      "name": "LAe.ide",
+      "size": 12249,
+      "path": "data/maps/LA/LAe.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAe.ide"
+    },
+    {
+      "name": "LAe.ipl",
+      "size": 27328,
+      "path": "data/maps/LA/LAe.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAe.ipl"
+    },
+    {
+      "name": "LAe2.ide",
+      "size": 21907,
+      "path": "data/maps/LA/LAe2.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAe2.ide"
+    },
+    {
+      "name": "LAe2.ipl",
+      "size": 33651,
+      "path": "data/maps/LA/LAe2.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAe2.ipl"
+    },
+    {
+      "name": "LAhills.ide",
+      "size": 10601,
+      "path": "data/maps/LA/LAhills.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAhills.ide"
+    },
+    {
+      "name": "LAhills.ipl",
+      "size": 34506,
+      "path": "data/maps/LA/LAhills.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAhills.ipl"
+    },
+    {
+      "name": "LAn.ide",
+      "size": 11107,
+      "path": "data/maps/LA/LAn.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAn.ide"
+    },
+    {
+      "name": "LAn.ipl",
+      "size": 14264,
+      "path": "data/maps/LA/LAn.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAn.ipl"
+    },
+    {
+      "name": "LAn2.ide",
+      "size": 9565,
+      "path": "data/maps/LA/LAn2.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAn2.ide"
+    },
+    {
+      "name": "LAn2.ipl",
+      "size": 13185,
+      "path": "data/maps/LA/LAn2.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAn2.ipl"
+    },
+    {
+      "name": "LAs.ide",
+      "size": 12575,
+      "path": "data/maps/LA/LAs.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAs.ide"
+    },
+    {
+      "name": "LAs.ipl",
+      "size": 22414,
+      "path": "data/maps/LA/LAs.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAs.ipl"
+    },
+    {
+      "name": "LAs2.ide",
+      "size": 12364,
+      "path": "data/maps/LA/LAs2.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAs2.ide"
+    },
+    {
+      "name": "LAs2.ipl",
+      "size": 38441,
+      "path": "data/maps/LA/LAs2.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAs2.ipl"
+    },
+    {
+      "name": "LAw.ide",
+      "size": 9412,
+      "path": "data/maps/LA/LAw.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAw.ide"
+    },
+    {
+      "name": "LAw.ipl",
+      "size": 15105,
+      "path": "data/maps/LA/LAw.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAw.ipl"
+    },
+    {
+      "name": "LAw2.ide",
+      "size": 11060,
+      "path": "data/maps/LA/LAw2.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAw2.ide"
+    },
+    {
+      "name": "LAw2.ipl",
+      "size": 18232,
+      "path": "data/maps/LA/LAw2.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAw2.ipl"
+    },
+    {
+      "name": "LAxref.ide",
+      "size": 10477,
+      "path": "data/maps/LA/LAxref.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LAxref.ide"
+    },
+    {
+      "name": "LaWn.ide",
+      "size": 13092,
+      "path": "data/maps/LA/LaWn.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LaWn.ide"
+    },
+    {
+      "name": "LaWn.ipl",
+      "size": 24330,
+      "path": "data/maps/LA/LaWn.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/LA/LaWn.ipl"
+    },
+    {
+      "name": "SFSe.ide",
+      "size": 30227,
+      "path": "data/maps/SF/SFSe.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFSe.ide"
+    },
+    {
+      "name": "SFSe.ipl",
+      "size": 53359,
+      "path": "data/maps/SF/SFSe.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFSe.ipl"
+    },
+    {
+      "name": "SFe.ide",
+      "size": 16224,
+      "path": "data/maps/SF/SFe.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFe.ide"
+    },
+    {
+      "name": "SFe.ipl",
+      "size": 26707,
+      "path": "data/maps/SF/SFe.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFe.ipl"
+    },
+    {
+      "name": "SFn.ide",
+      "size": 11219,
+      "path": "data/maps/SF/SFn.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFn.ide"
+    },
+    {
+      "name": "SFn.ipl",
+      "size": 26201,
+      "path": "data/maps/SF/SFn.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFn.ipl"
+    },
+    {
+      "name": "SFs.ide",
+      "size": 18948,
+      "path": "data/maps/SF/SFs.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFs.ide"
+    },
+    {
+      "name": "SFs.ipl",
+      "size": 37969,
+      "path": "data/maps/SF/SFs.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFs.ipl"
+    },
+    {
+      "name": "SFw.ide",
+      "size": 16473,
+      "path": "data/maps/SF/SFw.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFw.ide"
+    },
+    {
+      "name": "SFw.ipl",
+      "size": 29247,
+      "path": "data/maps/SF/SFw.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFw.ipl"
+    },
+    {
+      "name": "SFxref.ide",
+      "size": 4631,
+      "path": "data/maps/SF/SFxref.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/SF/SFxref.ide"
     },
     {
       "name": "countn2.ide",
-      "size": 34636,
+      "size": 35439,
       "path": "data/maps/country/countn2.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countn2.ide"
     },
     {
       "name": "countn2.ipl",
-      "size": 41178,
+      "size": 41665,
       "path": "data/maps/country/countn2.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countn2.ipl"
     },
     {
+      "name": "countryN.ide",
+      "size": 11308,
+      "path": "data/maps/country/countryN.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryN.ide"
+    },
+    {
+      "name": "countryN.ipl",
+      "size": 14407,
+      "path": "data/maps/country/countryN.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryN.ipl"
+    },
+    {
+      "name": "countryS.ide",
+      "size": 18450,
+      "path": "data/maps/country/countryS.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryS.ide"
+    },
+    {
+      "name": "countryS.ipl",
+      "size": 33835,
+      "path": "data/maps/country/countryS.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryS.ipl"
+    },
+    {
+      "name": "countryW.ide",
+      "size": 19704,
+      "path": "data/maps/country/countryW.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryW.ide"
+    },
+    {
       "name": "countrye.ide",
-      "size": 33753,
+      "size": 34529,
       "path": "data/maps/country/countrye.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countrye.ide"
     },
     {
       "name": "countrye.ipl",
-      "size": 48733,
+      "size": 49301,
       "path": "data/maps/country/countrye.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countrye.ipl"
     },
     {
-      "name": "countryn.ide",
-      "size": 11034,
-      "path": "data/maps/country/countryn.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryn.ide"
-    },
-    {
-      "name": "countryn.ipl",
-      "size": 14231,
-      "path": "data/maps/country/countryn.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryn.ipl"
-    },
-    {
-      "name": "countrys.ide",
-      "size": 18007,
-      "path": "data/maps/country/countrys.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countrys.ide"
-    },
-    {
-      "name": "countrys.ipl",
-      "size": 33471,
-      "path": "data/maps/country/countrys.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countrys.ipl"
-    },
-    {
-      "name": "countryw.ide",
-      "size": 19217,
-      "path": "data/maps/country/countryw.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryw.ide"
-    },
-    {
       "name": "countryw.ipl",
-      "size": 34645,
+      "size": 35057,
       "path": "data/maps/country/countryw.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/countryw.ipl"
     },
     {
       "name": "counxref.ide",
-      "size": 8289,
+      "size": 8494,
       "path": "data/maps/country/counxref.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/country/counxref.ide"
     },
     {
       "name": "cull.ipl",
-      "size": 103065,
+      "size": 104318,
       "path": "data/maps/cull.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/cull.ipl"
     },
     {
       "name": "barriers.ide",
-      "size": 1392,
+      "size": 1437,
       "path": "data/maps/generic/barriers.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/generic/barriers.ide"
     },
     {
       "name": "dynamic.ide",
-      "size": 4480,
+      "size": 4611,
       "path": "data/maps/generic/dynamic.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/generic/dynamic.ide"
     },
     {
       "name": "dynamic2.ide",
-      "size": 10252,
+      "size": 10510,
       "path": "data/maps/generic/dynamic2.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/generic/dynamic2.ide"
     },
     {
       "name": "multiobj.ide",
-      "size": 4883,
+      "size": 5020,
       "path": "data/maps/generic/multiobj.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/generic/multiobj.ide"
     },
     {
       "name": "procobj.ide",
-      "size": 4636,
+      "size": 4755,
       "path": "data/maps/generic/procobj.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/generic/procobj.ide"
     },
     {
       "name": "vegepart.ide",
-      "size": 7879,
+      "size": 8062,
       "path": "data/maps/generic/vegepart.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/generic/vegepart.ide"
     },
     {
       "name": "gen_int1.ide",
-      "size": 2691,
+      "size": 2747,
       "path": "data/maps/interior/gen_int1.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int1.ide"
     },
     {
       "name": "gen_int1.ipl",
-      "size": 20833,
+      "size": 21074,
       "path": "data/maps/interior/gen_int1.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int1.ipl"
     },
     {
       "name": "gen_int2.ide",
-      "size": 10841,
+      "size": 10941,
       "path": "data/maps/interior/gen_int2.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int2.ide"
     },
     {
       "name": "gen_int2.ipl",
-      "size": 1647,
+      "size": 1683,
       "path": "data/maps/interior/gen_int2.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int2.ipl"
     },
     {
       "name": "gen_int3.ide",
-      "size": 3168,
+      "size": 3252,
       "path": "data/maps/interior/gen_int3.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int3.ide"
     },
     {
       "name": "gen_int3.ipl",
-      "size": 2052,
+      "size": 2091,
       "path": "data/maps/interior/gen_int3.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int3.ipl"
     },
     {
       "name": "gen_int4.ide",
-      "size": 2252,
+      "size": 2323,
       "path": "data/maps/interior/gen_int4.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int4.ide"
     },
     {
       "name": "gen_int4.ipl",
-      "size": 1154,
+      "size": 1185,
       "path": "data/maps/interior/gen_int4.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int4.ipl"
     },
     {
       "name": "gen_int5.ide",
-      "size": 4564,
+      "size": 4682,
       "path": "data/maps/interior/gen_int5.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int5.ide"
     },
     {
       "name": "gen_int5.ipl",
-      "size": 2939,
+      "size": 2988,
       "path": "data/maps/interior/gen_int5.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_int5.ipl"
     },
     {
       "name": "gen_intb.ide",
-      "size": 5390,
+      "size": 5459,
       "path": "data/maps/interior/gen_intb.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_intb.ide"
     },
     {
       "name": "gen_intb.ipl",
-      "size": 1591,
+      "size": 1626,
       "path": "data/maps/interior/gen_intb.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/gen_intb.ipl"
     },
     {
+      "name": "int_LA.ide",
+      "size": 6004,
+      "path": "data/maps/interior/int_LA.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_LA.ide"
+    },
+    {
+      "name": "int_LA.ipl",
+      "size": 1312,
+      "path": "data/maps/interior/int_LA.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_LA.ipl"
+    },
+    {
+      "name": "int_SF.ide",
+      "size": 1260,
+      "path": "data/maps/interior/int_SF.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_SF.ide"
+    },
+    {
+      "name": "int_SF.ipl",
+      "size": 1334,
+      "path": "data/maps/interior/int_SF.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_SF.ipl"
+    },
+    {
       "name": "int_cont.ide",
-      "size": 365,
+      "size": 385,
       "path": "data/maps/interior/int_cont.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_cont.ide"
     },
     {
       "name": "int_cont.ipl",
-      "size": 878,
+      "size": 910,
       "path": "data/maps/interior/int_cont.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_cont.ipl"
     },
     {
-      "name": "int_la.ide",
-      "size": 5846,
-      "path": "data/maps/interior/int_la.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_la.ide"
-    },
-    {
-      "name": "int_la.ipl",
-      "size": 1280,
-      "path": "data/maps/interior/int_la.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_la.ipl"
-    },
-    {
-      "name": "int_sf.ide",
-      "size": 1220,
-      "path": "data/maps/interior/int_sf.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_sf.ide"
-    },
-    {
-      "name": "int_sf.ipl",
-      "size": 1302,
-      "path": "data/maps/interior/int_sf.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_sf.ipl"
-    },
-    {
       "name": "int_veg.ide",
-      "size": 4583,
+      "size": 4684,
       "path": "data/maps/interior/int_veg.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_veg.ide"
     },
     {
       "name": "int_veg.ipl",
-      "size": 5226,
+      "size": 5299,
       "path": "data/maps/interior/int_veg.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/int_veg.ipl"
     },
     {
       "name": "propext.ide",
-      "size": 2273,
+      "size": 2340,
       "path": "data/maps/interior/propext.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/propext.ide"
     },
     {
       "name": "props.ide",
-      "size": 25654,
+      "size": 26326,
       "path": "data/maps/interior/props.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/props.ide"
     },
     {
       "name": "props2.ide",
-      "size": 20639,
+      "size": 21174,
       "path": "data/maps/interior/props2.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/props2.ide"
     },
     {
       "name": "savehous.ide",
-      "size": 1672,
+      "size": 1724,
       "path": "data/maps/interior/savehous.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/savehous.ide"
     },
     {
       "name": "savehous.ipl",
-      "size": 2912,
+      "size": 2959,
       "path": "data/maps/interior/savehous.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/savehous.ipl"
     },
     {
       "name": "stadint.ide",
-      "size": 2761,
+      "size": 2851,
       "path": "data/maps/interior/stadint.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/stadint.ide"
     },
     {
       "name": "stadint.ipl",
-      "size": 6200,
+      "size": 6299,
       "path": "data/maps/interior/stadint.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/interior/stadint.ipl"
     },
     {
-      "name": "lae.ide",
-      "size": 11944,
-      "path": "data/maps/la/lae.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lae.ide"
-    },
-    {
-      "name": "lae.ipl",
-      "size": 26995,
-      "path": "data/maps/la/lae.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lae.ipl"
-    },
-    {
-      "name": "lae2.ide",
-      "size": 21418,
-      "path": "data/maps/la/lae2.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lae2.ide"
-    },
-    {
-      "name": "lae2.ipl",
-      "size": 33242,
-      "path": "data/maps/la/lae2.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lae2.ipl"
-    },
-    {
-      "name": "lahills.ide",
-      "size": 10370,
-      "path": "data/maps/la/lahills.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lahills.ide"
-    },
-    {
-      "name": "lahills.ipl",
-      "size": 34102,
-      "path": "data/maps/la/lahills.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lahills.ipl"
-    },
-    {
-      "name": "lan.ide",
-      "size": 10830,
-      "path": "data/maps/la/lan.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lan.ide"
-    },
-    {
-      "name": "lan.ipl",
-      "size": 14075,
-      "path": "data/maps/la/lan.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lan.ipl"
-    },
-    {
-      "name": "lan2.ide",
-      "size": 9340,
-      "path": "data/maps/la/lan2.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lan2.ide"
-    },
-    {
-      "name": "lan2.ipl",
-      "size": 13013,
-      "path": "data/maps/la/lan2.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lan2.ipl"
-    },
-    {
-      "name": "las.ide",
-      "size": 12280,
-      "path": "data/maps/la/las.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/las.ide"
-    },
-    {
-      "name": "las.ipl",
-      "size": 22127,
-      "path": "data/maps/la/las.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/las.ipl"
-    },
-    {
-      "name": "las2.ide",
-      "size": 12081,
-      "path": "data/maps/la/las2.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/las2.ide"
-    },
-    {
-      "name": "las2.ipl",
-      "size": 37997,
-      "path": "data/maps/la/las2.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/las2.ipl"
-    },
-    {
-      "name": "law.ide",
-      "size": 9178,
-      "path": "data/maps/la/law.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/law.ide"
-    },
-    {
-      "name": "law.ipl",
-      "size": 14909,
-      "path": "data/maps/la/law.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/law.ipl"
-    },
-    {
-      "name": "law2.ide",
-      "size": 10803,
-      "path": "data/maps/la/law2.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/law2.ide"
-    },
-    {
-      "name": "law2.ipl",
-      "size": 17990,
-      "path": "data/maps/la/law2.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/law2.ipl"
-    },
-    {
-      "name": "lawn.ide",
-      "size": 12772,
-      "path": "data/maps/la/lawn.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lawn.ide"
-    },
-    {
-      "name": "lawn.ipl",
-      "size": 24010,
-      "path": "data/maps/la/lawn.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/lawn.ipl"
-    },
-    {
-      "name": "laxref.ide",
-      "size": 10238,
-      "path": "data/maps/la/laxref.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/la/laxref.ide"
-    },
-    {
       "name": "leveldes.ide",
-      "size": 341,
+      "size": 360,
       "path": "data/maps/leveldes/leveldes.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/leveldes/leveldes.ide"
     },
     {
       "name": "leveldes.ipl",
-      "size": 142,
+      "size": 165,
       "path": "data/maps/leveldes/leveldes.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/leveldes/leveldes.ipl"
     },
     {
       "name": "levelmap.ide",
-      "size": 3098,
+      "size": 3194,
       "path": "data/maps/leveldes/levelmap.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/leveldes/levelmap.ide"
     },
     {
       "name": "levelmap.ipl",
-      "size": 4597,
+      "size": 4675,
       "path": "data/maps/leveldes/levelmap.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/leveldes/levelmap.ipl"
     },
     {
       "name": "levelxre.ide",
-      "size": 9634,
+      "size": 9897,
       "path": "data/maps/leveldes/levelxre.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/leveldes/levelxre.ide"
     },
     {
       "name": "seabed.ide",
-      "size": 11725,
+      "size": 12039,
       "path": "data/maps/leveldes/seabed.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/leveldes/seabed.ide"
     },
     {
       "name": "seabed.ipl",
-      "size": 23044,
+      "size": 23342,
       "path": "data/maps/leveldes/seabed.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/leveldes/seabed.ipl"
     },
     {
       "name": "occlu.ipl",
-      "size": 993,
+      "size": 1012,
       "path": "data/maps/occlu.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/occlu.ipl"
     },
     {
+      "name": "occluLA.ipl",
+      "size": 35956,
+      "path": "data/maps/occluLA.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/occluLA.ipl"
+    },
+    {
       "name": "occluint.ipl",
-      "size": 2303,
+      "size": 2338,
       "path": "data/maps/occluint.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/occluint.ipl"
     },
     {
-      "name": "occlula.ipl",
-      "size": 35462,
-      "path": "data/maps/occlula.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/occlula.ipl"
-    },
-    {
       "name": "occlusf.ipl",
-      "size": 15891,
+      "size": 16114,
       "path": "data/maps/occlusf.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/occlusf.ipl"
     },
     {
       "name": "occluveg.ipl",
-      "size": 17693,
+      "size": 17944,
       "path": "data/maps/occluveg.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/occluveg.ipl"
     },
     {
       "name": "paths.ipl",
-      "size": 2605206,
+      "size": 2658607,
       "path": "data/maps/paths.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/paths.ipl"
     },
     {
       "name": "paths2.ipl",
-      "size": 2245002,
+      "size": 2292241,
       "path": "data/maps/paths2.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/paths2.ipl"
     },
     {
       "name": "paths3.ipl",
-      "size": 2378344,
+      "size": 2428066,
       "path": "data/maps/paths3.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/paths3.ipl"
     },
     {
       "name": "paths4.ipl",
-      "size": 247219,
+      "size": 253014,
       "path": "data/maps/paths4.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/paths4.ipl"
     },
     {
       "name": "paths5.ipl",
-      "size": 448568,
+      "size": 457678,
       "path": "data/maps/paths5.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/paths5.ipl"
     },
     {
-      "name": "sfe.ide",
-      "size": 15801,
-      "path": "data/maps/sf/sfe.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfe.ide"
-    },
-    {
-      "name": "sfe.ipl",
-      "size": 26364,
-      "path": "data/maps/sf/sfe.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfe.ipl"
-    },
-    {
-      "name": "sfn.ide",
-      "size": 10934,
-      "path": "data/maps/sf/sfn.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfn.ide"
-    },
-    {
-      "name": "sfn.ipl",
-      "size": 25866,
-      "path": "data/maps/sf/sfn.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfn.ipl"
-    },
-    {
-      "name": "sfs.ide",
-      "size": 18506,
-      "path": "data/maps/sf/sfs.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfs.ide"
-    },
-    {
-      "name": "sfs.ipl",
-      "size": 37517,
-      "path": "data/maps/sf/sfs.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfs.ipl"
-    },
-    {
-      "name": "sfse.ide",
-      "size": 29547,
-      "path": "data/maps/sf/sfse.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfse.ide"
-    },
-    {
-      "name": "sfse.ipl",
-      "size": 52710,
-      "path": "data/maps/sf/sfse.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfse.ipl"
-    },
-    {
-      "name": "sfw.ide",
-      "size": 16043,
-      "path": "data/maps/sf/sfw.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfw.ide"
-    },
-    {
-      "name": "sfw.ipl",
-      "size": 28886,
-      "path": "data/maps/sf/sfw.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfw.ipl"
-    },
-    {
-      "name": "sfxref.ide",
-      "size": 4518,
-      "path": "data/maps/sf/sfxref.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/sf/sfxref.ide"
-    },
-    {
       "name": "tunnels.ipl",
-      "size": 3171,
+      "size": 3230,
       "path": "data/maps/tunnels.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/tunnels.ipl"
     },
     {
-      "name": "txd.ide",
-      "size": 306,
-      "path": "data/maps/txd.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/txd.ide"
+      "name": "VegasN.ide",
+      "size": 23715,
+      "path": "data/maps/vegas/VegasN.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/VegasN.ide"
     },
     {
-      "name": "vegase.ide",
-      "size": 34726,
-      "path": "data/maps/vegas/vegase.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegase.ide"
+      "name": "VegasS.ide",
+      "size": 18656,
+      "path": "data/maps/vegas/VegasS.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/VegasS.ide"
     },
     {
-      "name": "vegase.ipl",
-      "size": 60327,
-      "path": "data/maps/vegas/vegase.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegase.ipl"
+      "name": "VegasW.ide",
+      "size": 25456,
+      "path": "data/maps/vegas/VegasW.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/VegasW.ide"
     },
     {
-      "name": "vegasn.ide",
-      "size": 23173,
-      "path": "data/maps/vegas/vegasn.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasn.ide"
+      "name": "vegasE.ide",
+      "size": 35542,
+      "path": "data/maps/vegas/vegasE.ide",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasE.ide"
     },
     {
-      "name": "vegasn.ipl",
-      "size": 36186,
-      "path": "data/maps/vegas/vegasn.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasn.ipl"
+      "name": "vegasE.ipl",
+      "size": 61084,
+      "path": "data/maps/vegas/vegasE.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasE.ipl"
     },
     {
-      "name": "vegass.ide",
-      "size": 18232,
-      "path": "data/maps/vegas/vegass.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegass.ide"
+      "name": "vegasN.ipl",
+      "size": 36651,
+      "path": "data/maps/vegas/vegasN.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasN.ipl"
     },
     {
-      "name": "vegass.ipl",
-      "size": 29942,
-      "path": "data/maps/vegas/vegass.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegass.ipl"
+      "name": "vegasS.ipl",
+      "size": 30343,
+      "path": "data/maps/vegas/vegasS.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasS.ipl"
     },
     {
-      "name": "vegasw.ide",
-      "size": 24885,
-      "path": "data/maps/vegas/vegasw.ide",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasw.ide"
-    },
-    {
-      "name": "vegasw.ipl",
-      "size": 49244,
-      "path": "data/maps/vegas/vegasw.ipl",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasw.ipl"
+      "name": "vegasW.ipl",
+      "size": 49867,
+      "path": "data/maps/vegas/vegasW.ipl",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegasW.ipl"
     },
     {
       "name": "vegaxref.ide",
-      "size": 5614,
+      "size": 5751,
       "path": "data/maps/vegas/vegaxref.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegaxref.ide"
     },
     {
       "name": "vegaxref.ipl",
-      "size": 3601,
+      "size": 3661,
       "path": "data/maps/vegas/vegaxref.ipl",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/vegas/vegaxref.ipl"
     },
     {
       "name": "veh_mods.ide",
-      "size": 7117,
+      "size": 7323,
       "path": "data/maps/veh_mods/veh_mods.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/maps/veh_mods/veh_mods.ide"
     },
     {
       "name": "melee.dat",
-      "size": 6085,
+      "size": 6306,
       "path": "data/melee.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/melee.dat"
     },
     {
       "name": "object.dat",
-      "size": 124878,
+      "size": 126118,
       "path": "data/object.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/object.dat"
+    },
+    {
+      "name": "ROADBLOX.DAT",
+      "size": 1304,
+      "path": "data/paths/ROADBLOX.DAT",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/paths/ROADBLOX.DAT"
     },
     {
       "name": "carrec.img",
@@ -1411,88 +1285,76 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/paths/carrec.img"
     },
     {
-      "name": "roadblox.dat",
-      "size": 1304,
-      "path": "data/paths/roadblox.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/paths/roadblox.dat"
-    },
-    {
       "name": "tracks.dat",
-      "size": 24547,
+      "size": 25474,
       "path": "data/paths/tracks.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/paths/tracks.dat"
     },
     {
       "name": "tracks2.dat",
-      "size": 1824,
+      "size": 1892,
       "path": "data/paths/tracks2.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/paths/tracks2.dat"
     },
     {
       "name": "tracks3.dat",
-      "size": 8027,
+      "size": 8328,
       "path": "data/paths/tracks3.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/paths/tracks3.dat"
     },
     {
       "name": "tracks4.dat",
-      "size": 17690,
+      "size": 18347,
       "path": "data/paths/tracks4.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/paths/tracks4.dat"
     },
     {
       "name": "ped.dat",
-      "size": 1222,
+      "size": 1276,
       "path": "data/ped.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/ped.dat"
     },
     {
       "name": "pedgrp.dat",
-      "size": 5632,
+      "size": 5792,
       "path": "data/pedgrp.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/pedgrp.dat"
     },
     {
       "name": "peds.ide",
-      "size": 33055,
+      "size": 33401,
       "path": "data/peds.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/peds.ide"
     },
     {
       "name": "pedstats.dat",
-      "size": 3541,
+      "size": 3604,
       "path": "data/pedstats.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/pedstats.dat"
     },
     {
       "name": "plants.dat",
-      "size": 9690,
+      "size": 9887,
       "path": "data/plants.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/plants.dat"
     },
     {
       "name": "popcycle.dat",
-      "size": 126382,
+      "size": 127108,
       "path": "data/popcycle.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/popcycle.dat"
     },
     {
       "name": "procobj.dat",
-      "size": 9855,
+      "size": 10019,
       "path": "data/procobj.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/procobj.dat"
     },
     {
-      "name": "mainv1.scm",
-      "size": 3169137,
-      "path": "data/script/mainv1.scm",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/script/mainv1.scm"
-    },
-    {
-      "name": "mainv1.scv",
-      "size": 57457,
-      "path": "data/script/mainv1.scv",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/script/mainv1.scv"
+      "name": "mainV1.scm",
+      "size": 3169778,
+      "path": "data/script/mainV1.scm",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/script/mainV1.scm"
     },
     {
       "name": "scriptv1.img",
@@ -1502,79 +1364,49 @@
     },
     {
       "name": "shopping.dat",
-      "size": 45516,
+      "size": 46875,
       "path": "data/shopping.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/shopping.dat"
     },
     {
-      "name": "shopuvs.dat",
-      "size": 29716,
-      "path": "data/shopuvs.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/shopuvs.dat"
-    },
-    {
       "name": "statdisp.dat",
-      "size": 7120,
+      "size": 7292,
       "path": "data/statdisp.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/statdisp.dat"
     },
     {
       "name": "surface.dat",
-      "size": 562,
+      "size": 576,
       "path": "data/surface.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/surface.dat"
     },
     {
       "name": "surfaud.dat",
-      "size": 6332,
+      "size": 6530,
       "path": "data/surfaud.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/surfaud.dat"
     },
     {
       "name": "surfinfo.dat",
-      "size": 27839,
+      "size": 28106,
       "path": "data/surfinfo.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/surfinfo.dat"
     },
     {
       "name": "timecyc.dat",
-      "size": 39600,
+      "size": 40037,
       "path": "data/timecyc.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/timecyc.dat"
     },
     {
-      "name": "touchdefaultphone3x2.cfg",
-      "size": 10206,
-      "path": "data/touchdefaultphone3x2.cfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/touchdefaultphone3x2.cfg"
-    },
-    {
-      "name": "touchdefaultphonewidescreen.cfg",
-      "size": 10199,
-      "path": "data/touchdefaultphonewidescreen.cfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/touchdefaultphonewidescreen.cfg"
-    },
-    {
-      "name": "touchdefaulttablet4x3.cfg",
-      "size": 10218,
-      "path": "data/touchdefaulttablet4x3.cfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/touchdefaulttablet4x3.cfg"
-    },
-    {
-      "name": "touchdefaulttabletwidescreen.cfg",
-      "size": 10190,
-      "path": "data/touchdefaulttabletwidescreen.cfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/touchdefaulttabletwidescreen.cfg"
-    },
-    {
       "name": "txdcut.ide",
-      "size": 453,
+      "size": 478,
       "path": "data/txdcut.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/txdcut.ide"
     },
     {
       "name": "vehicles.ide",
-      "size": 20864,
+      "size": 21093,
       "path": "data/vehicles.ide",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/vehicles.ide"
     },
@@ -1592,39 +1424,15 @@
     },
     {
       "name": "weapon.dat",
-      "size": 11431,
+      "size": 11602,
       "path": "data/weapon.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/data/weapon.dat"
     },
     {
-      "name": "Geometria-Bold.ttf",
-      "size": 129796,
-      "path": "fonts/Geometria-Bold.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/Geometria-Bold.ttf"
-    },
-    {
-      "name": "Geometria-Medium.ttf",
-      "size": 131496,
-      "path": "fonts/Geometria-Medium.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/Geometria-Medium.ttf"
-    },
-    {
-      "name": "arial-b.ttf",
-      "size": 199764,
-      "path": "fonts/arial-b.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/arial-b.ttf"
-    },
-    {
       "name": "arial.ttf",
-      "size": 352224,
+      "size": 367112,
       "path": "fonts/arial.ttf",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/arial.ttf"
-    },
-    {
-      "name": "arial1.ttf",
-      "size": 367112,
-      "path": "fonts/arial1.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/arial1.ttf"
     },
     {
       "name": "arial_bold.ttf",
@@ -1633,22 +1441,10 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/arial_bold.ttf"
     },
     {
-      "name": "flame_speed.ttf",
-      "size": 261732,
-      "path": "fonts/flame_speed.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/flame_speed.ttf"
-    },
-    {
       "name": "georgia.ttf",
       "size": 219712,
       "path": "fonts/georgia.ttf",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/georgia.ttf"
-    },
-    {
-      "name": "gtaweap3.ttf",
-      "size": 104004,
-      "path": "fonts/gtaweap3.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/gtaweap3.ttf"
     },
     {
       "name": "impact.ttf",
@@ -1663,28 +1459,10 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/palatino_linotype.ttf"
     },
     {
-      "name": "panton-bold.otf",
-      "size": 148840,
-      "path": "fonts/panton-bold.otf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/panton-bold.otf"
-    },
-    {
       "name": "quartz_ms.ttf",
       "size": 51032,
       "path": "fonts/quartz_ms.ttf",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/quartz_ms.ttf"
-    },
-    {
-      "name": "sampaux3.ttf",
-      "size": 11544,
-      "path": "fonts/sampaux3.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/sampaux3.ttf"
-    },
-    {
-      "name": "sampaux3.ttfg",
-      "size": 11544,
-      "path": "fonts/sampaux3.ttfg",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/sampaux3.ttfg"
     },
     {
       "name": "segoe_print.ttf",
@@ -1717,16 +1495,10 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/fonts/wingding.ttf"
     },
     {
-      "name": "gta_sa.set",
-      "size": 171,
-      "path": "gta_sa.set",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/gta_sa.set"
-    },
-    {
-      "name": "logcat.txt",
-      "size": 117067,
-      "path": "logcat.txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/logcat.txt"
+      "name": "MINFO.BIN",
+      "size": 41100,
+      "path": "models/MINFO.BIN",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/MINFO.BIN"
     },
     {
       "name": "peds.col",
@@ -1748,649 +1520,13 @@
     },
     {
       "name": "effects.fxp",
-      "size": 573091,
+      "size": 616708,
       "path": "models/effects.fxp",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/effects.fxp"
     },
     {
-      "name": "grass0_1.dff",
-      "size": 1596,
-      "path": "models/grass/grass0_1.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass0_1.dff"
-    },
-    {
-      "name": "grass0_2.dff",
-      "size": 1596,
-      "path": "models/grass/grass0_2.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass0_2.dff"
-    },
-    {
-      "name": "grass0_3.dff",
-      "size": 1600,
-      "path": "models/grass/grass0_3.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass0_3.dff"
-    },
-    {
-      "name": "grass0_4.dff",
-      "size": 1601,
-      "path": "models/grass/grass0_4.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass0_4.dff"
-    },
-    {
-      "name": "grass1_1.dff",
-      "size": 1981,
-      "path": "models/grass/grass1_1.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass1_1.dff"
-    },
-    {
-      "name": "grass1_2.dff",
-      "size": 1981,
-      "path": "models/grass/grass1_2.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass1_2.dff"
-    },
-    {
-      "name": "grass1_3.dff",
-      "size": 1981,
-      "path": "models/grass/grass1_3.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass1_3.dff"
-    },
-    {
-      "name": "grass1_4.dff",
-      "size": 1981,
-      "path": "models/grass/grass1_4.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass1_4.dff"
-    },
-    {
-      "name": "grass2_1.dff",
-      "size": 1981,
-      "path": "models/grass/grass2_1.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass2_1.dff"
-    },
-    {
-      "name": "grass2_2.dff",
-      "size": 1981,
-      "path": "models/grass/grass2_2.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass2_2.dff"
-    },
-    {
-      "name": "grass2_3.dff",
-      "size": 1981,
-      "path": "models/grass/grass2_3.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass2_3.dff"
-    },
-    {
-      "name": "grass2_4.dff",
-      "size": 1981,
-      "path": "models/grass/grass2_4.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass2_4.dff"
-    },
-    {
-      "name": "grass3_1.dff",
-      "size": 1981,
-      "path": "models/grass/grass3_1.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass3_1.dff"
-    },
-    {
-      "name": "grass3_2.dff",
-      "size": 1981,
-      "path": "models/grass/grass3_2.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass3_2.dff"
-    },
-    {
-      "name": "grass3_3.dff",
-      "size": 1981,
-      "path": "models/grass/grass3_3.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass3_3.dff"
-    },
-    {
-      "name": "grass3_4.dff",
-      "size": 1981,
-      "path": "models/grass/grass3_4.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/grass3_4.dff"
-    },
-    {
-      "name": "plant1.dff",
-      "size": 2072,
-      "path": "models/grass/plant1.dff",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/plant1.dff"
-    },
-    {
-      "name": "plant1.txd",
-      "size": 42152,
-      "path": "models/grass/plant1.txd",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/models/grass/plant1.txd"
-    },
-    {
-      "name": "([-L.e.i.a-]).txt",
-      "size": 167,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/([-L.e.i.a-]).txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/([-L.e.i.a-]).txt"
-    },
-    {
-      "name": "Base-BOPE.map",
-      "size": 132935,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/Base-BOPE.map",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/Base-BOPE.map"
-    },
-    {
-      "name": "MrGamer1.luac",
-      "size": 1698,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer1.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer1.luac"
-    },
-    {
-      "name": "MrGamer10.luac",
-      "size": 6927,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer10.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer10.luac"
-    },
-    {
-      "name": "MrGamer11.lua",
-      "size": 6630,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer11.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer11.lua"
-    },
-    {
-      "name": "MrGamer12.luac",
-      "size": 323,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer12.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer12.luac"
-    },
-    {
-      "name": "MrGamer13.luac",
-      "size": 2467,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer13.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer13.luac"
-    },
-    {
-      "name": "MrGamer14.luac",
-      "size": 1195,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer14.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer14.luac"
-    },
-    {
-      "name": "MrGamer2.luac",
-      "size": 1137,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer2.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer2.luac"
-    },
-    {
-      "name": "MrGamer3.luac",
-      "size": 809,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer3.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer3.luac"
-    },
-    {
-      "name": "MrGamer4.luac",
-      "size": 1014,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer4.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer4.luac"
-    },
-    {
-      "name": "MrGamer5.luac",
-      "size": 3022,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer5.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer5.luac"
-    },
-    {
-      "name": "MrGamer6.luac",
-      "size": 2009,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer6.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer6.luac"
-    },
-    {
-      "name": "MrGamer7.luac",
-      "size": 688,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer7.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer7.luac"
-    },
-    {
-      "name": "MrGamer8.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer8.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer8.luac"
-    },
-    {
-      "name": "MrGamer9.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer9.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/MrGamer9.luac"
-    },
-    {
-      "name": "MrGamer.txd",
-      "size": 421288,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/data/MrGamer.txd",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/data/MrGamer.txd"
-    },
-    {
-      "name": "font4.ttf",
-      "size": 175068,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/gfx/font4.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/gfx/font4.ttf"
-    },
-    {
-      "name": "mapEditorScriptingExtension_c.lua",
-      "size": 953,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/mapEditorScriptingExtension_c.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/mapEditorScriptingExtension_c.lua"
-    },
-    {
-      "name": "mapEditorScriptingExtension_s.lua",
-      "size": 24245,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/mapEditorScriptingExtension_s.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/mapEditorScriptingExtension_s.lua"
-    },
-    {
-      "name": "meta.xml",
-      "size": 1672,
-      "path": "mods_resources/mod_1787519521599/[BASE]-BOPE/meta.xml",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/[BASE]-BOPE/meta.xml"
-    },
-    {
-      "name": "meta.json",
-      "size": 98,
-      "path": "mods_resources/mod_1787519521599/meta.json",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787519521599/meta.json"
-    },
-    {
-      "name": "([-L.e.i.a-]).txt",
-      "size": 167,
-      "path": "mods_resources/mod_1787520167219/([-L.e.i.a-]).txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/([-L.e.i.a-]).txt"
-    },
-    {
-      "name": "Base-BOPE.map",
-      "size": 132935,
-      "path": "mods_resources/mod_1787520167219/Base-BOPE.map",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/Base-BOPE.map"
-    },
-    {
-      "name": "MrGamer1.luac",
-      "size": 1698,
-      "path": "mods_resources/mod_1787520167219/MrGamer1.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer1.luac"
-    },
-    {
-      "name": "MrGamer10.luac",
-      "size": 6927,
-      "path": "mods_resources/mod_1787520167219/MrGamer10.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer10.luac"
-    },
-    {
-      "name": "MrGamer11.lua",
-      "size": 6630,
-      "path": "mods_resources/mod_1787520167219/MrGamer11.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer11.lua"
-    },
-    {
-      "name": "MrGamer12.luac",
-      "size": 323,
-      "path": "mods_resources/mod_1787520167219/MrGamer12.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer12.luac"
-    },
-    {
-      "name": "MrGamer13.luac",
-      "size": 2467,
-      "path": "mods_resources/mod_1787520167219/MrGamer13.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer13.luac"
-    },
-    {
-      "name": "MrGamer14.luac",
-      "size": 1195,
-      "path": "mods_resources/mod_1787520167219/MrGamer14.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer14.luac"
-    },
-    {
-      "name": "MrGamer2.luac",
-      "size": 1137,
-      "path": "mods_resources/mod_1787520167219/MrGamer2.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer2.luac"
-    },
-    {
-      "name": "MrGamer3.luac",
-      "size": 809,
-      "path": "mods_resources/mod_1787520167219/MrGamer3.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer3.luac"
-    },
-    {
-      "name": "MrGamer4.luac",
-      "size": 1014,
-      "path": "mods_resources/mod_1787520167219/MrGamer4.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer4.luac"
-    },
-    {
-      "name": "MrGamer5.luac",
-      "size": 3022,
-      "path": "mods_resources/mod_1787520167219/MrGamer5.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer5.luac"
-    },
-    {
-      "name": "MrGamer6.luac",
-      "size": 2009,
-      "path": "mods_resources/mod_1787520167219/MrGamer6.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer6.luac"
-    },
-    {
-      "name": "MrGamer7.luac",
-      "size": 688,
-      "path": "mods_resources/mod_1787520167219/MrGamer7.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer7.luac"
-    },
-    {
-      "name": "MrGamer8.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787520167219/MrGamer8.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer8.luac"
-    },
-    {
-      "name": "MrGamer9.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787520167219/MrGamer9.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/MrGamer9.luac"
-    },
-    {
-      "name": "MrGamer.txd",
-      "size": 421288,
-      "path": "mods_resources/mod_1787520167219/data/MrGamer.txd",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/data/MrGamer.txd"
-    },
-    {
-      "name": "font4.ttf",
-      "size": 175068,
-      "path": "mods_resources/mod_1787520167219/gfx/font4.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/gfx/font4.ttf"
-    },
-    {
-      "name": "mapEditorScriptingExtension_c.lua",
-      "size": 953,
-      "path": "mods_resources/mod_1787520167219/mapEditorScriptingExtension_c.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/mapEditorScriptingExtension_c.lua"
-    },
-    {
-      "name": "mapEditorScriptingExtension_s.lua",
-      "size": 24245,
-      "path": "mods_resources/mod_1787520167219/mapEditorScriptingExtension_s.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/mapEditorScriptingExtension_s.lua"
-    },
-    {
-      "name": "meta.json",
-      "size": 98,
-      "path": "mods_resources/mod_1787520167219/meta.json",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/meta.json"
-    },
-    {
-      "name": "meta.xml",
-      "size": 1672,
-      "path": "mods_resources/mod_1787520167219/meta.xml",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787520167219/meta.xml"
-    },
-    {
-      "name": "([-L.e.i.a-]).txt",
-      "size": 167,
-      "path": "mods_resources/mod_1787526430044/([-L.e.i.a-]).txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/([-L.e.i.a-]).txt"
-    },
-    {
-      "name": "Base-BOPE.map",
-      "size": 132935,
-      "path": "mods_resources/mod_1787526430044/Base-BOPE.map",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/Base-BOPE.map"
-    },
-    {
-      "name": "MrGamer1.luac",
-      "size": 1698,
-      "path": "mods_resources/mod_1787526430044/MrGamer1.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer1.luac"
-    },
-    {
-      "name": "MrGamer10.luac",
-      "size": 6927,
-      "path": "mods_resources/mod_1787526430044/MrGamer10.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer10.luac"
-    },
-    {
-      "name": "MrGamer11.lua",
-      "size": 6630,
-      "path": "mods_resources/mod_1787526430044/MrGamer11.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer11.lua"
-    },
-    {
-      "name": "MrGamer12.luac",
-      "size": 323,
-      "path": "mods_resources/mod_1787526430044/MrGamer12.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer12.luac"
-    },
-    {
-      "name": "MrGamer13.luac",
-      "size": 2467,
-      "path": "mods_resources/mod_1787526430044/MrGamer13.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer13.luac"
-    },
-    {
-      "name": "MrGamer14.luac",
-      "size": 1195,
-      "path": "mods_resources/mod_1787526430044/MrGamer14.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer14.luac"
-    },
-    {
-      "name": "MrGamer2.luac",
-      "size": 1137,
-      "path": "mods_resources/mod_1787526430044/MrGamer2.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer2.luac"
-    },
-    {
-      "name": "MrGamer3.luac",
-      "size": 809,
-      "path": "mods_resources/mod_1787526430044/MrGamer3.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer3.luac"
-    },
-    {
-      "name": "MrGamer4.luac",
-      "size": 1014,
-      "path": "mods_resources/mod_1787526430044/MrGamer4.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer4.luac"
-    },
-    {
-      "name": "MrGamer5.luac",
-      "size": 3022,
-      "path": "mods_resources/mod_1787526430044/MrGamer5.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer5.luac"
-    },
-    {
-      "name": "MrGamer6.luac",
-      "size": 2009,
-      "path": "mods_resources/mod_1787526430044/MrGamer6.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer6.luac"
-    },
-    {
-      "name": "MrGamer7.luac",
-      "size": 688,
-      "path": "mods_resources/mod_1787526430044/MrGamer7.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer7.luac"
-    },
-    {
-      "name": "MrGamer8.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787526430044/MrGamer8.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer8.luac"
-    },
-    {
-      "name": "MrGamer9.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787526430044/MrGamer9.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/MrGamer9.luac"
-    },
-    {
-      "name": "MrGamer.txd",
-      "size": 421288,
-      "path": "mods_resources/mod_1787526430044/data/MrGamer.txd",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/data/MrGamer.txd"
-    },
-    {
-      "name": "font4.ttf",
-      "size": 175068,
-      "path": "mods_resources/mod_1787526430044/gfx/font4.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/gfx/font4.ttf"
-    },
-    {
-      "name": "mapEditorScriptingExtension_c.lua",
-      "size": 953,
-      "path": "mods_resources/mod_1787526430044/mapEditorScriptingExtension_c.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/mapEditorScriptingExtension_c.lua"
-    },
-    {
-      "name": "mapEditorScriptingExtension_s.lua",
-      "size": 24245,
-      "path": "mods_resources/mod_1787526430044/mapEditorScriptingExtension_s.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/mapEditorScriptingExtension_s.lua"
-    },
-    {
-      "name": "meta.json",
-      "size": 98,
-      "path": "mods_resources/mod_1787526430044/meta.json",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/meta.json"
-    },
-    {
-      "name": "meta.xml",
-      "size": 1672,
-      "path": "mods_resources/mod_1787526430044/meta.xml",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787526430044/meta.xml"
-    },
-    {
-      "name": "([-L.e.i.a-]).txt",
-      "size": 167,
-      "path": "mods_resources/mod_1787527752603/([-L.e.i.a-]).txt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/([-L.e.i.a-]).txt"
-    },
-    {
-      "name": "Base-BOPE.map",
-      "size": 132935,
-      "path": "mods_resources/mod_1787527752603/Base-BOPE.map",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/Base-BOPE.map"
-    },
-    {
-      "name": "MrGamer1.luac",
-      "size": 1698,
-      "path": "mods_resources/mod_1787527752603/MrGamer1.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer1.luac"
-    },
-    {
-      "name": "MrGamer10.luac",
-      "size": 6927,
-      "path": "mods_resources/mod_1787527752603/MrGamer10.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer10.luac"
-    },
-    {
-      "name": "MrGamer11.lua",
-      "size": 6630,
-      "path": "mods_resources/mod_1787527752603/MrGamer11.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer11.lua"
-    },
-    {
-      "name": "MrGamer12.luac",
-      "size": 323,
-      "path": "mods_resources/mod_1787527752603/MrGamer12.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer12.luac"
-    },
-    {
-      "name": "MrGamer13.luac",
-      "size": 2467,
-      "path": "mods_resources/mod_1787527752603/MrGamer13.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer13.luac"
-    },
-    {
-      "name": "MrGamer14.luac",
-      "size": 1195,
-      "path": "mods_resources/mod_1787527752603/MrGamer14.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer14.luac"
-    },
-    {
-      "name": "MrGamer2.luac",
-      "size": 1137,
-      "path": "mods_resources/mod_1787527752603/MrGamer2.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer2.luac"
-    },
-    {
-      "name": "MrGamer3.luac",
-      "size": 809,
-      "path": "mods_resources/mod_1787527752603/MrGamer3.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer3.luac"
-    },
-    {
-      "name": "MrGamer4.luac",
-      "size": 1014,
-      "path": "mods_resources/mod_1787527752603/MrGamer4.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer4.luac"
-    },
-    {
-      "name": "MrGamer5.luac",
-      "size": 3022,
-      "path": "mods_resources/mod_1787527752603/MrGamer5.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer5.luac"
-    },
-    {
-      "name": "MrGamer6.luac",
-      "size": 2009,
-      "path": "mods_resources/mod_1787527752603/MrGamer6.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer6.luac"
-    },
-    {
-      "name": "MrGamer7.luac",
-      "size": 688,
-      "path": "mods_resources/mod_1787527752603/MrGamer7.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer7.luac"
-    },
-    {
-      "name": "MrGamer8.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787527752603/MrGamer8.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer8.luac"
-    },
-    {
-      "name": "MrGamer9.luac",
-      "size": 944,
-      "path": "mods_resources/mod_1787527752603/MrGamer9.luac",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/MrGamer9.luac"
-    },
-    {
-      "name": "MrGamer.txd",
-      "size": 421288,
-      "path": "mods_resources/mod_1787527752603/data/MrGamer.txd",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/data/MrGamer.txd"
-    },
-    {
-      "name": "font4.ttf",
-      "size": 175068,
-      "path": "mods_resources/mod_1787527752603/gfx/font4.ttf",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/gfx/font4.ttf"
-    },
-    {
-      "name": "mapEditorScriptingExtension_c.lua",
-      "size": 953,
-      "path": "mods_resources/mod_1787527752603/mapEditorScriptingExtension_c.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/mapEditorScriptingExtension_c.lua"
-    },
-    {
-      "name": "mapEditorScriptingExtension_s.lua",
-      "size": 24245,
-      "path": "mods_resources/mod_1787527752603/mapEditorScriptingExtension_s.lua",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/mapEditorScriptingExtension_s.lua"
-    },
-    {
-      "name": "meta.json",
-      "size": 98,
-      "path": "mods_resources/mod_1787527752603/meta.json",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/meta.json"
-    },
-    {
-      "name": "meta.xml",
-      "size": 1672,
-      "path": "mods_resources/mod_1787527752603/meta.xml",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/mods_resources/mod_1787527752603/meta.xml"
-    },
-    {
       "name": "stream.ini",
-      "size": 186,
+      "size": 197,
       "path": "stream.ini",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/stream.ini"
     },
@@ -2402,13 +1538,13 @@
     },
     {
       "name": "gta3.dxt.dat",
-      "size": 185612604,
+      "size": 180880996,
       "path": "texdb/gta3/gta3.dxt.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.dxt.dat"
     },
     {
       "name": "gta3.dxt.tmb",
-      "size": 525628,
+      "size": 511468,
       "path": "texdb/gta3/gta3.dxt.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.dxt.tmb"
     },
@@ -2420,13 +1556,13 @@
     },
     {
       "name": "gta3.etc.dat",
-      "size": 186027348,
+      "size": 181294952,
       "path": "texdb/gta3/gta3.etc.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.etc.dat"
     },
     {
       "name": "gta3.etc.tmb",
-      "size": 575740,
+      "size": 561580,
       "path": "texdb/gta3/gta3.etc.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.etc.tmb"
     },
@@ -2438,13 +1574,13 @@
     },
     {
       "name": "gta3.pvr.dat",
-      "size": 115529706,
+      "size": 110775162,
       "path": "texdb/gta3/gta3.pvr.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.pvr.dat"
     },
     {
       "name": "gta3.pvr.tmb",
-      "size": 794588,
+      "size": 780524,
       "path": "texdb/gta3/gta3.pvr.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.pvr.tmb"
     },
@@ -2455,76 +1591,58 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.pvr.toc"
     },
     {
+      "name": "gta3.renomear.dat",
+      "size": 185725552,
+      "path": "texdb/gta3/gta3.renomear.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.renomear.dat"
+    },
+    {
+      "name": "gta3.renomear.tmb",
+      "size": 575452,
+      "path": "texdb/gta3/gta3.renomear.tmb",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.renomear.tmb"
+    },
+    {
+      "name": "gta3.renomear.toc",
+      "size": 49784,
+      "path": "texdb/gta3/gta3.renomear.toc",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.renomear.toc"
+    },
+    {
       "name": "gta3.txt",
-      "size": 792600,
+      "size": 790375,
       "path": "texdb/gta3/gta3.txt",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.txt"
     },
     {
       "name": "gta3.unc.tmb",
-      "size": 1457596,
+      "size": 1475372,
       "path": "texdb/gta3/gta3.unc.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3/gta3.unc.tmb"
     },
     {
       "name": "gta3.img",
-      "size": 283521024,
+      "size": 301584384,
       "path": "texdb/gta3.img",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta3.img"
     },
     {
-      "name": "gta_int.dxt.dat",
-      "size": 13592262,
-      "path": "texdb/gta_int/gta_int.dxt.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.dxt.dat"
-    },
-    {
-      "name": "gta_int.dxt.tmb",
-      "size": 663408,
-      "path": "texdb/gta_int/gta_int.dxt.tmb",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.dxt.tmb"
-    },
-    {
-      "name": "gta_int.dxt.toc",
-      "size": 10132,
-      "path": "texdb/gta_int/gta_int.dxt.toc",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.dxt.toc"
-    },
-    {
-      "name": "gta_int.etc.dat",
+      "name": "gta_int.renomear.dat",
       "size": 21742444,
-      "path": "texdb/gta_int/gta_int.etc.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.etc.dat"
+      "path": "texdb/gta_int/gta_int.renomear.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.renomear.dat"
     },
     {
-      "name": "gta_int.etc.tmb",
+      "name": "gta_int.renomear.tmb",
       "size": 663408,
-      "path": "texdb/gta_int/gta_int.etc.tmb",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.etc.tmb"
+      "path": "texdb/gta_int/gta_int.renomear.tmb",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.renomear.tmb"
     },
     {
-      "name": "gta_int.etc.toc",
+      "name": "gta_int.renomear.toc",
       "size": 10132,
-      "path": "texdb/gta_int/gta_int.etc.toc",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.etc.toc"
-    },
-    {
-      "name": "gta_int.pvr.dat",
-      "size": 9466002,
-      "path": "texdb/gta_int/gta_int.pvr.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.pvr.dat"
-    },
-    {
-      "name": "gta_int.pvr.tmb",
-      "size": 663408,
-      "path": "texdb/gta_int/gta_int.pvr.tmb",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.pvr.tmb"
-    },
-    {
-      "name": "gta_int.pvr.toc",
-      "size": 10132,
-      "path": "texdb/gta_int/gta_int.pvr.toc",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.pvr.toc"
+      "path": "texdb/gta_int/gta_int.renomear.toc",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/gta_int/gta_int.renomear.toc"
     },
     {
       "name": "gta_int.txt",
@@ -2612,67 +1730,73 @@
     },
     {
       "name": "mobile.dxt.dat",
-      "size": 7267946,
+      "size": 11807794,
       "path": "texdb/mobile/mobile.dxt.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.dxt.dat"
     },
     {
       "name": "mobile.dxt.tmb",
-      "size": 3940,
+      "size": 32728,
       "path": "texdb/mobile/mobile.dxt.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.dxt.tmb"
     },
     {
       "name": "mobile.dxt.toc",
-      "size": 792,
+      "size": 796,
       "path": "texdb/mobile/mobile.dxt.toc",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.dxt.toc"
     },
     {
       "name": "mobile.etc.dat",
-      "size": 7267946,
+      "size": 12907218,
       "path": "texdb/mobile/mobile.etc.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.etc.dat"
     },
     {
       "name": "mobile.etc.tmb",
-      "size": 3940,
+      "size": 32728,
       "path": "texdb/mobile/mobile.etc.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.etc.tmb"
     },
     {
       "name": "mobile.etc.toc",
-      "size": 792,
+      "size": 796,
       "path": "texdb/mobile/mobile.etc.toc",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.etc.toc"
     },
     {
+      "name": "mobile.pvr.dat",
+      "size": 12907218,
+      "path": "texdb/mobile/mobile.pvr.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.pvr.dat"
+    },
+    {
+      "name": "mobile.pvr.tmb",
+      "size": 32728,
+      "path": "texdb/mobile/mobile.pvr.tmb",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.pvr.tmb"
+    },
+    {
+      "name": "mobile.pvr.toc",
+      "size": 796,
+      "path": "texdb/mobile/mobile.pvr.toc",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.pvr.toc"
+    },
+    {
       "name": "mobile.txt",
-      "size": 14502,
+      "size": 12844,
       "path": "texdb/mobile/mobile.txt",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.txt"
     },
     {
-      "name": "player.dxt.dat",
-      "size": 6569414,
-      "path": "texdb/player/player.dxt.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/player/player.dxt.dat"
-    },
-    {
-      "name": "player.dxt.tmb",
-      "size": 6940,
-      "path": "texdb/player/player.dxt.tmb",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/player/player.dxt.tmb"
-    },
-    {
-      "name": "player.dxt.toc",
-      "size": 1580,
-      "path": "texdb/player/player.dxt.toc",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/player/player.dxt.toc"
+      "name": "mobile.unc.tmb",
+      "size": 33496,
+      "path": "texdb/mobile/mobile.unc.tmb",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/mobile/mobile.unc.tmb"
     },
     {
       "name": "player.pvr.dat",
-      "size": 6743446,
+      "size": 6569414,
       "path": "texdb/player/player.pvr.dat",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/player/player.pvr.dat"
     },
@@ -2699,6 +1823,30 @@
       "size": 16412672,
       "path": "texdb/player.img",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/player.img"
+    },
+    {
+      "name": "playerhi.pvr.dat",
+      "size": 27658902,
+      "path": "texdb/playerhi/playerhi.pvr.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/playerhi/playerhi.pvr.dat"
+    },
+    {
+      "name": "playerhi.pvr.tmb",
+      "size": 6940,
+      "path": "texdb/playerhi/playerhi.pvr.tmb",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/playerhi/playerhi.pvr.tmb"
+    },
+    {
+      "name": "playerhi.pvr.toc",
+      "size": 1580,
+      "path": "texdb/playerhi/playerhi.pvr.toc",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/playerhi/playerhi.pvr.toc"
+    },
+    {
+      "name": "playerhi.txt",
+      "size": 28087,
+      "path": "texdb/playerhi/playerhi.txt",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/playerhi/playerhi.txt"
     },
     {
       "name": "samp.dxt.dat",
@@ -2737,14 +1885,20 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/samp/samp.etc.toc"
     },
     {
+      "name": "samp.pvr.dat",
+      "size": 13894248,
+      "path": "texdb/samp/samp.pvr.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/samp/samp.pvr.dat"
+    },
+    {
       "name": "samp.pvr.tmb",
-      "size": 0,
+      "size": 21376,
       "path": "texdb/samp/samp.pvr.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/samp/samp.pvr.tmb"
     },
     {
       "name": "samp.pvr.toc",
-      "size": 0,
+      "size": 6176,
       "path": "texdb/samp/samp.pvr.toc",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/samp/samp.pvr.toc"
     },
@@ -2774,7 +1928,7 @@
     },
     {
       "name": "samp.img",
-      "size": 36939776,
+      "size": 36902912,
       "path": "texdb/samp.img",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/samp.img"
     },
@@ -2797,172 +1951,34 @@
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.360.toc"
     },
     {
-      "name": "txd.dxt.dat",
-      "size": 8357656,
-      "path": "texdb/txd/txd.dxt.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.dxt.dat"
+      "name": "txd.renomear.dat",
+      "size": 9422056,
+      "path": "texdb/txd/txd.renomear.dat",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.renomear.dat"
     },
     {
-      "name": "txd.dxt.tmb",
-      "size": 32064,
-      "path": "texdb/txd/txd.dxt.tmb",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.dxt.tmb"
+      "name": "txd.renomear.tmb",
+      "size": 49460,
+      "path": "texdb/txd/txd.renomear.tmb",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.renomear.tmb"
     },
     {
-      "name": "txd.dxt.toc",
-      "size": 2412,
-      "path": "texdb/txd/txd.dxt.toc",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.dxt.toc"
-    },
-    {
-      "name": "txd.etc.dat",
-      "size": 10153734,
-      "path": "texdb/txd/txd.etc.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.etc.dat"
-    },
-    {
-      "name": "txd.etc.tmb",
-      "size": 50496,
-      "path": "texdb/txd/txd.etc.tmb",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.etc.tmb"
-    },
-    {
-      "name": "txd.etc.toc",
-      "size": 2412,
-      "path": "texdb/txd/txd.etc.toc",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.etc.toc"
-    },
-    {
-      "name": "txd.pvr.dat",
-      "size": 8448558,
-      "path": "texdb/txd/txd.pvr.dat",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.pvr.dat"
-    },
-    {
-      "name": "txd.pvr.tmb",
-      "size": 26240,
-      "path": "texdb/txd/txd.pvr.tmb",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.pvr.tmb"
-    },
-    {
-      "name": "txd.pvr.toc",
-      "size": 2412,
-      "path": "texdb/txd/txd.pvr.toc",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.pvr.toc"
+      "name": "txd.renomear.toc",
+      "size": 2376,
+      "path": "texdb/txd/txd.renomear.toc",
+      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.renomear.toc"
     },
     {
       "name": "txd.txt",
-      "size": 43736,
+      "size": 43193,
       "path": "texdb/txd/txd.txt",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.txt"
     },
     {
       "name": "txd.unc.tmb",
-      "size": 62336,
+      "size": 59636,
       "path": "texdb/txd/txd.unc.tmb",
       "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/texdb/txd/txd.unc.tmb"
-    },
-    {
-      "name": "american.alp",
-      "size": 149161,
-      "path": "text/american.alp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/american.alp"
-    },
-    {
-      "name": "american.gxt",
-      "size": 1339460,
-      "path": "text/american.gxt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/american.gxt"
-    },
-    {
-      "name": "french.alp",
-      "size": 149071,
-      "path": "text/french.alp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/french.alp"
-    },
-    {
-      "name": "french.gxt",
-      "size": 1459148,
-      "path": "text/french.gxt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/french.gxt"
-    },
-    {
-      "name": "german.alp",
-      "size": 149071,
-      "path": "text/german.alp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/german.alp"
-    },
-    {
-      "name": "german.gxt",
-      "size": 1497194,
-      "path": "text/german.gxt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/german.gxt"
-    },
-    {
-      "name": "italian.alp",
-      "size": 149071,
-      "path": "text/italian.alp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/italian.alp"
-    },
-    {
-      "name": "italian.gxt",
-      "size": 1371108,
-      "path": "text/italian.gxt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/italian.gxt"
-    },
-    {
-      "name": "japanese.alp",
-      "size": 147587,
-      "path": "text/japanese.alp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/japanese.alp"
-    },
-    {
-      "name": "japanese.gxt",
-      "size": 643358,
-      "path": "text/japanese.gxt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/japanese.gxt"
-    },
-    {
-      "name": "russian.alp",
-      "size": 147587,
-      "path": "text/russian.alp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/russian.alp"
-    },
-    {
-      "name": "russian.gxt",
-      "size": 1421266,
-      "path": "text/russian.gxt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/russian.gxt"
-    },
-    {
-      "name": "spanish.alp",
-      "size": 149071,
-      "path": "text/spanish.alp",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/spanish.alp"
-    },
-    {
-      "name": "spanish.gxt",
-      "size": 1386844,
-      "path": "text/spanish.gxt",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/text/spanish.gxt"
-    },
-    {
-      "name": "JapaneseFont.met",
-      "size": 45171,
-      "path": "textures/fonts/JapaneseFont.met",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/textures/fonts/JapaneseFont.met"
-    },
-    {
-      "name": "RussianFont.met",
-      "size": 4279,
-      "path": "textures/fonts/RussianFont.met",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/textures/fonts/RussianFont.met"
-    },
-    {
-      "name": "koreanfont.met",
-      "size": 28570,
-      "path": "textures/fonts/koreanfont.met",
-      "url": "https://media.githubusercontent.com/media/deividga84/VISAO-SP/main/data-full/files/textures/fonts/koreanfont.met"
     }
   ]
 }
